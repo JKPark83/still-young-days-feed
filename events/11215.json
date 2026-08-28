@@ -1,0 +1,37 @@
+{
+ "schemaVersion": 1,
+ "regionCode": "11215",
+ "generatedAt": "2026-08-28T15:46:00Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:seoul-013:18",
+   "title": "자양노인복지관 홈페이지 회원가입 및 수강신청 방법 안내",
+   "place": "자양노인복지관",
+   "address": null,
+   "phone": "02-6218-8500",
+   "org": "자양노인복지관",
+   "description": "ad5a8434236bdaaa22cf6249bd8d1a08_1746684417_311.jpg ad5a8434236bdaaa22cf6249bd8d1a08_1746684429_7729.jpg ad5a8434236bdaaa22cf6249bd8d1a08_1746684432_9941.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://jayangnoin.or.kr/bbs/board.php?bo_table=0501&wr_id=18&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-013:98",
+   "title": "2026년 2학기 평생교육 및 취미여가 수업 신청 결과 발표!!!!",
+   "place": "자양노인복지관",
+   "address": null,
+   "phone": "02-6218-8500",
+   "org": "자양노인복지관",
+   "description": "27088688b5abed9361888171ebccf3e7_1782726424_278.png ff4e2a87466c1ea2e68920c54be9ddee_1782868638_9694.jpg ff4e2a87466c1ea2e68920c54be9ddee_1782868639_3665.jpg ff4e2a87466c1ea2e68920c54be9ddee_17828686…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://jayangnoin.or.kr/bbs/board.php?bo_table=0501&wr_id=98&page=1"
+  }
+ ]
+}

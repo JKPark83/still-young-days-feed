@@ -1,0 +1,350 @@
+{
+ "schemaVersion": 1,
+ "generatedAt": "2026-08-28T15:46:00Z",
+ "regions": {
+  "26110": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "26140": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26170": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26200": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "26230": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26260": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "26290": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26320": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "26350": {
+   "centersTotal": 3,
+   "centersCovered": 0
+  },
+  "26380": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26410": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "26440": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26470": {
+   "centersTotal": 2,
+   "centersCovered": 1
+  },
+  "26500": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "26530": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "26710": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "11110": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "11140": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "11170": {
+   "centersTotal": 2,
+   "centersCovered": 1
+  },
+  "11200": {
+   "centersTotal": 6,
+   "centersCovered": 0
+  },
+  "11215": {
+   "centersTotal": 2,
+   "centersCovered": 1
+  },
+  "11230": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "11260": {
+   "centersTotal": 5,
+   "centersCovered": 0
+  },
+  "11290": {
+   "centersTotal": 6,
+   "centersCovered": 0
+  },
+  "11305": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "11320": {
+   "centersTotal": 5,
+   "centersCovered": 0
+  },
+  "11350": {
+   "centersTotal": 4,
+   "centersCovered": 1
+  },
+  "11380": {
+   "centersTotal": 6,
+   "centersCovered": 1
+  },
+  "11410": {
+   "centersTotal": 2,
+   "centersCovered": 1
+  },
+  "11440": {
+   "centersTotal": 4,
+   "centersCovered": 0
+  },
+  "11470": {
+   "centersTotal": 3,
+   "centersCovered": 0
+  },
+  "11500": {
+   "centersTotal": 5,
+   "centersCovered": 2
+  },
+  "11530": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "11545": {
+   "centersTotal": 2,
+   "centersCovered": 1
+  },
+  "11560": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "11590": {
+   "centersTotal": 3,
+   "centersCovered": 1
+  },
+  "11620": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "11650": {
+   "centersTotal": 6,
+   "centersCovered": 1
+  },
+  "11680": {
+   "centersTotal": 6,
+   "centersCovered": 0
+  },
+  "11710": {
+   "centersTotal": 4,
+   "centersCovered": 0
+  },
+  "11740": {
+   "centersTotal": 3,
+   "centersCovered": 0
+  },
+  "41113": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41115": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41111": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41117": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41461": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41463": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41465": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41281": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41285": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41287": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41597": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41591": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41595": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41131": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41133": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41135": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41192": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41194": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41196": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41360": {
+   "centersTotal": 4,
+   "centersCovered": 0
+  },
+  "41271": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41273": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41220": {
+   "centersTotal": 4,
+   "centersCovered": 3
+  },
+  "41173": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41390": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41480": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41570": {
+   "centersTotal": 2,
+   "centersCovered": 1
+  },
+  "41150": {
+   "centersTotal": 3,
+   "centersCovered": 0
+  },
+  "41610": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41450": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41210": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41410": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41630": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41370": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41500": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41550": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41310": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41430": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41650": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41830": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41670": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41250": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41290": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  },
+  "41820": {
+   "centersTotal": 2,
+   "centersCovered": 0
+  },
+  "41800": {
+   "centersTotal": 1,
+   "centersCovered": 0
+  }
+ }
+}

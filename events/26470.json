@@ -1,0 +1,82 @@
+{
+ "schemaVersion": 1,
+ "regionCode": "26470",
+ "generatedAt": "2026-08-28T15:46:00Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-021:1579",
+   "title": "모집",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "20284b492839c8ad2f1ef8c286e2343a_1780984341_5722.JPG 20284b492839c8ad2f1ef8c286e2343a_1780984382_8756.JPG 20284b492839c8ad2f1ef8c286e2343a_1780984410_6064.JPG 20284b492839c8ad2f1ef8c286e2343a_1780984…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1579&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1596",
+   "title": "공지",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "​ 자세한 내용은 첨부파일을 확인해 주시기 바랍니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1596&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1598",
+   "title": "언론보도",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "88edad7117a40984998ead9e60cf3b9c_1787035247_7058.png 부산광역시노인종합복지관, 말복 맞아 어르신 500명에 보양식…“건강한 여름나기 응원” < 복지관 < 사회단체 < 기사본문 - 복지TV부울경방송",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1598&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1597",
+   "title": "언론보도",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "88edad7117a40984998ead9e60cf3b9c_1787035057_9832.png ‘마음을 담은 보양식’… 부산노인종합복지관, 어르신 500명에 따뜻한 한 끼",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1597&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1599",
+   "title": "언론보도",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "2f10573cf303f8cc7253b2c6e1f640dd_1787268836_1763.png 출처: WBC복지TV( 복지TV부울경방송 )",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1599&page=1"
+  }
+ ]
+}
