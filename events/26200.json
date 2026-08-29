@@ -1,6 +1,52 @@
 {
  "schemaVersion": 1,
  "regionCode": "26200",
- "generatedAt": "2026-08-28T15:46:00Z",
- "items": []
+ "generatedAt": "2026-08-29T02:25:24Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "[알림/본관] 스마트노인복합문화공간 영도구노인복지관",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "이미지 대체문구를 입력하세요",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjX0tz0f2qKjxyVjMjxvusw1tzWLhvJnwqKjxyVjMj4Kto20tB152x3vwA2zspKXwzPzwELTMj9uwBH5wELTMjLnwA09MBFD1u9qusKjxyVjMj9u3zM0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "[공고/본관] 2026년 노인일자리 공동체사업단(카페희망역) 7월 사업추진현황 정보공개",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "공고 제2026-046 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsm1iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "2026년 제6회 영도구노인복지관 백일장 영도구 어르신 글솜씨 뽐내기 대회",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "제2026-049호 이미지 대체문구를 입력하세요 어르신들의 많은 관심과 참여 부탁드립니다!",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzso1iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }

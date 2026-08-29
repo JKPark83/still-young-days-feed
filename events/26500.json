@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "26500",
- "generatedAt": "2026-08-28T15:46:00Z",
- "items": []
+ "generatedAt": "2026-08-29T02:25:24Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-023:view.php",
+   "title": "(공지)복지관회원카드 교체요청안내",
+   "place": "수영구노인복지관",
+   "address": null,
+   "phone": "051-759-6070",
+   "org": "수영구노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://6070.bulgukto.or.kr/SW_bbs/notice/view.php?zipEncode=90wDU9vEU9wBLjxzJzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzcmZiZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }

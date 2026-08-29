@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-08-28T15:46:00Z",
+ "generatedAt": "2026-08-29T02:25:24Z",
  "items": [
   {
    "type": "event",
@@ -152,21 +152,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1432",
-   "title": "공지 | 2026년 2학기 교육문화 프로그램 신규강사 모집",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "c1e2008ed2560811b8afe0ed32f9eac8_1785282006_4709.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1432&page=1"
   },
   {
    "type": "event",

@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "26110",
- "generatedAt": "2026-08-28T15:46:00Z",
- "items": []
+ "generatedAt": "2026-08-29T02:25:24Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-001:view.php",
+   "title": "2026년 노인자원봉사 활성화 지원사업 스마트 백신 봉사단과 함께하는 재미나이(AI) 활용교육 참여자 모집",
+   "place": "중구노인복지관",
+   "address": null,
+   "phone": "051-241-2591",
+   "org": "중구노인복지관",
+   "description": "이미지 대체문구를 입력하세요",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.junggusilver.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsm3etm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }

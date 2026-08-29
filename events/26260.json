@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "26260",
- "generatedAt": "2026-08-28T15:46:00Z",
- "items": []
+ "generatedAt": "2026-08-29T02:25:24Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-009:view.php",
+   "title": "2026년 훌라 동아리 '훌라공연활동' 공연 접수",
+   "place": "동래구노인복지관",
+   "address": null,
+   "phone": "051-554-6252",
+   "org": "동래구노인복지관",
+   "description": "이미지 대체문구를 입력하세요 동래구노인복지관에서는 어르신들이 훌라를 배워 『 알로하 봉사단 』 을 운영하고 있습니다 . 어르신들이 지역 내 복지관, 장애시설, 주간보호센터, 요양원 등 방문하여 훌라 공연을 진행하고자 하오니 , 수요처의 많은 관심과 신청 부탁드리겠습니다 :) ○ 공 연 곡: 단체 스트레칭 운동, 그대 없이는 못살아, 꽃, 진주조개잡이, T…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.dnswc.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzso5Ctm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }
