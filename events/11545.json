@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-08-29T21:49:57Z",
+ "generatedAt": "2026-08-30T22:13:58Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=715&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-059:1396",
-   "title": "2026년도 금천노인종합복지관 상반기 후원금(품) 수입 지출 보고",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "금천노인종합복지관 2026년 상반기 수입 및 지출 보고를 드립니다. 금천노인종합복지관에 관심과 사랑으로 함께해주신 모든 분들께 감사드립니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1396&page=1"
   },
   {
    "type": "event",

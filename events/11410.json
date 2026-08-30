@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11410",
- "generatedAt": "2026-08-29T21:49:57Z",
+ "generatedAt": "2026-08-30T22:13:58Z",
  "items": [
   {
    "type": "event",
@@ -77,21 +77,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=335&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-044:333",
-   "title": "2026년 사회교육사업 라인댄스 강사 채용 공고(마감)",
-   "place": "연희노인복지관",
-   "address": null,
-   "phone": "02-3143-7778",
-   "org": "연희노인복지관",
-   "description": "연희노인복지관 라인댄스 강사 채용 공고 사회복지법인 동방사회복지회에서 운영하고 있는 서대문 구립 연희노인복지관에서는 “ 건강한 노인 ! 활기찬 노후 ! 행복한 노년 !” 을 실현하기 위해 자부심과 열정을 가지고 함께 할 인재를 아래와 같이 모집하오니 많은 관심과 응시 바랍니다 . ▣ 모집 분야 - 직 무 : 노년사회교육프로그램 “ 라인댄스 ” 강사 ( 계…",
-   "eventDate": "2026-09-07",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=333&page=1"
   }
  ]
 }
