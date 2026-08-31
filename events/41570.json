@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4076&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4260",
-   "title": "2026년 8월 복지관 행사일정표",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "662230448_1785499711.5304.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4260&page=1"
   },
   {
    "type": "event",

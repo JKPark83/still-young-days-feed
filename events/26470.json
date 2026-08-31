@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26470",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -77,6 +77,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1599&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1600",
+   "title": "공지",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "080f4f8f3d7cde6a889123c02609576f_1788144584_4194.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1600&page=1"
   }
  ]
 }

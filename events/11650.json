@@ -1,38 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:182",
-   "title": "[카드뉴스] 내 집 앞 복지, 서초시니어라운지(8월 특강 안내+AI운동돌봄 서비스 체험 안내)",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "1028816409_1785486032.0176.jpg 1028816409_1785486035.7096.jpg 1028816409_1785486041.6584.jpg 1028816409_1785486044.3036.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=182&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-071:181",
-   "title": "[느티풀화요특강] 8월 느티풀화요특강 운영 안내",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆8월 느티풀화요특강 운영 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. <8월 느티풀화요특강 운영 안내> 1. 첫인상으로 리드하는 \"시니어 메이크업\" - 일시 : 8. 11.(화) 오후 3시 30분 ~ 5시 - 강사 : 한지수 교수(성신여자대학교 뷰티산업학과 학과장, 한국화장품미용학회 부회장) 2. 여름철 시니어 건강을…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=181&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:183",
@@ -152,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=194&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:197",
+   "title": "[카드뉴스] 내 집 앞 복지, 서초시니어라운지(9월 특강 및 서리풀 AI 학교 안내+계절학기 프로그램 운영 마무리 안내)",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "1028816409_1788156245.9843.jpg 1028816409_1788156251.5944.jpg 1028816409_1788156253.9423.jpg 1028816409_1788156260.115.jpg 1028816409_1788156262.4687.jpg 1028816409_1788156265.277.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=197&page=1"
   },
   {
    "type": "event",

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -77,6 +77,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2361&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-004:2364",
+   "title": "[권익증진] 유기 화분 수집 캠페인 '다시 피움 정원' 참여 안내",
+   "place": "용산노인종합복지관",
+   "address": null,
+   "phone": "02-794-6100",
+   "org": "용산노인종합복지관",
+   "description": "어르신, 안녕하세요. 용산노인종합복지관입니다! 우리 복지관에서는 재개발 등에 따른 어르신 가정 내 유기된(사용하지 않는) 화분을 새 활용하기 위한 캠페인을 진행합니다! 환경도 보호하고, 버려진 화분에 새 생명을 담아 마음의 위로가 필요한 이웃에게 나누어 주세요! 31394942_1788144999.4441.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2364&page=1"
   },
   {
    "type": "event",

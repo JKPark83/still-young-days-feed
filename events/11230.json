@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -61,7 +61,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=858"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=3&pageSize=10&search=0&serboardsort=&searchStr=&idx=858"
   },
   {
    "type": "event",
@@ -181,7 +181,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=888"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=888"
   },
   {
    "type": "event",
@@ -196,7 +196,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=887"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=887"
   },
   {
    "type": "event",
@@ -231,6 +231,21 @@
   {
    "type": "event",
    "id": "center:seoul-015:notice.asp",
+   "title": "[모집] 퇴행성 척추질환 바로알기 건강특강",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=909"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
    "title": "[모집] 미술심리 프로그램 '색으로 쓰는 마음일기' 참여자 모집",
    "place": "동백꽃노인종합복지관",
    "address": null,
@@ -257,6 +272,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=905"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "[안내] 서울특별시 동부병원과 함께하는 건강캠페인",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=910"
   }
  ]
 }

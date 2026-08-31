@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11500",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -272,6 +272,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.gangseosenior.or.kr/notice/2165?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-056:496",
+   "title": "9월 휴관 일정 안내",
+   "place": "곰달래어르신복지센터",
+   "address": null,
+   "phone": "02-2699-8264",
+   "org": "곰달래어르신복지센터",
+   "description": "3717702625_1788138620.2706.jpg 9월 휴관 안내입니다. 일정에 참고하시길 바랍니다. 감사합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.gomdallaeswc.or.kr/bbs/board.php?bo_table=0401&wr_id=496&page=1"
   }
  ]
 }

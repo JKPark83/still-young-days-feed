@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -107,6 +107,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260821140337978"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "4분기 정보화교육 수강 신청 안내",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "○ 교육기간 : 9/28(월) ~ 12/4(금) / 10주 ※ 자세한 내용은 아래 시간표 참고 ○ 신청기간: 9/14(월)~9/15(화), 9:30~15:00 - 방문 접수 : 본관(성곡동) 2층 사무실 - 온라인 접수 : QR코드 또는 링크를 통해 접수( https://forms.gle/cGGd8Gr9UqERVEgW9 ) ※온라인 9/14(월) 9:30…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260831111406156"
   },
   {
    "type": "event",

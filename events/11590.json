@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-08-30T22:13:58Z",
+ "generatedAt": "2026-08-31T23:22:57Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=549&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:550",
+   "title": "[사회교육] 출석체크 기기 설치 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "1893561742_1788167212.852.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=550&page=1"
   }
  ]
 }
