@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-08-31T23:22:57Z",
+ "generatedAt": "2026-09-01T22:04:43Z",
  "items": [
   {
    "type": "event",
@@ -272,6 +272,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127383?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:128410",
+   "title": "[보건/의료]안마서비스 명단 (9월10일(목),1조)",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "2026 년 9 월 10 일 ( 목요일 ) 안마 명단 (1 조 ) 1 시 30 분 2 시 10 분 2 시 50 분 1 김상숙 1 김순익 1 백정일 2 조홍래 2 김태술 2 정순주 3 배순자 3 김복순 3 홍순금 4 이진숙 4 조용순 4 박병순 5 이경자 5 정옥용 5 김영애 6 김도미자 6 박경옥 6 황순자 7 주덕자 7 임수복 7 이용임 ☞ 안마사 인원…",
+   "eventDate": "2026-09-10",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/128410?page=1"
   },
   {
    "type": "event",

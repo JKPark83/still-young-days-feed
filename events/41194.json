@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-08-31T23:22:57Z",
+ "generatedAt": "2026-09-01T22:04:43Z",
  "items": [
   {
    "type": "event",
@@ -92,6 +92,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260826095622351"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "[노년사회화교육사업] 2026년 4차 디지털정보화교실 수강생 모집",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260901093215038"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "[노년사회화교육사업] 2026년 3차 특별강좌 '자원재활용교육' 참여자 모집",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260901093111579"
   },
   {
    "type": "event",

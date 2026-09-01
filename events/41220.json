@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-08-31T23:22:57Z",
+ "generatedAt": "2026-09-01T22:04:43Z",
  "items": [
   {
    "type": "event",
@@ -35,36 +35,6 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-036:273",
-   "title": "2025년 7월 팽성노인주간보호센터 업무추진비 집행내역 공개",
-   "place": "평택팽성노인복지관",
-   "address": null,
-   "phone": "031-650-2621",
-   "org": "평택팽성노인복지관",
-   "description": "팽성노인주간보호센터에서는 세출예산 집행기준에 따른 2 025년 7월 팽성노인주간보호센터 업무추진비 집행내역을 공개합니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=273&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-036:272",
-   "title": "2025년 평택팽성노인복지관 7월 업무추진비 집행내역 공개",
-   "place": "평택팽성노인복지관",
-   "address": null,
-   "phone": "031-650-2621",
-   "org": "평택팽성노인복지관",
-   "description": "평택팽성노인복지관에서는 세출예산 집행기준에 따른 2 025년 7월 평택팽성노인복지관 업무추진비 집행내역을 공개합니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=272&page=1"
-  },
-  {
-   "type": "event",
    "id": "center:gyeonggi-036:275",
    "title": "폐장난감 순환 프로젝트 \"다시 피어나는 지구\"",
    "place": "평택팽성노인복지관",
@@ -77,6 +47,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=275&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-036:276",
+   "title": "2025년 평택팽성노인복지관 8월 업무추진비 집행내역 공개",
+   "place": "평택팽성노인복지관",
+   "address": null,
+   "phone": "031-650-2621",
+   "org": "평택팽성노인복지관",
+   "description": "평택팽성노인복지관에서는 세출예산 집행기준에 따른 2 025년 8월 평택팽성노인복지관 업무추진비 집행내역을 공개합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=276&page=1"
   },
   {
    "type": "event",
@@ -332,6 +317,66 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ptsenior.or.kr/notice/1172?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1445",
+   "title": "공지 | 2026년 한가위 행사 안내 '한가위? 흥가위!'",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "많은 관심 부탁드립니다!",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1445&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1444",
+   "title": "정보공개 | 2026년 7월 수의계약 내역 공개 건",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "지방자치단체를 당사자로 하는 법률 시행령 제31조에 의거하여 평택서부노인복지관에서는 2026년 7월 수의계약 내역을 붙임과 같이 공개합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1444&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1443",
+   "title": "정보공개 | 2026년 7월 업무추진비 집행내역 게시",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "2026년 7월 평택서부노인복지관 업무추진비 집행내역은 없습니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1443&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-036:309",
+   "title": "2026년 평택팽성노인복지관 3차 운영위원회 결과 공시",
+   "place": "평택팽성노인복지관",
+   "address": null,
+   "phone": "031-650-2621",
+   "org": "평택팽성노인복지관",
+   "description": "2026년 평택팽성노인복지관 3차 운영위원회 결과를 공시합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=309&page=1"
   }
  ]
 }

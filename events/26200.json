@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26200",
- "generatedAt": "2026-08-31T23:22:57Z",
+ "generatedAt": "2026-09-01T22:04:43Z",
  "items": [
   {
    "type": "event",
@@ -47,6 +47,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzso1iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "[공고/본관] 2026년 노년사회화교육사업 4분기 프로그램 접수",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "[ 공고 제 2026-051] <2026 년 4 분기 영도구노인복지관 노년사회화교육사업 프로그램 접수 > 영도구노인복지관에서는 2026 년 4 분기 노년사회화교육 프로그램 접수를 아래와 같이 실시하고자 합니다 . - 아 래 - 1. 공고기간 : 2026. 09. 01.( 화 ) ∼ 2026. 09. 10.( 목 ) 2. 접수기간 : 2026. 09. 01…",
+   "eventDate": "2026-09-01",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsm2iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   }
  ]
 }

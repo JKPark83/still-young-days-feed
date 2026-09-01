@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-08-31T23:22:57Z",
+ "generatedAt": "2026-09-01T22:04:43Z",
  "items": [
   {
    "type": "event",
@@ -92,6 +92,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2364&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-004:2366",
+   "title": "[안내] 행복한 소식(2026년 9월 소식)",
+   "place": "용산노인종합복지관",
+   "address": null,
+   "phone": "02-794-6100",
+   "org": "용산노인종합복지관",
+   "description": "어느덧 성큼 다가온 가을의 길목, 선선한 바람이 마음을 설레게 하는 9월이 찾아왔습니다. 늘 복지관과 함께하며 따뜻한 웃음과 삶의 지혜를 나누어주시는 어르신들께 깊은 감사의 마음을 전합니다. 어느덧 무더웠던 여름이 지나가고 결실과 풍요의 계절인 9월을 맞이하여 더욱 쾌적하고 활기찬 모습으로 어르신들을 모시게 되어 참으로 기쁜 마음입니다. 유난히 뜨거웠던…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2366&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-004:2365",
+   "title": "[모집안내]스마트 혈관 튼튼 챌린지 참여자 모집 안내",
+   "place": "용산노인종합복지관",
+   "address": null,
+   "phone": "02-794-6100",
+   "org": "용산노인종합복지관",
+   "description": "﻿ < 스마트 혈관 튼튼 챌린지> - 만성질환 관리 통합 건강 프로그램 참여자 모집 - * 프로그램 내용 : 만성질환 관리 통합 건강 프로그램(10회기) - 건강관리 APP 활용 교육(워크온, 파스타) - 운동, 만성질환 교육, 영양관리 - 건강 APP 활용 자가 건강 관리 활동 1. 기간 : 9/15(화)~11/17(화) 매주 화요일 주 1회(총 10회…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2365&page=1"
   },
   {
    "type": "event",
