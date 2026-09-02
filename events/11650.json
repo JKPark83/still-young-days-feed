@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-01T22:04:43Z",
+ "generatedAt": "2026-09-02T22:08:03Z",
  "items": [
   {
    "type": "event",
@@ -137,21 +137,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=197&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-071:196",
-   "title": "[연계]한국도로교통공단 서울지부와 함께하는 <교통안전 베테랑교실(2차)>",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆<교통안전 베테랑교실(2차)> 참여 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 최근 교통환경이 빠르게 변화하면서 바뀐 교통법규를 제대로 알지 못해 과태료나 사고로 이어지는 경우가 늘고 있습니다. 운전자도, 보행자도 꼭 알아야 할 최신 교통법규와 안전수칙! \"한국도로교통공단 전문 강사와 함께 실생활에 꼭 필요한 교통상식…",
-   "eventDate": "2026-09-01",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=196&page=1"
   },
   {
    "type": "event",

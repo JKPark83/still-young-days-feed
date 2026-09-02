@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11500",
- "generatedAt": "2026-09-01T22:04:43Z",
+ "generatedAt": "2026-09-02T22:08:03Z",
  "items": [
   {
    "type": "event",
@@ -302,6 +302,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.gomdallaeswc.or.kr/bbs/board.php?bo_table=0401&wr_id=497&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-052:2168",
+   "title": "[공지] 9월 신입회원교육 안내",
+   "place": "강서노인종합복지관",
+   "address": null,
+   "phone": "02-3664-0322",
+   "org": "강서노인종합복지관",
+   "description": "[공지] 9월 신입회원교육 안내",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.gangseosenior.or.kr/notice/2168?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-052:2167",
+   "title": "[공지] 9월 법률상담 안내",
+   "place": "강서노인종합복지관",
+   "address": null,
+   "phone": "02-3664-0322",
+   "org": "강서노인종합복지관",
+   "description": "9월 법률상담 안내",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.gangseosenior.or.kr/notice/2167?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-056:498",
+   "title": "4층 AI디지털체험존 이용 제한 안내",
+   "place": "곰달래어르신복지센터",
+   "address": null,
+   "phone": "02-2699-8264",
+   "org": "곰달래어르신복지센터",
+   "description": "3717702625_1788339277.5529.jpg 안녕하세요. 9월 10일(목) 15시부터 9월 28일(월) 까지 AI디지털체험존 공간 전환 공사로 인해 4층 로비 출입 및 이용이 일시적으로 제한 될 예정 입니다. 공사 상황에 따라 일정이 변경될 수 있으며, 이용에 불편을 드려 죄송합니다. 안전하고 원활한 공사를 위해 협조 부탁드리며, 이용에 참고…",
+   "eventDate": "2026-09-10",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.gomdallaeswc.or.kr/bbs/board.php?bo_table=0401&wr_id=498&page=1"
   }
  ]
 }

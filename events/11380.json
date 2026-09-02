@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-01T22:04:43Z",
+ "generatedAt": "2026-09-02T22:08:03Z",
  "items": [
   {
    "type": "event",
@@ -167,21 +167,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1510&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-039:1499",
-   "title": "[인사] 은평구립신사노인복지관 직원(사회복지사/출산휴가 및 육아휴직대체인력)채용 공고",
-   "place": "구립신사노인복지관",
-   "address": null,
-   "phone": "02-302-0303",
-   "org": "구립신사노인복지관",
-   "description": "1. 채용분야 1) 고용형태 : 계약직 2) 근무기간 : 2026 년 9 월 1 일 ~ 2027 년 9 월 30 일 3) 채용분야 : 사회복지사 ( 출산휴가 및 육아휴직 대체인력 ) 4) 업무내용 : 노년사회화교육사업 , 상담사업 , 무료급식사업 , 지역자원조직화사업 등 - 직원 업무 역량 또는 기관 사정에 따라 변경 될 수 있습니다 . 5) 모집인원 :…",
-   "eventDate": "2026-09-01",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1499&page=1"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-09-01T22:04:43Z",
+ "generatedAt": "2026-09-02T22:08:03Z",
  "items": [
   {
    "type": "event",
@@ -122,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260901093111579"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "부천시소사노인복지관과 함께하는 \"영양쏙쏙정보\" 9월호",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "9월 영양쏙쏙정보는 '식이섬유'를 주제로 준비했습니다. 식이섬유는 장 건강과 원활한 배변 활동에 도움을 주며, 포만감을 유지하고 건강한 식생활을 돕는 중요한 영양소입니다. 이번 영양정보에서는 귀리, 렌틸콩, 치아씨드, 병아리콩 등 식이섬유가 풍부한 식품을 소개합니다. 평소 식사에 잡곡, 채소, 콩류 등을 조금씩 더해 부족하기 쉬운 식이섬유를 건강하게 채워…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260902181626208"
   },
   {
    "type": "event",

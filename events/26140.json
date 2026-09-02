@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-01T22:04:43Z",
+ "generatedAt": "2026-09-02T22:08:03Z",
  "items": [
   {
    "type": "event",
@@ -257,6 +257,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127311?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:128717",
+   "title": "[기획후원]추석맞이 보자기 기부 캠페인",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "보자기 기부.jpg 가정에서 사용하지 않는 보자기를 기부해주세요~ 작은 나눔이 누군가에게는 특별한 선물이 됩니다. 또한 보자기 재활용은 지구를 지키는 작은 실천입니다! 문의 : 서구노인복지관 1층 / 기획홍보후원자원팀 (042-488-6297~8)",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/128717?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:128717",
+   "title": "[기획후원]추석맞이 보자기 기부 캠페인",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "보자기 기부.jpg 가정에서 사용하지 않는 보자기를 기부해주세요~ 작은 나눔이 누군가에게는 특별한 선물이 됩니다. 또한 보자기 재활용은 지구를 지키는 작은 실천입니다! 문의 : 서구노인복지관 1층 / 기획홍보후원자원팀 (042-488-6297~8)",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/128717?page=1"
   },
   {
    "type": "event",
