@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
   {
    "type": "event",
@@ -17,36 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=225&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:275",
-   "title": "[마감] 2026년 남양주시 어르신 문화체육 이음터 '원데이 꽃꽂이 클래스' 참여자 추가모집",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀후 '꽃꽂이 ' 라고 말씀해주세요 ! / 기존 이음터 사업 참여자는 신청 불가] - 장소 : 복지관 도보 5분거리 꽃집(선정 후 안내예정) - 신청방법 : 전화접수 ☎ 031-522-6406 - 접수일정 : 8. 3.(월 ) ~ 7.(금 ) 16:00 - 선정자 발표: 8. 10.(월) 14:00 - 모집인원 : 복지관 회원…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=275&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:274",
-   "title": "[마감] 디지털 금융교실 참여자 추가 모집",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀후 '금육교육 '이 라고 말씀해주세요 !] - 장소 : 복지관 2층 반올림 - 신청방법 : 사무실 방문 및 전화접수 ☎ 070-4616-2709 - 접수일정 : 8. 3.(월) ~ 7.(금) 14:00 까지 / 선착순 모집 - 모집인원 : 3명 60070399172265e643bfea06b4ae94d0_1785731479_2…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=274&page=1"
   },
   {
    "type": "event",

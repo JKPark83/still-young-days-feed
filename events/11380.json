@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-039:1500",
-   "title": "노년사회화교육프로그램 이용시 안내사항입니다.",
-   "place": "구립신사노인복지관",
-   "address": null,
-   "phone": "02-302-0303",
-   "org": "구립신사노인복지관",
-   "description": "157b090f6e85c9951e15a38d601b95a8_1785730991_4344.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1500&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-039:1501",

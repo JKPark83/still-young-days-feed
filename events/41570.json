@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4076&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4262",
-   "title": "[사회교육] 2026년 3기 노년사회화교육 프로그램 강의계획서 양식(강사용)",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "2026 년 3 기 노년사회화교육 프로그램 강의계획서 양식입니다 . 개강 요일을 확인한 후 해당 양식을 사용하여 주시기 바랍니다 . ( 강사 단체 메신저 공지사항 참고 ) 강의계획서 제출 메일 주소 : gimpo9300@nate.com 제출기한 : ~8/7( 금 ) 까지 문의 : 사회교육팀 031-8048-1117~9",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4262&page=1"
   },
   {
    "type": "event",
@@ -167,6 +152,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4271&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4272",
+   "title": "[홍보출판] 온라인 홍보 서포터즈 모집",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "김포시노인종합복지관에서는 참신한 아이디어와 SNS 활용 역량을 바탕으로 복지관의 다양한 사업과 소식을 알릴「온라인 홍보 서포터즈(1기)」를 모집합니다. 사진·영상 촬영 및 편집, 카드뉴스 등 온라인 홍보물 제작에 관심 있는 고등학생과 대학생이라면 누구나 지원할 수 있으며, 관련 경험이 없는 초보자도 참여 가능합니다. ■ 접수기간: 2026년 9월 2일(수…",
+   "eventDate": "2026-09-02",
+   "eventEnd": "2026-09-10",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4272&page=1"
   }
  ]
 }

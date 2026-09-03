@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
   {
    "type": "event",
@@ -62,6 +62,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1400&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1401",
+   "title": "<수의계약발주계획> 금천노인종합복지관 노인사회활동지원사업 참여자 혹한기 안전물품 구입",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "- 사업개요 ○ 납품일자 : 2026 년 10 월 23 일까지 ○ 납품장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ○ 납품물품 : 바세린 세트 ( 립밤 , 핸드크림 , 바세린 3 종 ), 핫팩 ○ 소요예산 : 2,923 천원 (vat 포함 ) - 참가자격 ○ 참가자격 : 지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙 제 1…",
+   "eventDate": "2026-10-23",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1401&page=1"
   }
  ]
 }

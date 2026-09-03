@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
   {
    "type": "event",
@@ -126,6 +126,36 @@
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026년 한국만성질환관리협회 연계 건강강좌 3탄",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260903114508768"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026 노인의날 기념 AI 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」안내",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "부천시오정노인복지관에서는 2026년 노인의 날을 기념하여 AI를 활용한 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」을 진행합니다. [공모부문] ① AI를 활용한 오정노인복지관 캐릭터 공모전 ② AI 이미지·영상 공모전 「오정에서 다시 그린 노년」 [접수기간] 2026. 9. 4.(금) ~ 9. 21.(월) [접수방법] 이메일 접수( ojeong929…",
+   "eventDate": "2026-09-04",
+   "eventEnd": "2026-09-21",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260903121816858"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
    "title": "[전문상담 9월 법률상담 참여자 모집]",
    "place": "오정노인복지관",
    "address": null,
@@ -137,6 +167,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260818093724462"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026년 추석맞이 기념행사「복이 오는 오정, 흥 나는 한가위」 신청 안내",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "부천시오정노인복지관에서는 추석을 맞아「복이 오는 오정, 흥 나는 한가위」행사를 진행합니다. 전통놀이부터 AI 사진관, 체험부스 프로그램이 진행될 예정이오니 많은 신청 바랍니다. [행사 개요] - 행사일시 : 2026. 9. 22.(화) 10:00~15:00 - 신청기간 : 9. 7.(월) ~ 9. 11.(금) - 신청대상 : 복지관 이용 어르신 - 신청방…",
+   "eventDate": "2026-09-22",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260903124111294"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026년 부천시오정노인복지관 식자재 납품업체 입찰 공고",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "부천시오정노인복지관에서는 지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제33조에 의거하여 2026년도 부천시오정노인복지관 식자재 납품업체를 선정하기 위한 입찰을 아래와 같이 공고합니다 가. 공 고 명 : 2026년도 부천시오정노인복지관 식자재 납품업체 입찰 공고 나. 사업내용 : 경로식당, 무료급식, 식사배달사업, 노인일자리 시장형 사업단 다.…",
+   "eventDate": "2026-11-01",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260903092500976"
   }
  ]
 }

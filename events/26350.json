@@ -1,6 +1,67 @@
 {
  "schemaVersion": 1,
  "regionCode": "26350",
- "generatedAt": "2026-09-02T22:08:03Z",
- "items": []
+ "generatedAt": "2026-09-03T22:02:21Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-014:moim00.asp",
+   "title": "장산노인복지관 이용안내",
+   "place": "장산노인복지관",
+   "address": null,
+   "phone": "051-704-9141",
+   "org": "장산노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.haeundaejangsan.or.kr/html/board/moim00.asp?board_id=a_board1&group_name=board&idx_num=486&page=1&category=&search=&b_cat=0&order_c=idx_num&order_da=desc"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-014:moim00.asp",
+   "title": "[본관] 노년사회화교육 취미여가교육(기타반, 어반스케치, 사군자/한국화) 강사 채용 결과",
+   "place": "장산노인복지관",
+   "address": null,
+   "phone": "051-704-9141",
+   "org": "장산노인복지관",
+   "description": "장산노인복지관 강사 모집 결과 를 아래와 같이 공개합니다 . ﻿□ 취미여가교육(기타 초급, 중급, 고급반) 강사 최종 합격자 (성명 / 휴대전화 뒷번호) - 김 * 성(9981) ﻿□ 취미여가교육(어반스케치) 강사 최종 합격자 (성명 / 휴대전화 뒷번호) - 조 * 은(9486) □ 취미여가교육(사군자/한국화) 강사 최종 합격자 (성명 / 휴대전화 뒷번호…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.haeundaejangsan.or.kr/html/board/moim00.asp?board_id=a_board1&group_name=board&idx_num=772&page=1&category=&search=&b_cat=0&order_c=idx_num&order_da=desc"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-014:moim00.asp",
+   "title": "[본관] 노년사회화교육 취미여가교육(사군자/한국화) 강사 채용 결과",
+   "place": "장산노인복지관",
+   "address": null,
+   "phone": "051-704-9141",
+   "org": "장산노인복지관",
+   "description": "장산노인복지관 강사 모집 결과 를 아래와 같이 공개합니다 . □ 취미여가교육(사군자/한국화) 강사 최종 합격자 (성명 / 휴대전화 뒷번호) - 적격자없음",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.haeundaejangsan.or.kr/html/board/moim00.asp?board_id=a_board1&group_name=board&idx_num=774&page=1&category=&search=&b_cat=0&order_c=idx_num&order_da=desc"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-014:moim00.asp",
+   "title": "[공개] 장산노인복지관·노인복지관 반여분관 운영위원회 2026년도 제3차 정기회의 결과 공개",
+   "place": "장산노인복지관",
+   "address": null,
+   "phone": "051-704-9141",
+   "org": "장산노인복지관",
+   "description": "장산노인복지관·노인복지관 반여분관 운영위원회 '2026년도 제3차 정기회의' 결과를 다음과 같이 공개합니다. ○공개내용 : 2026년도 제3차 운영위원회 회의록",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.haeundaejangsan.or.kr/html/board/moim00.asp?board_id=a_board1&group_name=board&idx_num=776&page=1&category=&search=&b_cat=0&order_c=idx_num&order_da=desc"
+  }
+ ]
 }

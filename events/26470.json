@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26470",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
   {
    "type": "event",
@@ -92,6 +92,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1600&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1601",
+   "title": "모집",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "복지관 경로식당 운영과 관련 식자재 납품업체 선정을 위해 아래와 같이 공고 안내를 합니다. 1. 입찰건명 : 2026년도 복지관 경로식당 4분기 식자재 납품업체 선정 입찰공고 2. 계약기간 : 2026년 10월 1일 ~ 2026년 12월 31일(3개월) 3. 납품품목 : 급식재료 일체 ( 공산품류 , 농산물류 , 육류 , 수산물류 , 축산물류 , 가금류…",
+   "eventDate": "2026-10-01",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1601&page=1"
   }
  ]
 }

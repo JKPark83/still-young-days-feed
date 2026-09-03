@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11410",
- "generatedAt": "2026-09-02T22:08:03Z",
+ "generatedAt": "2026-09-03T22:02:21Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=311&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-044:334",
-   "title": "2026년 7월 기관운영 업무추진비 사용 없음",
-   "place": "연희노인복지관",
-   "address": null,
-   "phone": "02-3143-7778",
-   "org": "연희노인복지관",
-   "description": "7월 기관운영 업무추진 사용 없음",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=334&page=1"
   },
   {
    "type": "event",
