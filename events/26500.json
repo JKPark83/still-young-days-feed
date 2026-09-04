@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26500",
- "generatedAt": "2026-09-03T22:02:21Z",
+ "generatedAt": "2026-09-04T21:38:08Z",
  "items": [
   {
    "type": "event",
@@ -17,6 +17,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://6070.bulgukto.or.kr/SW_bbs/notice/view.php?zipEncode=90wDU9vEU9wBLjxzJzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzcmZiZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-023:view.php",
+   "title": "2026년 9월 무료특강 추첨 결과 안내",
+   "place": "수영구노인복지관",
+   "address": null,
+   "phone": "051-759-6070",
+   "org": "수영구노인복지관",
+   "description": "이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://6070.bulgukto.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsm3yZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   }
  ]
 }

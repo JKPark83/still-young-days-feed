@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11500",
- "generatedAt": "2026-09-03T22:02:21Z",
+ "generatedAt": "2026-09-04T21:38:08Z",
  "items": [
   {
    "type": "event",
@@ -317,6 +317,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.gangseosenior.or.kr/notice/2167?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-052:2169",
+   "title": "[공지] 시니어 디지털 스쿨(금융교육) 참여자 모집",
+   "place": "강서노인종합복지관",
+   "address": null,
+   "phone": "02-3664-0322",
+   "org": "강서노인종합복지관",
+   "description": "[공지] 시니어 디지털 스쿨(금융교육) 참여자 모집",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.gangseosenior.or.kr/notice/2169?page=1"
   },
   {
    "type": "event",

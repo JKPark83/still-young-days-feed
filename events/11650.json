@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-03T22:02:21Z",
+ "generatedAt": "2026-09-04T21:38:08Z",
  "items": [
   {
    "type": "event",
@@ -91,7 +91,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=190&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=190&page=2"
   },
   {
    "type": "event",
@@ -106,7 +106,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=191&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=191&page=2"
   },
   {
    "type": "event",
@@ -245,13 +245,43 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-071:207",
+   "title": "[연계] 9월 홍씨마을 서초시니어라운지 <찾아가는 AI 운동돌봄 서비스> 신청 안내",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆<찾아가는 AI 운동돌봄 서비스> 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 3D AI 체형분석기로 자세와 신체 균형을 측정하고, 측정 결과에 맞는 나만의 운동방법과 일상 속 건강관리 방법을 안내해드립니다. <찾아가는 AI 운동돌봄 서비스> -일시: 9/18(금) 15:00~16:00 -장소: 홍씨마을 서초시니어…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=207&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:206",
+   "title": "[연계] 우면동· 서초1동· 홍씨마을 서초시니어라운지 <편지로 마음 잇기> 특강 참여자 모집",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 2026년 9월 서초시니어라운지에서 <편지로 마음 잇기> 참여자를 모집합니다. -진행 라운지 일시 및 수업장소 1. 우면동 시니어라운지 -일시: 9/16(수) 10:30~12:00 -장소: 서울시 서초구 바우뫼로4길 6, 2층 2. 서초1동 시니어라운지 -일시: 9/17(목) 10:30~…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=206&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-071:195",
    "title": "[9월 시네마]이태영큐레이터와 함께하는 시네마 \"이해가 주는 힘\"<헬프(2011), 버킷리스트(2008…",
    "place": "반포느티나무쉼터",
    "address": null,
    "phone": "02-535-5090",
    "org": "반포느티나무쉼터",
-   "description": "★☆9월 이태영 큐레이터와 함께하는 시네마 \"이해가 주는 힘\" 신청 안내☆★ 회원님, 안녕하세요? 반포느티나무쉼터에서 상영하는 9월시네마 신청안내입니다. <9월 세대공감 시네마데이: \"이해가 주는 힘\"> 1. 일자/작품명 1) 9월 4일(금) / 헬프(2011) 2) 9월 18일(금) / 버킷리스트(2008) 2. 시간: 오후1시 30분 ~ 4시 3. 장…",
+   "description": "★☆9/18(금) 시네마데이 상영작 변경 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 9/18(금) 시네마데이 상영작이 아래와 같이 변경되오니 이용에 참고해 주시기 바랍니다. O 변경 작품: 「헬프」(2011) O 사유: 당초 9/4(금) 상영 예정이었던 「헬프」(2011)가 재생 오류로 인해 상영이 어려워, 9/18(금)…",
    "eventDate": "2026-09-04",
    "eventEnd": null,
    "applyStart": null,
