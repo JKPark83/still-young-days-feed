@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-09-04T21:38:08Z",
+ "generatedAt": "2026-09-05T21:20:51Z",
  "items": [
   {
    "type": "event",
@@ -32,36 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=818"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "[모집] 2026 모두의 인문학 참여자 모집",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=865"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "2026년 동백꽃노인종합복지관 식자재납품업체 서류심사 결과 공고",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=864"
   },
   {
    "type": "event",

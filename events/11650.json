@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-04T21:38:08Z",
+ "generatedAt": "2026-09-05T21:20:51Z",
  "items": [
   {
    "type": "event",
@@ -272,21 +272,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=206&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-071:195",
-   "title": "[9월 시네마]이태영큐레이터와 함께하는 시네마 \"이해가 주는 힘\"<헬프(2011), 버킷리스트(2008…",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆9/18(금) 시네마데이 상영작 변경 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 9/18(금) 시네마데이 상영작이 아래와 같이 변경되오니 이용에 참고해 주시기 바랍니다. O 변경 작품: 「헬프」(2011) O 사유: 당초 9/4(금) 상영 예정이었던 「헬프」(2011)가 재생 오류로 인해 상영이 어려워, 9/18(금)…",
-   "eventDate": "2026-09-04",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=195&page=1"
   }
  ]
 }

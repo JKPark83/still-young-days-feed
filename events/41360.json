@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-09-04T21:38:08Z",
+ "generatedAt": "2026-09-05T21:20:51Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=225&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:276",
-   "title": "[공지] 8. 17.(월) 광복절 대체휴무일 안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "06f24c20d5fb6093c60f94c546a06f0b_1785902662_4986.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=276&page=1"
   },
   {
    "type": "event",

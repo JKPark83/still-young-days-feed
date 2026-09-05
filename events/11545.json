@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-04T21:38:08Z",
+ "generatedAt": "2026-09-05T21:20:51Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=715&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-059:1397",
-   "title": "2026년 7월 업무추진비 사용내역 공고",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "3659966895_1785915861.0851.jpg 3659966895_1785915878.2481.jpg - 공공기관의 정보공개에 관한 법률 및 관계법령에 의거하여 금천노인종합복지관 및 금천데이케어센터 업무추진비 사용내역을 공고합니다 . - 해당 내역은 서울시 법인 · 시설 지원시스템에서도 확인하실 수 있습니다 .",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1397&page=1"
   },
   {
    "type": "event",

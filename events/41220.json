@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-04T21:38:08Z",
+ "generatedAt": "2026-09-05T21:20:51Z",
  "items": [
   {
    "type": "event",
@@ -137,36 +137,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-033:1166",
-   "title": "2026년 7월 노인사회활동지원사업 공동체사업단 사업추진현황",
-   "place": "평택남부노인복지관",
-   "address": null,
-   "phone": "031-8036-4900",
-   "org": "평택남부노인복지관",
-   "description": "​ aa4c02932771d52b68f98ebfb05db288_1785916035_5016.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ptsenior.or.kr/notice/1166?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1436",
-   "title": "채용공고 | 2026년 이동복지관사업 특성화프로그램 강사 채용 최종 합격자 공고",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "2026년 이동복지관사업 특성화프로그램 강사 채용 최종 합격자를 공고합니다. 구분 채용 분야 합격자명 연락처(끝번호) 비고 평택서부노인복지관 기체조 이*주 5569 실버도구체조 김*순 1886 노래교실 김*숙 8100 공예 조*홍 3595 노래교실 조*진 3571 지원해 주신 모든 분들께 진심으로 감사드리며, 앞으로도 우리 복지관에 많은 관심 부탁드립니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1436&page=2"
   },
   {
    "type": "event",
