@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-05T21:20:51Z",
+ "generatedAt": "2026-09-07T22:18:27Z",
  "items": [
   {
    "type": "event",
@@ -287,6 +287,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/128717?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:129695",
+   "title": "[공고] 2026년 응급안전안심서비스사업 사회복지사 긴급 채용 모집 공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "2026 년 대전 서구 「 응급안전안심서비스사업 」 에서 함께 근무할 사회복지사를 다음과 같이 모집 공고합니다 . image.png 2. 기타사항 - 제출 서류에 허위기재 또는 기재착오 , 서류 미비 등으로 인한 불이익은 응시자 본인의 책임으로 함 . - 채용절차의 공정화에 관한 법률 ( 제 11 조 ) 에 따라 최종 불합격한 지원자의 경우 14 일 이내…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/129695?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:129695",
+   "title": "[공고] 2026년 응급안전안심서비스사업 사회복지사 긴급 채용 모집 공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "2026 년 대전 서구 「 응급안전안심서비스사업 」 에서 함께 근무할 사회복지사를 다음과 같이 모집 공고합니다 . image.png 2. 기타사항 - 제출 서류에 허위기재 또는 기재착오 , 서류 미비 등으로 인한 불이익은 응시자 본인의 책임으로 함 . - 채용절차의 공정화에 관한 법률 ( 제 11 조 ) 에 따라 최종 불합격한 지원자의 경우 14 일 이내…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/129695?page=1"
   },
   {
    "type": "event",

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-09-05T21:20:51Z",
+ "generatedAt": "2026-09-07T22:18:27Z",
  "items": [
   {
    "type": "event",
@@ -21,7 +21,7 @@
   {
    "type": "event",
    "id": "center:gyeonggi-027:279",
-   "title": "[모집] 8월 촉탁의 진료 참여자 모집",
+   "title": "[마감] 8월 촉탁의 진료 참여자 모집",
    "place": "남양주시다산노인복지관",
    "address": null,
    "phone": "031-522-6406",
@@ -137,6 +137,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=282&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:287",
+   "title": "[공지] 복지관 추석연휴 휴관안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "33f521ee678f134e05de7d9eabe104b8_1788748909_0814.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=287&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:286",
+   "title": "[모집] 다산애한의원과 함께하는 허리통증예방교육 참여자 모집 안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀후 '허리통증 '이 라고 말씀해주세요 !] - 장소 : 복지관 2층 헤아림 - 신청방법 : 치유숲 방문 및 전화접수 ☎ 031-522-6406 또는 070-4616-0656 - 접수일정 : 9. 7( 월 ) ~ 9. 14.(월 ) 15:00 - 교육일정: 9. 17.(목) 11:00~12:00 - 모집인원 : 복지관 회원 2…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=286&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:285",
+   "title": "[모집] 9월 촉탁의 진료 참여자 모집 안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀후 '촉탁의 '이 라고 말씀해주세요 !] - 장소 : 복지관 1 층 치유숲 - 신청방법 : 치유숲 방문 및 전화접수 ☎ 031-522-6406 또는 070-4616-0656 - 접수일정 : 9. 7.( 월 ) ~ 9. 11.( 금 ) 14:00 -진료일정: 9. 16.(수) 11:00~11:30 - 모집인원 : 복지관 회원…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=285&page=1"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-05T21:20:51Z",
+ "generatedAt": "2026-09-07T22:18:27Z",
  "items": [
   {
    "type": "event",
@@ -260,18 +260,18 @@
   },
   {
    "type": "event",
-   "id": "center:seoul-071:206",
-   "title": "[연계] 우면동· 서초1동· 홍씨마을 서초시니어라운지 <편지로 마음 잇기> 특강 참여자 모집",
+   "id": "center:seoul-071:208",
+   "title": "[느티풀] 반포2동 서초시니어라운지 <함께 읽는 책 이야기> 프로그램 참여자 모집 안내",
    "place": "반포느티나무쉼터",
    "address": null,
    "phone": "02-535-5090",
    "org": "반포느티나무쉼터",
-   "description": "회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 2026년 9월 서초시니어라운지에서 <편지로 마음 잇기> 참여자를 모집합니다. -진행 라운지 일시 및 수업장소 1. 우면동 시니어라운지 -일시: 9/16(수) 10:30~12:00 -장소: 서울시 서초구 바우뫼로4길 6, 2층 2. 서초1동 시니어라운지 -일시: 9/17(목) 10:30~…",
-   "eventDate": null,
-   "eventEnd": null,
+   "description": "회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 반포느티나무쉼터 느티풀 자원봉사단 교육분야 활동으로 반포2동 서초시니어라운지에서 <함께 읽는 책 이야기> 프로그램을 진행합니다. 책을 읽고 부담 없이 서로의 생각과 느낌을 편안하게 나누며, 책을 통해 함께 소통하는 시간을 가져보세요. ◎강좌명: 함께 읽는 책 이야기 ◎내용: 책을 읽고,…",
+   "eventDate": "2026-10-12",
+   "eventEnd": "2026-12-21",
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=206&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=208&page=1"
   }
  ]
 }

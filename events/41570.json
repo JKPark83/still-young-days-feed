@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-05T21:20:51Z",
+ "generatedAt": "2026-09-07T22:18:27Z",
  "items": [
   {
    "type": "event",
@@ -47,36 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4076&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4264",
-   "title": "[사회교육] 2026년 3기 노년사회화교육 프로그램 홍보지",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "2026년 3기 노년사회화교육 프로그램 홍보지를 참고하시어 프로그램 접수 바랍니다. 문의사항 : 031-8048-1117~9",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4264&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4266",
-   "title": "2026년 노인사회활동지원사업 공동체사업단(실버카페 금빛다방) 7월 사업추진현황 공고",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "995555512_1786072902.8936.jpg 2026년 노인사회활동지원사업 공동체사업단 실버카페 금빛다방 7월 사업추진현황을 위와 같이 공고합니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4266&page=1"
   },
   {
    "type": "event",
@@ -167,6 +137,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4272&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4274",
+   "title": "[사회교육] 2026년 9월 온라인 학습정보 제공",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "<2026년 9 월 온라인 학습정보 제공 > 강좌 제목 을 클릭시 경기도평생학습포털 GSEEK 홈페이지로 연결 됩니다. 강좌제목 : 오늘의 건강멘토_발&통풍 ← 클릭 995555512_1788741337.8033.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4274&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4273",
+   "title": "[총무과] \"굿라이프-클린데이\" 이용 예절 진행",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "995555512_1788739976.0217.png 함께 만드는 「 굿 - 라이프 클린데이 」 를 시작합니다 김포시노인종합복지관에서는 공감 · 배려 · 상호존중 · 소통 · 예절의 가치를 바탕으로 함께하는 굿 - 라이프 문화를 만들어가고 있습니다 . 그중 ‘ 예절 ’ 의 실천을 시작으로 , 내가 이용한 공간을 스스로 정리하고 다음 이용자를 배려하는 「…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4273&page=1"
   }
  ]
 }

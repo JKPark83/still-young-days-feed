@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-09-05T21:20:51Z",
+ "generatedAt": "2026-09-07T22:18:27Z",
  "items": [
   {
    "type": "event",
@@ -32,36 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=818"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "[안내] 동백꽃노인종합복지관 8월 휴관 안내(8/17 광복절 대체공휴일 휴관)",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=869"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "[안내] 2026년 노인자원봉사활성화지원사업-에코동백꽃봉사단과 함께하는 '건강한 여름나기 캠페인' 진행 안내",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=868"
   },
   {
    "type": "event",
@@ -151,7 +121,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=892"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=892"
   },
   {
    "type": "event",
@@ -242,6 +212,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=916"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "[안내] 2026 동백꽃노인종합복지관 작은 바자회 '동백장터' 진행",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=917"
   }
  ]
 }

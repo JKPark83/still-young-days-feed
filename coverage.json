@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-05T21:20:51Z",
+ "generatedAt": "2026-09-07T22:18:27Z",
  "regions": {
   "26110": {
    "centersTotal": 1,
@@ -36,7 +36,7 @@
   },
   "26350": {
    "centersTotal": 3,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "26380": {
    "centersTotal": 2,
@@ -232,15 +232,15 @@
   },
   "41192": {
    "centersTotal": 1,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41194": {
    "centersTotal": 1,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41196": {
    "centersTotal": 1,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41360": {
    "centersTotal": 4,
