@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-07T22:18:27Z",
+ "generatedAt": "2026-09-08T22:04:18Z",
  "items": [
   {
    "type": "event",
@@ -32,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=249&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-036:275",
-   "title": "폐장난감 순환 프로젝트 \"다시 피어나는 지구\"",
-   "place": "평택팽성노인복지관",
-   "address": null,
-   "phone": "031-650-2621",
-   "org": "평택팽성노인복지관",
-   "description": "1c691106980bb3c9940c4054b672623a_1754652730_4669.gif *폐장난감 전문 재활용 업체 [ 사단법인 트루] http://www.tru.or.kr/ 폐장난감이 어떻게 순환되는지 확인 해 보세요~~",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=275&page=1"
   },
   {
    "type": "event",
@@ -227,21 +212,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1442&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-033:1170",
-   "title": "(건강생활) 건강기능회복사업 9월 원장님 진료안내",
-   "place": "평택남부노인복지관",
-   "address": null,
-   "phone": "031-8036-4900",
-   "org": "평택남부노인복지관",
-   "description": "7cf97340ccb84c2ae4307e7a4bedb45b_1787633467_6169.jpg 건강기능회복사업 9월 원장님 진료안내 9월 건강상담 및 촉탁의 진료안내 - 모집 기간: 2026년 8월 24일 (월) ~ 9월 7일 (월) - 진료 일시: 2026년 9월 8일 (화) 13:30 ~ 15:00 - 진료 장소: 1층 기능회복실 (체력단련실 내부)…",
-   "eventDate": "2026-08-24",
-   "eventEnd": "2026-09-07",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ptsenior.or.kr/notice/1170?page=1"
   },
   {
    "type": "event",

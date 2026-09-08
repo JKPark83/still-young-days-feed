@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-07T22:18:27Z",
+ "generatedAt": "2026-09-08T22:04:18Z",
  "items": [
   {
    "type": "event",
@@ -257,6 +257,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=207&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:209",
+   "title": "반포느티나무쉼터 2026년 4학기[10/5(월)~12/25(금)] 프로그램 접수 안내",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆반포느티나무쉼터 4학기 프로그램 접수 및 수납 안내☆★ ◎ 교육기간 2026년 10월 5일(월) ~ 12월 25일(금), 총12주 ◎ 수업 휴강일 안내 - 월요일 수업 휴강일: 10월 5일(월) 개천절 대체공휴일 - 금요일 수업 휴강일: 10월 9일(금) 한글날, 12월 25일(금) 성탄절 ※법정공휴일로 인한 휴강은 보강을 하지 않습니다. ◎ 수강신청…",
+   "eventDate": "2026-10-05",
+   "eventEnd": "2026-12-25",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=209&page=1"
   },
   {
    "type": "event",
