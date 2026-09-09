@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "26290",
- "generatedAt": "2026-09-08T22:04:18Z",
- "items": []
+ "generatedAt": "2026-09-09T22:00:09Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-011:view.php",
+   "title": "[문현노인복지관 2026년 4분기 노년사회화 교육 프로그램 강사 모집 채용 공고",
+   "place": "문현노인복지관",
+   "address": null,
+   "phone": "051-938-9988",
+   "org": "문현노인복지관",
+   "description": "가 . 채용부문 : 노년사회화 교육 ( 평생교육 및 취미여가 ) 프로그램 강사 나 . 사업내용 : 프로그램 진행 다 . 채용방법 : 서류전형 및 면접 라 . 채용내역 : 구분 과목 교육내용 요일 시간 기간 1 하모니카 중급 하모니카 악기 연주 화 2:00~3:30 2026 년 10 월 ~ 12 월 마 . 서류 전형 시 제출서류 1) 강사지원서 또는 이력서…",
+   "eventDate": "2026-09-07",
+   "eventEnd": "2026-09-22",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://moon9988.or.kr/SW_bbs/notice/view.php?zipEncode=90wDU9vEU9wBLjxzJzszWLhvUvgCV1tz1Xwy291CZv2yVjhCM0tz0f2qKjxyVjMjxvusw1tzWLhvJnwqKjxyVjMj2iZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }

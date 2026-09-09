@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-09-08T22:04:18Z",
+ "generatedAt": "2026-09-09T22:00:09Z",
  "items": [
   {
    "type": "event",
@@ -151,7 +151,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=909"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=909"
   },
   {
    "type": "event",
@@ -166,7 +166,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=893"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=893"
   },
   {
    "type": "event",
@@ -227,6 +227,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=917"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "[안내] 스마트아트갤러리 '오늘 나의 추억을 전시합니다.' 전시공모전 진행",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=924"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "[모집] 2026년 4분기 기구필라테스 접수",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=920"
   }
  ]
 }

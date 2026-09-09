@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-08T22:04:18Z",
+ "generatedAt": "2026-09-09T22:00:09Z",
  "items": [
   {
    "type": "event",
@@ -121,7 +121,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=194&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=194&page=2"
   },
   {
    "type": "event",
@@ -257,6 +257,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=207&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:210",
+   "title": "★☆「추석 명절 스미싱 피해예방」 안내☆★",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆「추석 명절 스미싱 피해예방」 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 추석 명절을 앞두고 택배 배송, 과태료 안내, 개인정보 확인, 지인 사칭 등을 이용한 스미싱 문자가 증가할 수 있어 각별한 주의가 필요합니다. 반포느티나무쉼터에서는 전기통신금융사기 통합대응단 안내자료 를 통해 추석 명절 스미싱 피해예방 수칙을 안…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=210&page=1"
   },
   {
    "type": "event",
