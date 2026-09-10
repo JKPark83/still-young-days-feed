@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-09T22:00:09Z",
+ "generatedAt": "2026-09-10T21:50:47Z",
  "items": [
   {
    "type": "event",
@@ -35,21 +35,6 @@
   },
   {
    "type": "event",
-   "id": "center:seoul-059:1399",
-   "title": "[맞춤형취업설계아카데미 교육(스마트폰 보조) 자원봉사자 모집]",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "[맞춤형취업설계아카데미 교육(스마트폰 보조) 자원봉사자 모집] - 모집인원: 2명 - 일자: 2026. 9. 9(수), 9. 10(목) - 시간: 15:30~17:30 (2h / 총 4h) - 장소: 금천노인종합복지관 3층 교육실 - 내용: 어르신 취업역량 향상을 위한 교육 진행 보조(스마트폰 활용 보조) - 문의: 김수지 사회복지사(070-7090-54…",
-   "eventDate": "2026-09-09",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1399&page=1"
-  },
-  {
-   "type": "event",
    "id": "center:seoul-059:1403",
    "title": "<수의계약발주계획> 금천노인종합복지관 노인맞춤돌봄서비스사업 9월 생활교육 물품(송편) 구입",
    "place": "금천노인종합복지관",
@@ -65,6 +50,21 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-059:1407",
+   "title": "<수의계약 발주계획> 금천노인종합복지관 비상용 발전기 수리건",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "< 수의계약 발주계획 > 금천노인종합복지관 비상용 발전기 수리 건 금천노인종합복지관 비상 발전기 수리 건 - 사업개요 ○ 작업일자 : 2026 년 09 월 21 일 ○ 작업장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ○ 작업내용 : 비상용 발전기 배터리 및 주요 소모품 교체 수리 ○ 소요예산 : 2,500 천원 ( 금이백오십만원 )…",
+   "eventDate": "2026-09-21",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1407&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-059:1400",
    "title": "<수의계약발주계획> 2026년 금천노인종합복지관 직원 명절(추석) 선물 구입",
    "place": "금천노인종합복지관",
@@ -77,6 +77,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1400&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1408",
+   "title": "<수의계약 발주계획> 금천노인종합복지관 집수정 그레이팅 교체 공사",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "< 수의계약 발주계획 > 금천노인종합복지관 집수정 그레이팅 교체 공사 건 금천노인종합복지관 집수정 그레이팅 교체 공사 건 - 사업개요 ○ 작업일자 : 2026 년 09 월 22 일 ○ 작업장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ○ 작업내용 : 집수정 노후 그레이팅 철거 및 신규 설치 ○ 소요예산 : 2,400 천원 ( 금이백사…",
+   "eventDate": "2026-09-22",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1408&page=1"
   },
   {
    "type": "event",

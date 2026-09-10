@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26200",
- "generatedAt": "2026-09-09T22:00:09Z",
+ "generatedAt": "2026-09-10T21:50:47Z",
  "items": [
   {
    "type": "event",
@@ -21,21 +21,6 @@
   {
    "type": "event",
    "id": "center:busan-006:view.php",
-   "title": "[공고/본관] 2026년 노인일자리 공동체사업단(카페희망역) 7월 사업추진현황 정보공개",
-   "place": "영도구노인복지관",
-   "address": null,
-   "phone": "051-417-6344",
-   "org": "영도구노인복지관",
-   "description": "공고 제2026-046 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsm1iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-006:view.php",
    "title": "2026년 제6회 영도구노인복지관 백일장 영도구 어르신 글솜씨 뽐내기 대회",
    "place": "영도구노인복지관",
    "address": null,
@@ -47,6 +32,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzso1iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "[공고/본관] 2026년 노인일자리 공동체사업단(카페희망역) 8월 사업추진현황 정보공개",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "공고 제2026-053 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요 이미지 대체문구를 입력하세요",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzco2iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   }
  ]
 }
