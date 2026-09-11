@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-09-10T21:50:47Z",
+ "generatedAt": "2026-09-11T22:07:21Z",
  "regions": {
   "26110": {
    "centersTotal": 1,
@@ -24,7 +24,7 @@
   },
   "26260": {
    "centersTotal": 1,
-   "centersCovered": 1
+   "centersCovered": 0
   },
   "26290": {
    "centersTotal": 2,
@@ -36,7 +36,7 @@
   },
   "26350": {
    "centersTotal": 3,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "26380": {
    "centersTotal": 2,
@@ -52,7 +52,7 @@
   },
   "26470": {
    "centersTotal": 2,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "26500": {
    "centersTotal": 2,
@@ -232,15 +232,15 @@
   },
   "41192": {
    "centersTotal": 1,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41194": {
    "centersTotal": 1,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41196": {
    "centersTotal": 1,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41360": {
    "centersTotal": 4,

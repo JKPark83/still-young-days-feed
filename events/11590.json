@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-09-10T21:50:47Z",
+ "generatedAt": "2026-09-11T22:07:21Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-063:541",
-   "title": "[사회교육] 2026년 동작구 노래자랑 「동작스타 노래자랑」 안내",
-   "place": "사당어르신종합복지관",
-   "address": null,
-   "phone": "02-580-2410",
-   "org": "사당어르신종합복지관",
-   "description": "1893561742_1786505640.4102.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=541&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-063:543",
@@ -167,6 +152,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=552&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:553",
+   "title": "[물리치료] 10월 정형외과 무료진료 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1789083864.3288.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=553&page=1"
   }
  ]
 }

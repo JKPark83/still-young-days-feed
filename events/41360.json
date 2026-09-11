@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-09-10T21:50:47Z",
+ "generatedAt": "2026-09-11T22:07:21Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=225&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:280",
-   "title": "[공지] 2026년 하반기 노년사회화교육사업 추첨결과 공지",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "※ 유튜브 (Youtube) 중계영상 보러가기 : 개 인정보 보호를 위해 링크는 삭제하였습니다. adb0973510a0e038fab63b9359c69342_1786428964_5167.png adb0973510a0e038fab63b9359c69342_1786429066_3914.png adb0973510a0e038fab63b9359c69342_178642…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=280&page=1"
   },
   {
    "type": "event",

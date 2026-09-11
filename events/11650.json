@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-10T21:50:47Z",
+ "generatedAt": "2026-09-11T22:07:21Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:183",
-   "title": "★☆「피싱범죄 예방수칙 및 피해예방 방법」 안내☆★",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆「피싱범죄 예방수칙 및 피해예방 방법」 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 최근 보이스피싱, 스미싱 등 피싱범죄 수법이 다양해지고 있습니다. 반포느티나무쉼터에서는 서울방배경찰서와 연계하여 피싱범죄 예방수칙 및 피해예방 서비스를 안내드립니다. 다음과 같은 상황에서는 피싱범죄 를 의심해 주세요! -본인이 신청하지…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=183&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:185",
@@ -272,6 +257,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=210&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:212",
+   "title": "[추첨 결과 안내] 실전 키오스크 사용법",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆[추첨결과 안내]실전 키오스크 사용법☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. <실전 키오스크 사용법> 1. 기간: 9/16(수)~10/14(수) 총4회 ※10/7(수) 휴강 2. 시간: 매주 수요일 10:00 ~ 12:00(2시간) 3. 장소: 반포느티나무쉼터 배움터A 4. 정원: 15명 5. 내용: 실생활과 밀접한 키…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=212&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:211",
+   "title": "[추첨 결과 안내] 비만ZERO 뱃살컷프로젝트",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆[추첨결과 안내]비만제로 뱃살컷프로젝트☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. <비만 ZERO, 뱃살컷 프로젝트> 1. 기간 : 9/16(수)~12/7(월) 총23회 2. 시간 : 매주 월, 수 16:00~17:00 3. 장소 : 반포느티나무쉼터 배움터B 4. 정원 : 25명 5. 내용 : 1) 사전사후 체성분 및 체력…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=211&page=1"
   },
   {
    "type": "event",

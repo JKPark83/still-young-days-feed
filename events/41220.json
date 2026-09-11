@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-10T21:50:47Z",
+ "generatedAt": "2026-09-11T22:07:21Z",
  "items": [
   {
    "type": "event",
@@ -122,36 +122,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1439",
-   "title": "공지 | 찾아가는 건강관리 서비스 신청자 모집",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "b9fe01bc8a5f8c625527cf53e3f09d56_1786415380_3206.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1439&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1438",
-   "title": "공지 | 2026년 찾아가는 결핵검진 신청자 모집",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "b9fe01bc8a5f8c625527cf53e3f09d56_1786414525_8488.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1438&page=1"
   },
   {
    "type": "event",

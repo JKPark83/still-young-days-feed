@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-10T21:50:47Z",
+ "generatedAt": "2026-09-11T22:07:21Z",
  "items": [
   {
    "type": "event",
@@ -107,6 +107,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1512&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-039:1514",
+   "title": "[인사] 은평구립신사노인복지관 영양사 채용 최종합격자 공고",
+   "place": "구립신사노인복지관",
+   "address": null,
+   "phone": "02-302-0303",
+   "org": "구립신사노인복지관",
+   "description": "은평구립신사노인복지관 영양사 신규채용에 관심을 가지고 지원해 주신 모든 분들게 감사드립니다 . 최종 합격자는 아래와 같습니다 . 합격자 : 선 0 연 (4615) 합격을 진심으로 축하드립니다 .",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1514&page=1"
   }
  ]
 }
