@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-11T22:07:21Z",
+ "generatedAt": "2026-09-12T21:32:10Z",
  "items": [
   {
    "type": "event",
@@ -62,21 +62,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127096?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:127140",
-   "title": "[자원]결식 위기 어르신을 위한 도시락 배달 자원봉사자 모집",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "결식 위기 어르신 도시락 배달 자원봉사자 모집 서구노인복지관에서 지역사회 내 결식 위기 어르신들에게 따뜻한 도시락을 전달해 드릴 자원봉사자를 모집합니다. 복지관 경로식당에서 정성껏 준비한 도시락을 거동이 불편한 어르신 댁까지 직접 전달하고, 안부를 확인하는 따뜻한 봉사활동입니다. 단기봉사도 가능하며, 원하는 요일을 정해 꾸준히 참여하는 정기봉사도 가능합니…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/127140?page=1"
   },
   {
    "type": "event",

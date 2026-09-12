@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-11T22:07:21Z",
+ "generatedAt": "2026-09-12T21:32:10Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:185",
-   "title": "[연계] 무료 연계교육 3강좌 신청 안내(추첨)",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆[추첨 모집]무료 연계교육 3강좌 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. [추첨 모집]무료 연계교육 3강좌 신청 안내입니다. 1. AI운동돌봄 필라테스(4차) 1) 기간 : 8/24(월)~12/14(월) 총16회 2) 시간 : 매주 월요일 12:00~13:00 3) 장소 : 반포느티나무쉼터 어울림터 4) 정원…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=185&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:186",
