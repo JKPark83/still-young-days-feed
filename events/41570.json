@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-12T21:32:10Z",
+ "generatedAt": "2026-09-13T21:39:20Z",
  "items": [
   {
    "type": "event",
@@ -137,6 +137,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4275&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4277",
+   "title": "[휴관 안내] 복지관 추석 휴관 안내",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "662230448_1789309671.1295.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4277&page=1"
   }
  ]
 }

@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-12T21:32:10Z",
+ "generatedAt": "2026-09-13T21:39:20Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-039:1504",
-   "title": "키오스크(전자출결시스템) 시범운영 안내",
-   "place": "구립신사노인복지관",
-   "address": null,
-   "phone": "02-302-0303",
-   "org": "구립신사노인복지관",
-   "description": "437cca6d6f47ecc859c09f830885a22e_1786580267_0952.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1504&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-039:1505",

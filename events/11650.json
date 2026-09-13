@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-12T21:32:10Z",
+ "generatedAt": "2026-09-13T21:39:20Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:186",
-   "title": "[연계] 8/19(수) 이동식 생활수리 서비스 신청 안내",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆ 8/19(수) 이동식 생활수리 서비스 안내 ☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. \"주민 일상 속 불편을 해결해 드리는 이동식 생활수리 서비스가 찾아옵니다. 고장난 우산, 무뎌진 칼(가위), 더러워진 운동화를 저렴한 비용으로 편리하게 관리해 보세요!\" <서초 바퀴달린 우산과 칼 그리고 운동화> 1. 일시: 8/19(…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=186&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:189",

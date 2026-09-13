@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-12T21:32:10Z",
+ "generatedAt": "2026-09-13T21:39:20Z",
  "items": [
   {
    "type": "event",
@@ -77,21 +77,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127140?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:127178",
-   "title": "[홍보/후원] 해피빈 콩기부 프로젝트-잊혀진 기억, 생일상 편",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "1.png 2.png 3.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/127178?page=1"
   },
   {
    "type": "event",
