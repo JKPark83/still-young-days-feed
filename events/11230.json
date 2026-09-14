@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-09-13T21:39:20Z",
+ "generatedAt": "2026-09-14T22:32:58Z",
  "items": [
   {
    "type": "event",
@@ -151,7 +151,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=905"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=905"
   },
   {
    "type": "event",
@@ -216,7 +216,7 @@
   {
    "type": "event",
    "id": "center:seoul-015:notice.asp",
-   "title": "[공지] \"보름달 처럼 풍성한 한가위 되세요!\" 9월 휴관 안내, 추석 연휴(9/24~9/27)",
+   "title": "[공지] \"보름달처럼 풍성한 한가위 되세요!\" 9월 휴관 안내, 추석 연휴(9/24~9/27)",
    "place": "동백꽃노인종합복지관",
    "address": null,
    "phone": "02-2212-1201",

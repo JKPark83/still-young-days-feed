@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-09-13T21:39:20Z",
+ "generatedAt": "2026-09-14T22:32:58Z",
  "items": [
   {
    "type": "event",
@@ -152,6 +152,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=289&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:292",
+   "title": "[모집] 대한백세누리건강협회 지원 신나는 1일 댄스수업 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀후 '줌바댄스 ' 라고 말씀해주세요 !] - 장소 : 복지관 1층 활기숲 - 신청방법 : 전화접수 ☎ 070-4616-2708( ☎ 031-522-6406) - 접수일정 : 9. 14( 월 ) ~ 9. 18.(금 ) 14:00 - 교육일정: 9. 22(화) 14:30~15:20 - 모집인원 : 복지관 회원 30 명 ( 정원초…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=292&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:291",
+   "title": "[모집] 남양주시가족센터와 함께하는 수채화 그림 특강 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀후 '수채화 ' 라고 말씀해주세요 !] - 장소 : 복지관 2층 헤아림 - 신청방법 : 전화접수 ☎ 070-4616-2708( ☎ 031-522-6406) - 접수일정 : 9. 14( 월 ) ~ 9. 18.(금 ) 14:00 - 교육일정: 10. 1.(목) 10:00~12:00 - 모집인원 : 복지관 회원 10 명 ( 정원초…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=291&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:290",
+   "title": "[모집] Chatgpt로 배우는 AI강좌 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀후 'AI교육 '이 라고 말씀해주세요 !] [본 수업은 할인대상에서 제외됩니다. ] - 장소 : 복지관 2층 헤아림 - 신청방법 : 전화접수 ☎ 070-4616-2708 - 접수일정 : 9. 14( 월 ) ~ 9. 18.(금 ) 14:00 - 교육일정: 10. 6.(수)~12. 9.(수) 매주 수요일 10:00~11:40 -…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=290&page=1"
   }
  ]
 }
