@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-14T22:32:58Z",
+ "generatedAt": "2026-09-17T22:11:45Z",
  "items": [
   {
    "type": "event",
@@ -61,7 +61,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=197&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=197&page=2"
   },
   {
    "type": "event",
@@ -91,7 +91,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=204&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=204&page=2"
   },
   {
    "type": "event",
@@ -106,7 +106,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=203&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=203&page=2"
   },
   {
    "type": "event",
@@ -121,7 +121,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=202&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=202&page=2"
   },
   {
    "type": "event",
@@ -136,7 +136,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=201&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=201&page=2"
   },
   {
    "type": "event",
@@ -151,7 +151,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=200&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=200&page=2"
   },
   {
    "type": "event",
@@ -166,7 +166,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=199&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=199&page=2"
   },
   {
    "type": "event",
@@ -230,6 +230,81 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-071:219",
+   "title": "[추첨결과 안내] 반포느티나무쉼터 금요일 강좌_시니어핏1/2, 연기와 함께하는 음악극, 일어회화 초급/중급, 합창",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆4학기 금요일 프로그램 추첨 결과 안내☆★ ▶ 금요일 프로그램: 시니어핏1/2, 연기와 함께하는 음악극, 일어회화 초급/중급, 합창 <수업 휴강일 안내> -월요일 수업 휴강일: 10월 5일(월) 개천절 대체공휴일 -금요일 수업 휴강일: 10월 9일(금) 한글날, 12월 25일(금) 성탄절 ※법정공휴일로 인한 휴강은 보강을 하지 않습니다. ◎ 수납기간:…",
+   "eventDate": "2026-10-05",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=219&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:218",
+   "title": "[추첨결과 안내] 반포느티나무쉼터 목요일 강좌_뇌밸런스 강화운동, 단전호흡, 모델워킹 심화/중급, 삼바, 차차차, 수필, 스마…",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆4학기 목요일 프로그램 추첨 결과 안내☆★ ▶ 목요일 프로그램: 뇌밸런스 강화운동, 단전호흡, 모델워킹 심화/중급, 삼바, 차차차, 수필, 스마트폰 완전정복, 영어 프리토킹 중급, 하모니카 고급/중급/초급 <수업 휴강일 안내> -월요일 수업 휴강일: 10월 5일(월) 개천절 대체공휴일 -금요일 수업 휴강일: 10월 9일(금) 한글날, 12월 25일(금…",
+   "eventDate": "2026-10-05",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=218&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:217",
+   "title": "[추첨결과 안내] 반포느티나무쉼터 수요일 강좌_모델워킹 기초, 체형밸런스 잡기, 룸바, 자이브, 몸동작트레이닝, 챗지피티 활용…",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆4학기 수요일 프로그램 추첨 결과 안내☆★ ▶ 수요일 프로그램: 모델워킹 기초, 체형밸런스 잡기, 룸바, 자이브, 몸동작트레이닝, 챗지피티 활용 기초/심화, 보컬트레이닝 기초/심화 <수업 휴강일 안내> -월요일 수업 휴강일: 10월 5일(월) 개천절 대체공휴일 -금요일 수업 휴강일: 10월 9일(금) 한글날, 12월 25일(금) 성탄절 ※법정공휴일로…",
+   "eventDate": "2026-10-05",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=217&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:216",
+   "title": "[추첨결과 안내] 반포느티나무쉼터 화요일 강좌_힐링 써클댄스 기초/심화, 통기타노래 입문/심화, 선드로잉, 색드로잉, 마카드로…",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆4학기 화요일 프로그램 추첨 결과 안내☆★ ▶ 화요일 프로그램: 힐링 써클댄스 기초/심화, 통기타노래 입문/심화, 선드로잉, 색드로잉, 마카드로잉, 야사시이 일본어, 일어 프리토킹 중고급, 성악 <수업 휴강일 안내> -월요일 수업 휴강일: 10월 5일(월) 개천절 대체공휴일 -금요일 수업 휴강일: 10월 9일(금) 한글날, 12월 25일(금) 성탄절…",
+   "eventDate": "2026-10-05",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=216&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:215",
+   "title": "[추첨결과 안내] 반포느티나무쉼터 월요일 강좌_자율신경계 회복 tre1/2, 요가, 필라테스, 칼림바, 스페인어 입문/초중급,…",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆ 4학기 월요일 프로그램 추첨 결과 안내 ☆★ ▶ 월요일 프로그램: 자율신경계 회복 tre1/2, 요가, 필라테스, 칼림바, 스페인어 입문/초중급, 스마트폰활용 기본/심화 <수업 휴강일 안내> - 월요일 수업 휴강일: 10월 5일(월) 개천절 대체공휴일 -금요일 수업 휴강일: 10월 9일(금) 한글날, 12월 25일(금) 성탄절 ※법정공휴일로 인한 휴…",
+   "eventDate": "2026-10-05",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=215&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-071:209",
    "title": "반포느티나무쉼터 2026년 4학기[10/5(월)~12/25(금)] 프로그램 접수 안내",
    "place": "반포느티나무쉼터",
@@ -245,6 +320,21 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-071:214",
+   "title": "[추첨결과 안내] 반포2동 서초시니어라운지 <함께 읽는 책 이야기>",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆[추첨결과 안내] 반포2동 서초시니어라운지 <함께 읽는 책 이야기>☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 반포느티나무쉼터 느티풀 자원봉사단 교육분야 활동으로 진행되는 반포2동 서초시니어라운지 <함께 읽는 책 이야기> 프로그램 추첨 결과를 안내드립니다. <함께 읽는 책 이야기> ◎기간: 2026. 10. 12.(월) ~…",
+   "eventDate": "2026-10-12",
+   "eventEnd": "2026-12-21",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=214&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-071:208",
    "title": "[느티풀] 반포2동 서초시니어라운지 <함께 읽는 책 이야기> 프로그램 참여자 모집 안내",
    "place": "반포느티나무쉼터",
@@ -257,6 +347,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=208&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:213",
+   "title": "[세대통합 특강] 테너 이아람과 함께하는 제10회 <내 집 앞 라운지 음악캠프>",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆반포2동 서초시니어라운지 제10차 내 집 앞 음악캠프 특강 안내☆★ 안녕하세요? 신중년의 품격을 더하는 서초구립 반포느티나무쉼터입니다. 선선한 바람이 불어오는 가을, 음악과 함께 특별한 시간을 보내보세요. 테너 이아람과 함께하는 <내 집 앞 음악캠프>가 어느덧 제10차를 맞이하였습니다. 감미로운 성악 공연과 함께 익숙한 곡을 함께 부르며 즐기는 이번…",
+   "eventDate": "2026-10-15",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=213&page=1"
   }
  ]
 }

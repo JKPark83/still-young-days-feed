@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-14T22:32:58Z",
+ "generatedAt": "2026-09-17T22:11:45Z",
  "items": [
   {
    "type": "event",
@@ -122,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1515&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-039:1516",
+   "title": "추석연휴 휴관안내",
+   "place": "구립신사노인복지관",
+   "address": null,
+   "phone": "02-302-0303",
+   "org": "구립신사노인복지관",
+   "description": "c91e91976a8364d94503956350fab33d_1789606700_4579.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1516&page=1"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-09-14T22:32:58Z",
+ "generatedAt": "2026-09-17T22:11:45Z",
  "items": [
   {
    "type": "event",
@@ -137,6 +137,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=553&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:555",
+   "title": "[사회교육] 2026 노인의날 기념 동작어르신행복축제 공모전 참가 신청 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1789531645.0029.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=555&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:554",
+   "title": "[사회교육] 2026 노인의날 기념 동작어르신행복축제 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1789531558.0779.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=554&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:557",
+   "title": "[휴관] 9월 휴관 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1789636329.0233.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=557&page=1"
   }
  ]
 }
