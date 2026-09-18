@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-17T22:11:45Z",
+ "generatedAt": "2026-09-18T21:53:32Z",
  "items": [
   {
    "type": "event",
@@ -272,21 +272,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/130602?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:130189",
-   "title": "[보건/의료] 안마서비스 명단(9월17일,2조)",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "2026 년 9 월 17 일 안마 명단 (2 조 ) 1 시 30 분 2 시 10 분 2 시 50 분 1 이규자 1 이순하 1 임돌남 2 한만자 2 이정옥 2 김화조 3 이규환 3 박광민 3 최길순 4 김순옥 4 민보기 4 임양수 5 송봉심 5 이명숙 5 양계화 6 서윤자 6 김정희 6 박상득",
-   "eventDate": "2026-09-17",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/130189?page=1"
   },
   {
    "type": "event",

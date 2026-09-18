@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11350",
- "generatedAt": "2026-09-17T22:11:45Z",
+ "generatedAt": "2026-09-18T21:53:32Z",
  "items": [
   {
    "type": "event",
@@ -32,36 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=493&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-034:517",
-   "title": "공지사항 | 2026년 하반기 노년사회화교육 [취미여가 프로그램] 강의계획서",
-   "place": "수락노인종합복지관",
-   "address": null,
-   "phone": "02-939-6060",
-   "org": "수락노인종합복지관",
-   "description": "3076553592_1787038037.4031.jpg 3076553592_1787038042.6212.jpg 3076553592_1787038046.2485.jpg 3076553592_1787038049.7135.jpg 3076553592_1787038054.0057.jpg 3076553592_1787038058.3501.jpg 3076553592_17…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=517&page=3"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-034:516",
-   "title": "공지사항 | 2026년 하반기 노년사회화교육 [어학/정보화 프로그램] 강의계획서",
-   "place": "수락노인종합복지관",
-   "address": null,
-   "phone": "02-939-6060",
-   "org": "수락노인종합복지관",
-   "description": "3076553592_1787032528.0499.jpg 3076553592_1787032532.3928.jpg 3076553592_1787032536.1629.jpg 3076553592_1787032540.3326.jpg 3076553592_1787032544.6074.jpg 3076553592_1787032548.544.jpg 3076553592_178…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=516&page=4"
   },
   {
    "type": "event",
@@ -241,7 +211,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=547&page=1"
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=547&page=2"
   },
   {
    "type": "event",
@@ -466,7 +436,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=532&page=2"
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=532&page=3"
   },
   {
    "type": "event",
@@ -692,6 +662,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=559&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-034:560",
+   "title": "정보공개 | 2026년 3차 운영위원회 결과 공개",
+   "place": "수락노인종합복지관",
+   "address": null,
+   "phone": "02-939-6060",
+   "org": "수락노인종합복지관",
+   "description": "3076553592_1789713618.053.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=560&page=1"
   }
  ]
 }

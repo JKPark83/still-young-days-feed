@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26470",
- "generatedAt": "2026-09-17T22:11:45Z",
+ "generatedAt": "2026-09-18T21:53:32Z",
  "items": [
   {
    "type": "event",
@@ -17,36 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1579&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-021:1598",
-   "title": "언론보도",
-   "place": "부산광역시노인종합복지관",
-   "address": null,
-   "phone": "051-853-1872",
-   "org": "부산광역시노인종합복지관",
-   "description": "88edad7117a40984998ead9e60cf3b9c_1787035247_7058.png 부산광역시노인종합복지관, 말복 맞아 어르신 500명에 보양식…“건강한 여름나기 응원” < 복지관 < 사회단체 < 기사본문 - 복지TV부울경방송",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1598&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-021:1597",
-   "title": "언론보도",
-   "place": "부산광역시노인종합복지관",
-   "address": null,
-   "phone": "051-853-1872",
-   "org": "부산광역시노인종합복지관",
-   "description": "88edad7117a40984998ead9e60cf3b9c_1787035057_9832.png ‘마음을 담은 보양식’… 부산노인종합복지관, 어르신 500명에 따뜻한 한 끼",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1597&page=1"
   },
   {
    "type": "event",

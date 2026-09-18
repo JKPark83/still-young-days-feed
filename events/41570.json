@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-17T22:11:45Z",
+ "generatedAt": "2026-09-18T21:53:32Z",
  "items": [
   {
    "type": "event",
@@ -152,6 +152,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4277&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4278",
+   "title": "2026년 제3차 운영위원회 결과 안내",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "995555512_1789705120.2404.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4278&page=1"
   }
  ]
 }

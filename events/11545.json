@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-17T22:11:45Z",
+ "generatedAt": "2026-09-18T21:53:32Z",
  "items": [
   {
    "type": "event",
@@ -122,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1409&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1410",
+   "title": "<수의계약발주계획> 금천노인종합복지관 노인맞춤돌봄서비스사업 사회참여 및 특화지원-우울완화(자조모임) 프로그램 「우리…",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "< 수의계약발주계획 > 금천노인종합복지관 노인맞춤돌봄서비스사업 사회참여 및 특화지원 - 우울완화 ( 자조모임 ) 프로그램 「 우리로 잇는 요리 」 물품 ( 안동찜닭 밀키트 / 소고기샤브샤브 밀키트 ) 구입 - 사업개요 ❍ 납품일자 : 2026 년 10 월 14 일 ❍ 납품장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ❍ 납품물품 :…",
+   "eventDate": "2026-10-14",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1410&page=1"
   },
   {
    "type": "event",
