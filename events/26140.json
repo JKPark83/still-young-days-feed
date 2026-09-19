@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-18T21:53:32Z",
+ "generatedAt": "2026-09-19T21:46:17Z",
  "items": [
   {
    "type": "event",
@@ -77,21 +77,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127140?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:127224",
-   "title": "[공고] 2026년 응급안전안심서비스 사회복지사 채용 모집 공고",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "2026 년 응급안전안심서비스 사회복지사 모집공고 2026 년 대전 서구 「 응급안전안심서비스사업 」 에서 함께 근무할 사회복지사를 다음과 같이 모집 공고합니다 . image.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/127224?page=1"
   },
   {
    "type": "event",

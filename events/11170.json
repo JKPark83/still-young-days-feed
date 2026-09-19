@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-09-18T21:53:32Z",
+ "generatedAt": "2026-09-19T21:46:17Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2355&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-004:2357",
-   "title": "[권익증진] 제2차 노인권익증진 공개강좌 'AI 찾아봄' 추첨 결과 안내",
-   "place": "용산노인종합복지관",
-   "address": null,
-   "phone": "02-794-6100",
-   "org": "용산노인종합복지관",
-   "description": "어르신, 안녕하세요. 용산노인종합복지관입니다. 지난 번 신청해 주신 AI 찾아봄 교육에 약 70여 명의 어르신께서 관심을 가져 주시고 신청해 주시어 추첨을 진행하게 되었습니다. 추첨 결과 총 12명의 어르신께서 선정 되시어 프로그램을 수강하시게 되었습니다. [AI 찾아봄 교육 최종 당첨자 명단] - 고*자(4311) - 권*순(1649) - 노*자(299…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2357&page=1"
   },
   {
    "type": "event",
