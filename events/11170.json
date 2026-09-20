@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-09-19T21:46:17Z",
+ "generatedAt": "2026-09-20T21:30:46Z",
  "items": [
   {
    "type": "event",
@@ -137,6 +137,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2369&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-004:2371",
+   "title": "[홍보] 카카오톡으로 복지관 깜짝 취재기자가 되어보세요~!",
+   "place": "용산노인종합복지관",
+   "address": null,
+   "phone": "02-794-6100",
+   "org": "용산노인종합복지관",
+   "description": "31394942_1789914454.1157.jpg 2026년 ﻿추석행사 모습을 카카오톡으로 남겨주세요! 멋지게 행사 모습을 남긴 3명의 기자에게 선물을 드립니다~ 9/22(화) 10:00~12:00 추석행사가 진행되는 동안 예쁘게 사진을 찍어 행사 내용, 어르신의 소감을 함께 남겨주시면 추첨을 통해 '기자왕' 선물을 드립니다! 행복한 그날의 추억을 카카…",
+   "eventDate": "2026-09-22",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2371&page=1"
   },
   {
    "type": "event",

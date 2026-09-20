@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-19T21:46:17Z",
+ "generatedAt": "2026-09-20T21:30:46Z",
  "items": [
   {
    "type": "event",
@@ -122,36 +122,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1441",
-   "title": "공지 | 2026년 2학기 교육문화 프로그램 강사 채용 합격자 공고",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "2026년 2학기 교육문화 프로그램 강사 채용 합격자를 공고합니다. 구분 채용 분야 합격자명 연락처(끝번호) 평택서부노인복지관 기체조 이*주 5569 시니어 모델 워킹 백*선 7168 AI 활용 교실 정*근 7474 지원해 주신 모든 분들께 진심으로 감사드리며, 앞으로도 우리 복지관에 많은 관심 부탁드립니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1441&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1440",
-   "title": "공지 | 2026년 1인가구 식생활자립을 위한 요리프로그램 '행복식탁' 참여자 모집",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "2026년 1인가구 어르신 식생활 자립을 위한 요리 프로그램 '행복식탁' 참여자 모집합니다! 요리활동을 통해 건강한 식생활을 배우고 따뜻한 시간을 함께해보세요~ 많은 관심 부탁드립니다. 1. 혼자 보내는 시간이 많은 어르신 2. 가족을 돌보느라 자신을 위한 시간이 부족한 어르신 (장기요양5등급 이상) 3. 이웃과 함께 요리하고 소통하는 활동에 참여하고 싶…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1440&page=1"
   },
   {
    "type": "event",

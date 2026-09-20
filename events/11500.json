@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11500",
- "generatedAt": "2026-09-19T21:46:17Z",
+ "generatedAt": "2026-09-20T21:30:46Z",
  "items": [
   {
    "type": "event",
@@ -62,21 +62,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.gangseosenior.or.kr/notice/1998?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-056:494",
-   "title": "9월 AI디지털배움터 접수 안내",
-   "place": "곰달래어르신복지센터",
-   "address": null,
-   "phone": "02-2699-8264",
-   "org": "곰달래어르신복지센터",
-   "description": "3717702625_1787185052.8137.jpg 3717702625_1787185056.6415.jpg 안녕하세요～ 곰달래어르신복지센터입니다. 9월 AI디지털배움터 안내입니다. 많은 관심과 신청 부탁드립니다!",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.gomdallaeswc.or.kr/bbs/board.php?bo_table=0401&wr_id=494&page=1"
   },
   {
    "type": "event",

@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-09-19T21:46:17Z",
+ "generatedAt": "2026-09-20T21:30:46Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 개별 맞춤 운동교실(혈관튼튼 관절씩씩) 진행",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260820090444892"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
