@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-20T21:30:46Z",
+ "generatedAt": "2026-09-21T22:56:53Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4278&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4279",
+   "title": "[사회교육] 상담사업 집단상담 프로그램 다시, 나의 삶을 설계하다 참여자 모집",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "995555512_1789969251.4288.jpg 다시, 나의 삶을 설계하다 지금까지 걸어온 나의 삶을 돌아보고, 앞으로의 시간을 새롭게 그려보는 집단상담 프로그램입니다. 삶의 회고부터 자기이해, 건강, 관계, 재정, 자기결정, 앞으로의 삶까지! 강의가 아닌 참여와 나눔을 중심으로 함께 이야기 합니다. 운영기간: 9월 29일~11월 17일 매주 화요일…",
+   "eventDate": "2026-09-29",
+   "eventEnd": "2026-11-17",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4279&page=1"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-20T21:30:46Z",
+ "generatedAt": "2026-09-21T22:56:53Z",
  "items": [
   {
    "type": "event",
@@ -32,6 +32,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1404&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1411",
+   "title": "[운영위원회] 2026년도 3분기(75차) 운영위원회의 공고",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "◎ 공고내용 : 2026 년도 금천노인종합복지관 ( 금천데이케어센터 ) 3 분기 ( 제 75 차 ) 운영위원회의 내용 공고 ◎ 2026 년도 금천노인종합복지관 ( 금천데이케어센터 ) 3 분기 ( 제 75 차 ) 운영위원회의 내용",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1411&page=1"
   },
   {
    "type": "event",

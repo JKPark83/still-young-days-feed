@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11410",
- "generatedAt": "2026-09-20T21:30:46Z",
+ "generatedAt": "2026-09-21T22:56:53Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=311&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-044:335",
-   "title": "2026년 라인댄스 강사 최종 합격자 공지",
-   "place": "연희노인복지관",
-   "address": null,
-   "phone": "02-3143-7778",
-   "org": "연희노인복지관",
-   "description": "연희노인복지관 라인댄스 강사 최종합격자를 아래와 같이 공지합니다. — 아 래 — 김*희(4384) 최종합격자에 한하여 개별 연락드렸습니다. 채용에 지원해 주신 모든 분들께 진심으로 감사드립니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=335&page=1"
   },
   {
    "type": "event",

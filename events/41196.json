@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-09-20T21:30:46Z",
+ "generatedAt": "2026-09-21T22:56:53Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "경기 AI 디지털 배움터 교육 당첨자 공지",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "경기 AI 디지털 배움터 교육 당첨자를 공지합니다. ○ 교육기간: 8/25(화)~12/4(금)까지 - 교육별 일정 상이하오니 확인해주세요. ○ 문의: 평생교육팀 032-683-9290",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260821140337978"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
@@ -167,6 +152,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260918091035775"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "[모집]부천시오정노인복지관 홍보서포터즈 모집",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "복지관의 프로그램, 행사, 일상을 알려 부천시오정노인복지관 온라인 홍보 활성화에 기여할 「부천시오정노인복지관 홍보서포터즈」를 다음과 같이 모집합니다. 모집대상 : 월 2회 이상 복지관 온라인 홍보활동에 적극 참여 가능한 자 모집인원 : 총 10명 모집기간 : 2026. 9. 21.(월) ~ 10. 2.(금) 18:00까지 활동기간 : 2026. 10.12…",
+   "eventDate": "2026-09-21",
+   "eventEnd": "2026-10-02",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260921184046726"
   },
   {
    "type": "event",

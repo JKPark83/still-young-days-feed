@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-20T21:30:46Z",
+ "generatedAt": "2026-09-21T22:56:53Z",
  "items": [
   {
    "type": "event",
@@ -122,21 +122,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1442",
-   "title": "공지 | 2026년 코드맵 AI 신청자 모집",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "8505db61cccc4afc764d8a81118a9372_1787282452_1837.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1442&page=1"
   },
   {
    "type": "event",

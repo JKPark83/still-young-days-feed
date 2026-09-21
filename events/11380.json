@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-20T21:30:46Z",
+ "generatedAt": "2026-09-21T22:56:53Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-039:1506",
-   "title": "[인사] 2026년 은평구립신사노인복지관 출산휴가 및 육아휴직 대체인력 채용 서류 전형 합격자 공고",
-   "place": "구립신사노인복지관",
-   "address": null,
-   "phone": "02-302-0303",
-   "org": "구립신사노인복지관",
-   "description": "[2026 년 은평구립신사노인복지관 출산휴가 및 육아휴직 대체인력 채용 서류 전형 합격자 ] 접수번호 성명 핸드폰번호 ( 뒷자리 ) 2026-02 홍 0 희 7953 2026-03 강 0 진 4053 2026-04 정 0 진 8665 2026-05 이 0 산 0368 2026-07 유 0 민 6236 2026-08 이 0 희 7875 2026-09 이 0…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1506&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-039:1507",
