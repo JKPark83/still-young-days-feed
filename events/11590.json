@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-09-21T22:56:53Z",
+ "generatedAt": "2026-09-22T22:13:54Z",
  "items": [
   {
    "type": "event",
@@ -140,18 +140,48 @@
   },
   {
    "type": "event",
-   "id": "center:seoul-063:559",
-   "title": "ESG봉사대 어르신 봉사자 모집 안내",
+   "id": "center:seoul-063:562",
+   "title": "[진료실] 10월 한방진료 예약안내",
    "place": "사당어르신종합복지관",
    "address": null,
    "phone": "02-580-2410",
    "org": "사당어르신종합복지관",
-   "description": "988010681_1789969137.9482.jpg",
+   "description": "988010681_1790057344.3437.png",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=559&page=1"
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=562&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:561",
+   "title": "[자원봉사]대학생동행서포터즈 2기 모집 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1790042983.133.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=561&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:560",
+   "title": "[자원봉사]ESG봉사대 어르신 봉사자 모집 안내",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1790042905.6.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=560&page=1"
   }
  ]
 }

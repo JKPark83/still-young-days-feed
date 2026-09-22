@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-09-21T22:56:53Z",
+ "generatedAt": "2026-09-22T22:13:54Z",
  "items": [
   {
    "type": "event",
@@ -92,6 +92,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260915154456685"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "【건강생활지원사업】건주병원 기초건강체크 자원봉사 500회 기념 안내",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "건주병원과 함께한 건강 나눔, 500번째 발걸음 부천시소사노인복지관에서는 건주병원과 함께 복지관 어르신들의 건강한 일상을 위해 정기적으로 기초건강체크를 진행하고 있습니다. 매회 어르신 한 분 한 분의 건강을 세심하게 살피며 이어온 건주병원의 따뜻한 자원봉사가 어느덧 500번째를 맞이합니다. 오랜 시간 변함없이 복지관 어르신들의 곁에서 건강을 살펴주신 건주…",
+   "eventDate": "2026-09-30",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260922164320678"
   },
   {
    "type": "event",
