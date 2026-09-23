@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-22T22:13:54Z",
+ "generatedAt": "2026-09-23T22:18:40Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1411&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-059:1408",
-   "title": "<수의계약 발주계획> 금천노인종합복지관 집수정 그레이팅 교체 공사",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "< 수의계약 발주계획 > 금천노인종합복지관 집수정 그레이팅 교체 공사 건 금천노인종합복지관 집수정 그레이팅 교체 공사 건 - 사업개요 ○ 작업일자 : 2026 년 09 월 22 일 ○ 작업장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ○ 작업내용 : 집수정 노후 그레이팅 철거 및 신규 설치 ○ 소요예산 : 2,400 천원 ( 금이백사…",
-   "eventDate": "2026-09-22",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1408&page=1"
   },
   {
    "type": "event",
@@ -137,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1401&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1412",
+   "title": "[금천노인종합복지관] 어르신 작품전시회 부스 관리 봉사자 모집",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "[금천노인종합복지관] 어르신 작품전시회 부스 관리 봉사자 모집 1. 기간 : 2026년 10월 27일(화) ~ 30일(금), 총 4일 2. 시간 : 9시 ~ 13시(4h) / 13시~ 17시(4h) * 4일 중 원하는 날짜와 시간대를 선택하여 신청 가능합니다. * 여러 날 중복 참여 및 종일 봉사 환영합니다! 3. 내용 : - 어르신 작품 전시 공간 내…",
+   "eventDate": "2026-10-27",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1412&page=1"
   }
  ]
 }

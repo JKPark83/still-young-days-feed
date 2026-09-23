@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-22T22:13:54Z",
+ "generatedAt": "2026-09-23T22:18:40Z",
  "items": [
   {
    "type": "event",
@@ -272,6 +272,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ptsenior.or.kr/notice/1174?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1450",
+   "title": "공지 | 2026년 2기 관계회복을 위한 집단상담 '마음이음' 집단원 모집",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "평택서부노인복지관의 노인상담센터에서 2026년 2기 집단상담에 함께 할 회원을 모집합니다. 사회적 관계를 회복하고 싶은 분들의 관심과 참여 부탁드립니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1450&page=1"
   }
  ]
 }

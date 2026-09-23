@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-09-22T22:13:54Z",
+ "generatedAt": "2026-09-23T22:18:40Z",
  "items": [
   {
    "type": "event",
@@ -61,7 +61,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=282&page=1"
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=282&page=2"
   },
   {
    "type": "event",
@@ -212,6 +212,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=294&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:297",
+   "title": "[모집] 나은오늘법률사무소와 함께하는 법률무료상담 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 '법률상담 '이 라고 말씀해주세요 !] - 장소 : 복지관 1층 상담실 - 신청방법 : 전화접수 ☎ 031-522-6426 - 접수일정 : 9. 28.( 월 ) ~ 10. 8.(목 ) 16:00 - 상담일정: 10. 13.(화) 10:00 ~ 12:00 - 모집인원 : 복지관 회원 8 명 ( 선착순 접수 ) 452ec2…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=297&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:296",
+   "title": "[모집] 제30회 노인의 날 기념 행사 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수 시 회원번호를 말씀하신 후 , ‘ 노인의 날 ’ 행사 신청이라고 말씀해주세요 !] [ 신청 시 이동방법을 ‘ 셔틀버스 이용 ’ 또는 ‘ 개별이동 ’ 중 선택해주세요 . ※ 행사장 주차지원은 불가합니다 .] ※ 개별이동 회원님은 13:00 까지 남양주체육문화센터 입구로 와주시고 , 행사 참여 확인을 위한 출석체크에 꼭 협조 부탁드립니다 . -…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=296&page=1"
   }
  ]
 }
