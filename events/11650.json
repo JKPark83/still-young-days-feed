@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-23T22:18:40Z",
+ "generatedAt": "2026-09-24T22:20:24Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:194",
-   "title": "[연계] 무료 연계교육 2강좌 신청 안내(추첨)_중년비만zero 뱃살컷 프로젝트, 실전 키오스크 사용법",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆[추첨 모집]무료 연계교육 2강좌 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. [추첨 모집] 무료 연계교육 2강좌 신청 안내입니다. 1. 실전 키오스크 사용법 1) 기간: 9/16(수)~10/14(수) 총4회 ※10/7(수) 휴강 2) 시간: 매주 수 10:00 ~ 12:00(2시간) 3) 장소: 반포느티나무쉼터…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=194&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:197",

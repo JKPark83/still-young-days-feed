@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-09-23T22:18:40Z",
+ "generatedAt": "2026-09-24T22:20:24Z",
  "items": [
   {
    "type": "event",
@@ -107,21 +107,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2363&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-004:2360",
-   "title": "[모집안내]치매예방프로그램 '디지털 뇌 건강교실' 참여자 모집",
-   "place": "용산노인종합복지관",
-   "address": null,
-   "phone": "02-794-6100",
-   "org": "용산노인종합복지관",
-   "description": "어르신들의 건강관리를 위해 용산구 치매안심센터와 함께하는 치매예방 프로그램인 ' 디지털 뇌 건강교실 ' 참여자를 모집합니다 . 어르신들의 많은 참여와 관심 바랍니다 . [ 디지털 뇌 건강교실 ] - 치매예방 프로그램 : ICT 활용 교육 , 치매예방 교육 , 인지 활동 등 - 프로그램 기간 : 2026 년 9 월 9 일 ( 수 ) ~ 10 월 28 일 (…",
-   "eventDate": "2026-09-09",
-   "eventEnd": "2026-10-28",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2360&page=1"
   },
   {
    "type": "event",

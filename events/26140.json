@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-23T22:18:40Z",
+ "generatedAt": "2026-09-24T22:20:24Z",
  "items": [
   {
    "type": "event",
@@ -77,21 +77,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127140?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:127291",
-   "title": "[보건/의료] 이미용서비스 이용 안내",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "K-008.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/127291?page=1"
   },
   {
    "type": "event",

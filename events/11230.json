@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-09-23T22:18:40Z",
+ "generatedAt": "2026-09-24T22:20:24Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=883"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "[모집] 퇴행성 척추질환 바로알기 건강특강",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=909"
   },
   {
    "type": "event",

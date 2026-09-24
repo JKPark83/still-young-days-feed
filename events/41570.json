@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-23T22:18:40Z",
+ "generatedAt": "2026-09-24T22:20:24Z",
  "items": [
   {
    "type": "event",
@@ -122,21 +122,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4276&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4275",
-   "title": "[사회교육] 욕구기반 시범 프로그램 'AI 활용교실:일상생활에서 만나는 인공지능' 수강생 모집",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "2026년 욕구기반 시범 프로그램 'AI 활용교실:일상생활에서 만나는 인공지능' 수강생을 모집합니다. 접수기간 : 2026년 9월 10일(목)~9월 23일(수) 합격발표 : 2026년 9월 28일(월) 09:00 *추첨 진행 모집인원 : 20명 995555512_1789012700.7326.jpg",
-   "eventDate": "2026-09-10",
-   "eventEnd": "2026-09-23",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4275&page=1"
   },
   {
    "type": "event",
