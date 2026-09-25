@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-24T22:20:24Z",
+ "generatedAt": "2026-09-25T22:25:21Z",
  "items": [
   {
    "type": "event",
@@ -122,21 +122,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-033:1169",
-   "title": "(특화) 우리 모두 함께 해요! 지속 가능한 ESG복지관 만들기! [ESG스템프투어]",
-   "place": "평택남부노인복지관",
-   "address": null,
-   "phone": "031-8036-4900",
-   "org": "평택남부노인복지관",
-   "description": "e2ccbb95477306d7b63e85b0cbe8d10a_1787626166_0776.jpg 우리 모두 함께 해요! 지속 가능한 ESG복지관 만들기! 평택남부노인복지관은 ‘행복·가치(=같이)·희망’​의 비젼으로 어르신과 지역사회가 함께하는 지속 가능한 복지공동체를 만들어가기 위해 E S G 경영을 실천하고 있습니다. ESG는 거창한 것이 아닙니다! 음식…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ptsenior.or.kr/notice/1169?page=1"
   },
   {
    "type": "event",

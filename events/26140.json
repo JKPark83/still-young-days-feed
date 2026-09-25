@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-24T22:20:24Z",
+ "generatedAt": "2026-09-25T22:25:21Z",
  "items": [
   {
    "type": "event",
@@ -77,21 +77,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127140?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:127311",
-   "title": "[홍보/후원] 해피빈 콩기부 프로젝트- 함께 마음을 나눌 추석편",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "5.png 6.png 7.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/127311?page=1"
   },
   {
    "type": "event",

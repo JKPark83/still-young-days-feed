@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-09-24T22:20:24Z",
+ "generatedAt": "2026-09-25T22:25:21Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2355&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-004:2361",
-   "title": "[권익증진] 2026년 8월 게릴라 데이트 참여자 추첨 결과 안내",
-   "place": "용산노인종합복지관",
-   "address": null,
-   "phone": "02-794-6100",
-   "org": "용산노인종합복지관",
-   "description": "어르신, 안녕하세요. 용산노인종합복지관입니다. 지난 번 신청해 주신 8월 게릴라 데이트에 약 40여 명의 어르신께서 관심을 가져 주시고 신청해 주시어 추첨을 진행하게 되었습니다. 추첨 결과 총 19명의 어르신께서 선정 되시어 함께 하게 되었습니다. [게릴라 데이트 당첨 명단] -유*자(8742) -박*주(8999) -장*례(2160) -배*영(6868)…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2361&page=1"
   },
   {
    "type": "event",
