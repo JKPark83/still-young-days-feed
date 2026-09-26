@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-25T22:25:21Z",
+ "generatedAt": "2026-09-26T22:14:50Z",
  "items": [
   {
    "type": "event",
@@ -47,6 +47,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=276&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-036:281",
+   "title": "2025년 평택팽성노인복지관 제3차 운영위원회 결과 공시",
+   "place": "평택팽성노인복지관",
+   "address": null,
+   "phone": "031-650-2621",
+   "org": "평택팽성노인복지관",
+   "description": "2025년 평택팽성노인복지관 제3차 운영위원회 결과를 붙임과 공시합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=281&page=1"
   },
   {
    "type": "event",
