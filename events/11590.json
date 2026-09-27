@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-09-26T22:14:50Z",
+ "generatedAt": "2026-09-27T22:17:39Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-063:549",
-   "title": "[진료실] 9월 한방진료 예약안내",
-   "place": "사당어르신종합복지관",
-   "address": null,
-   "phone": "02-580-2410",
-   "org": "사당어르신종합복지관",
-   "description": "988010681_1787805992.7512.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=549&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-063:550",

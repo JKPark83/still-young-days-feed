@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-09-26T22:14:50Z",
+ "generatedAt": "2026-09-27T22:17:39Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4076&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4270",
-   "title": "[사회교육] 2026년 3기 노년사회화교육 프로그램 추첨 결과 안내",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "안녕하세요 김포시노인종합복지관 입니다 . 2026 년 3 기 노년사회화교육 프로그램 추첨 이 완료되었습니다 . 감사합니다 . ★ 관련 문의는 1층 문화복지과 내방 및 유선(031-8048-1117~9)으로 문의해주시기 바랍니다.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4270&page=1"
   },
   {
    "type": "event",
