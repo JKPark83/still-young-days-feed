@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-09-27T22:17:39Z",
+ "generatedAt": "2026-09-29T23:19:05Z",
  "items": [
   {
    "type": "event",
@@ -32,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=818"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "2026년 하반기 사회교육 프로그램 청강 제도 운영",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=883"
   },
   {
    "type": "event",
@@ -151,7 +136,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=930"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=930"
   },
   {
    "type": "event",

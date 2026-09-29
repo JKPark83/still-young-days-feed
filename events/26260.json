@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "26260",
- "generatedAt": "2026-09-27T22:17:39Z",
- "items": []
+ "generatedAt": "2026-09-29T23:19:05Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-009:view.php",
+   "title": "사전연명의료의의향상담 26년 11월 예약 마감",
+   "place": "동래구노인복지관",
+   "address": null,
+   "phone": "051-554-6252",
+   "org": "동래구노인복지관",
+   "description": "사전연명의료의향상담 예약 안내 드립니다 . 사전연명의료의의향상담 26 년 11 월 예약 마감되었습니다 . 이후에는 12 월부터 순차적으로 예약 접수 되는 점 참고 바랍니다 .",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.dnswc.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzYm0Gtm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }

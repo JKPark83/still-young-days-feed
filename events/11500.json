@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11500",
- "generatedAt": "2026-09-27T22:17:39Z",
+ "generatedAt": "2026-09-29T23:19:05Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.gomdallaeswc.or.kr/bbs/board.php?bo_table=0401&wr_id=499&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-052:2172",
+   "title": "[공지] 마음더하기 참여자 모집",
+   "place": "강서노인종합복지관",
+   "address": null,
+   "phone": "02-3664-0322",
+   "org": "강서노인종합복지관",
+   "description": "[공지] 마음더하기 참여자 모집",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.gangseosenior.or.kr/notice/2172?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-056:500",
+   "title": "10월 휴관 안내",
+   "place": "곰달래어르신복지센터",
+   "address": null,
+   "phone": "02-2699-8264",
+   "org": "곰달래어르신복지센터",
+   "description": "3717702625_1790671934.4423.png 10월 휴관 안내입니다. 일정에 참고하시길 바랍니다. 감사합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.gomdallaeswc.or.kr/bbs/board.php?bo_table=0401&wr_id=500&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-052:2173",
+   "title": "[공지] 중장년 독서논술지도사 자격과정 취업교육 안내",
+   "place": "강서노인종합복지관",
+   "address": null,
+   "phone": "02-3664-0322",
+   "org": "강서노인종합복지관",
+   "description": "<취업교육 안내> 독서논술지도사 자격증 과정 최근 초등 늘봄교실 및 방과후교실 확대 정책에 따라 교육돌봄 분야 인력 수요가 지속적으로 증가하고 있습니다. 특히, 중장년층의 경우 경력단절 이후 비교적 진입이 용이하고 지속 가능한 일자리로 교육돌봄 직종에 대한 관심이 높아지고 있으며, 이에 따라, 자격 기반(독서논술 지도사 등)으로 진입 가능한 교육돌봄 분야…",
+   "eventDate": "2026-10-12",
+   "eventEnd": "2026-11-30",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.gangseosenior.or.kr/notice/2173?page=1"
   }
  ]
 }

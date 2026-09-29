@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-09-27T22:17:39Z",
+ "generatedAt": "2026-09-29T23:19:05Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1411&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-059:1409",
-   "title": "[찾아가는취업센터(홍보 캠페인) 자원봉사자 모집]",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "[찾아가는취업센터(홍보 캠페인) 자원봉사자 모집] - 모집인원: 2명 - 일자: 2026. 9. 28(월) - 시간: 14:00~17:00 (3h) - 장소: 금천구 금빛공원(시흥1동주민센터 부근) - 내용: 고령구직자 대상 취업알선사업 홍보 및 상담 보조 - 문의: 김수지 사회복지사(070-7090-5417)",
-   "eventDate": "2026-09-28",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1409&page=1"
   },
   {
    "type": "event",

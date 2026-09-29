@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26200",
- "generatedAt": "2026-09-27T22:17:39Z",
+ "generatedAt": "2026-09-29T23:19:05Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjX0tz0f2qKjxyVjMjxvusw1tzWLhvJnwqKjxyVjMj4Kto20tB152x3vwA2zspKXwzPzwELTMj9uwBH5wELTMjLnwA09MBFD1u9qusKjxyVjMj9u3zM0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-006:view.php",
-   "title": "2026년 제6회 영도구노인복지관 백일장 영도구 어르신 글솜씨 뽐내기 대회",
-   "place": "영도구노인복지관",
-   "address": null,
-   "phone": "051-417-6344",
-   "org": "영도구노인복지관",
-   "description": "제2026-049호 이미지 대체문구를 입력하세요 어르신들의 많은 관심과 참여 부탁드립니다!",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzso1iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   },
   {
    "type": "event",

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-09-27T22:17:39Z",
+ "generatedAt": "2026-09-29T23:19:05Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260923105134991"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026 노인의날 기념 AI 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」 최종 수상작 발표",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "- 수상작 안내 - 1. AI캐릭터 부문 - 대상(오정에서 피어나는 행복) - 최우수상(오동이&정이-나이보다 빛나는 오늘, 우리만의 이야기) - 우수상(오정이와 함께 활기찬 미래로) - 우수상(친근하고 따뜻한 도전하는 오동이) 2. AI영상,이미지 부문 - 대상(영상 : [오정의 기적] 다시 그리는 시간, 나이보다 빛나는 오늘) https://youtu.…",
+   "eventDate": "2026-10-02",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260929100322170"
   },
   {
    "type": "event",
