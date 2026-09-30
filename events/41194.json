@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-09-29T23:19:05Z",
+ "generatedAt": "2026-09-30T23:13:41Z",
  "items": [
   {
    "type": "event",
@@ -107,6 +107,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260929185419633"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "[노년사회화교육사업] 4차 디지털정보화교실 추첨자 및 대기자 명단 발표",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260930170711925"
   },
   {
    "type": "event",

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26200",
- "generatedAt": "2026-09-29T23:19:05Z",
+ "generatedAt": "2026-09-30T23:13:41Z",
  "items": [
   {
    "type": "event",
@@ -47,6 +47,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzcn3iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "[공고/본관]2026년 제6회 영도구노인복지관 백일장 어르신 글솜씨 뽐내기 대회 결과공고",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "제2026-056호 제6회 영도구노인복지관 백일장 어르신 글솜씨 뽐내기 대회 결과공고 올해도 백일장에 관심가져주시고 참여해주신 모든 분들께 감사드립니다. '가장 기억에 남는 나의 젊은 날'이라는 주제로 힘들었지만, 따뜻하고, 찬란했던 다양한 이야기들을 만나볼 수 있었습니다. 작품을 내주신 모든 분들의 이야기가 너무도 빛나는 이야기들이었지만, 모든 어르신들…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsn3iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   }
  ]
 }

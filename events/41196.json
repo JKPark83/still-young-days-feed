@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-09-29T23:19:05Z",
+ "generatedAt": "2026-09-30T23:13:41Z",
  "items": [
   {
    "type": "event",
@@ -186,6 +186,21 @@
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026년 노인의날 기념행사 안내",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "부천시오정노인복지관에서는 10월 2일(금) 기념행사 및 야외 부대행사를 진행하오니 많은 관심바랍니다. <노인의날 기념 첼스앙상블 공연> - 일시 : 2026.10.2.(금) 11:00 - 대상 : 복지관 이용 어르신 및 지역주민 - 장소 : 복지관 4층 강당 * 공연 티켓 선착순 배부(1층 안내데스크 및 2층 사무실) <야외 부대행사> - 일시 : 202…",
+   "eventDate": "2026-10-02",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260930104237299"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
    "title": "2026 노인의날 기념 AI 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」 최종 수상작 발표",
    "place": "오정노인복지관",
    "address": null,
@@ -242,6 +257,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260915085148943"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026년 부천시오정노인복지관 식자재 납품업체 서류심사 결과발표",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "부천시오정노인복지관 식자재 납품업체 선정에 많은 관심을 가져주셔서 감사합니다. 아래와 같이 1차 서류평가 선정 및 사업설명회 참가 업체를 공지합니다. - 아 래 - * 1차 서류평가 선정업체(가나다순) - 동원홈푸드, 에코푸드코리아, 푸드머스, CJ프레시웨이 * 제안서 설명회 일정 1) 일 시 : 2026년 10월 12일(월) 10:00 2) 장 소 :…",
+   "eventDate": "2026-10-12",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260930124242445"
   },
   {
    "type": "event",

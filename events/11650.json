@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-09-29T23:19:05Z",
+ "generatedAt": "2026-09-30T23:13:41Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=211&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:221",
+   "title": "[카드뉴스] 내 집 앞 복지, 서초시니어라운지(10월 특강 및 서리풀 AI 학교 안내)",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "1028816409_1790757158.911.jpg 1028816409_1790757162.1783.jpg 1028816409_1790757164.1028.jpg 1028816409_1790757165.8709.jpg 1028816409_1790757168.136.jpg 1028816409_1790757173.8529.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=221&page=1"
   },
   {
    "type": "event",

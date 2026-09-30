@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-29T23:19:05Z",
+ "generatedAt": "2026-09-30T23:13:41Z",
  "items": [
   {
    "type": "event",
@@ -80,21 +80,6 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-035:1418",
-   "title": "공지 | 평택서부노인복지관 6차 신입회원설명회 안내",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "많은 참여 부탁드립니다^^",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1418&page=1"
-  },
-  {
-   "type": "event",
    "id": "center:gyeonggi-036:305",
    "title": "평택팽성노인복지관 2026년 하계 사회복지현장실습 최종합격자 공고",
    "place": "평택팽성노인복지관",
@@ -122,21 +107,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ptsenior.or.kr/notice/1160?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1428",
-   "title": "공지 | 자기돌봄 집단상담 '마음쉼표' 안내",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "서부노인복지관 노인상담센터에서 자기돌봄 집단상담을 하게 되어 안내드립니다. 집단원은 8명으로 선착순 모집하오니 서둘러 신청해주세요~",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1428&page=1"
   },
   {
    "type": "event",
