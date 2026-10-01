@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11350",
- "generatedAt": "2026-09-30T23:13:41Z",
+ "generatedAt": "2026-10-01T23:22:55Z",
  "items": [
   {
    "type": "event",
@@ -62,6 +62,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=560&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-034:563",
+   "title": "공지사항 | 10월 휴관 일정 안내",
+   "place": "수락노인종합복지관",
+   "address": null,
+   "phone": "02-939-6060",
+   "org": "수락노인종합복지관",
+   "description": "3076553592_1790813683.5927.jpg 10월 휴관 일정을 안내드립니다. * 10/3(토) 개천절 * 10/5(월) 대체공휴일 * 10/9(금) 한글날 ▶개천절은 우리 민족 최초 국가인 고조선 건국을 기념하기 위해 제정된 국경일 입니다. ▶한글날은 훈민정음(訓民正音) 곧 오늘의 한글을 창제해서 세상에 펴낸 것을 기념하고, 우리 글자 한글의…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=563&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-034:562",
+   "title": "공지사항 | 10월 주요일정 안내",
+   "place": "수락노인종합복지관",
+   "address": null,
+   "phone": "02-939-6060",
+   "org": "수락노인종합복지관",
+   "description": "3076553592_1790813591.7668.jpg 10월 복지관의 주요일정을 안내드립니다. ※복지관 상황에 따라 일정이 변경될 수 있으니 확인 후 이용 바랍니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=562&page=1"
   }
  ]
 }

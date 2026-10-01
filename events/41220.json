@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-09-30T23:13:41Z",
+ "generatedAt": "2026-10-01T23:22:55Z",
  "items": [
   {
    "type": "event",
@@ -62,6 +62,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=281&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-036:282",
+   "title": "2025년 평택팽성노인복지관 9월 업무추진비 집행내역 공개",
+   "place": "평택팽성노인복지관",
+   "address": null,
+   "phone": "031-650-2621",
+   "org": "평택팽성노인복지관",
+   "description": "평택팽성노인복지관에서는 세출예산 집행기준에 따른 2025년 9월 평택팽성노인복지관 업무추진비 집행내역을 공개합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.pssenior.or.kr:41006/bbs/board.php?bo_table=sub04_01&wr_id=282&page=1"
   },
   {
    "type": "event",
@@ -272,6 +287,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ptsenior.or.kr/notice/1176?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1451",
+   "title": "공지 | 2026년 10차 신입회원설명회 안내",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "bb5774f88b247638aa09fadcf184e1a2_1790814190_7478.png 22026년 9월 가입회원들의 많은 참여 부탁드립니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1451&page=1"
   },
   {
    "type": "event",

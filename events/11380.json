@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-09-30T23:13:41Z",
+ "generatedAt": "2026-10-01T23:22:55Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-039:1509",
-   "title": "9월 월간일정",
-   "place": "구립신사노인복지관",
-   "address": null,
-   "phone": "02-302-0303",
-   "org": "구립신사노인복지관",
-   "description": "34f3fa26dc1b23141f8edce75c5b8f86_1788164293_5082.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1509&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-039:1511",
@@ -107,6 +92,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1519&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-039:1520",
+   "title": "10월 월간일정",
+   "place": "구립신사노인복지관",
+   "address": null,
+   "phone": "02-302-0303",
+   "org": "구립신사노인복지관",
+   "description": "a2513285070057232b12dc48ce1dc690_1790813851_9857.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1520&page=1"
   }
  ]
 }

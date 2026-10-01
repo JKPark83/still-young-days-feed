@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-09-30T23:13:41Z",
+ "generatedAt": "2026-10-01T23:22:55Z",
  "items": [
   {
    "type": "event",
@@ -125,6 +125,21 @@
   },
   {
    "type": "event",
+   "id": "center:busan-003:130931",
+   "title": "[공고] 2026년 급식도우미 합격자 공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "서구노인복지관 급식도우미에 지원해 주신 모든 분들께 감사드립니다 . 급식도우미 최종 합격자를 아래와 같이 공지 합니다 . 합격 하신분들께 진심으로 축하드리며 , 아쉽게 인연을 맺지 못한 분들도 앞으로 좋은 날만 있기를 기원합니다 . 1. 박 * 영",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/130931?page=1"
+  },
+  {
+   "type": "event",
    "id": "center:busan-003:130186",
    "title": "[보건/의료] 안마서비스 4분기 접수 안내",
    "place": "서구노인복지관",
@@ -227,21 +242,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/130602?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:128263",
-   "title": "[공고] 급식도우미 모집",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "2026 년 급식도우미 모집 1. 채용분야 및 계약기간 ( 계약직 ) 1) 채용분야 : 급식도우미 2) 계약기간 : 채용 시 – 2026 년 12 월 31 일 3) 채용인원 : 1 명 2. 근로조건 및 보수 1) 근로조건 : 1 일 4 시간 , 월요일 – 금요일 ( 공휴일제외 ) 2) 급여 : 1 일 41,280 원 ( 시급 10,320 원 ) 4 대 보…",
-   "eventDate": "2026-12-31",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/128263?page=1"
   },
   {
    "type": "event",
