@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11410",
- "generatedAt": "2026-10-01T23:22:55Z",
+ "generatedAt": "2026-10-02T23:17:34Z",
  "items": [
   {
    "type": "event",
@@ -47,21 +47,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=311&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-044:336",
-   "title": "2026년 8월 기관운영 업무추진비 내역 공지",
-   "place": "연희노인복지관",
-   "address": null,
-   "phone": "02-3143-7778",
-   "org": "연희노인복지관",
-   "description": "2040670851_1788222103.0685.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.yhsenior.or.kr/bbs/board.php?bo_table=0401&wr_id=336&page=1"
   },
   {
    "type": "event",

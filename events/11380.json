@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-10-01T23:22:55Z",
+ "generatedAt": "2026-10-02T23:17:34Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-039:1511",
-   "title": "[홍보] 은평구 노인복지시설 바로 알기 캠페인",
-   "place": "구립신사노인복지관",
-   "address": null,
-   "phone": "02-302-0303",
-   "org": "구립신사노인복지관",
-   "description": "fed81a08351f95e506357753d575bb66_1788252354_6732.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1511&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-039:1512",

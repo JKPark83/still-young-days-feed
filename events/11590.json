@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-10-01T23:22:55Z",
+ "generatedAt": "2026-10-02T23:17:34Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-063:551",
-   "title": "[상담사업] 무료 전문(세무,법률)상담 진행 안내",
-   "place": "사당어르신종합복지관",
-   "address": null,
-   "phone": "02-580-2410",
-   "org": "사당어르신종합복지관",
-   "description": "988010681_1788227765.3135.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=551&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-063:552",
@@ -182,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=564&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:565",
+   "title": "[지역홍보] 동작구보건소 '정신건강의 날'",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1790924821.3959.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=565&page=1"
   }
  ]
 }
