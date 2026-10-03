@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-10-02T23:17:34Z",
+ "generatedAt": "2026-10-03T22:27:02Z",
  "items": [
   {
    "type": "event",
@@ -62,21 +62,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2377&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-004:2374",
-   "title": "노인의 날 기념 '꽃보다 아름다운 어르신을 위한 10월의 선물'행사 안내",
-   "place": "용산노인종합복지관",
-   "address": null,
-   "phone": "02-794-6100",
-   "org": "용산노인종합복지관",
-   "description": "10월 2일 노인의 날을 기념하여 어르신들의 노고에 대한 감사의 마음을 담아 깜짝 이벤트 행사가 진행됩니다. '꽃보다 아름다운 어르신을 위한 10월의 선물' * 일시 : 2026. 10. 2(금) 오전9시~오후1시 * 장소 : 복지관 1층 로비 * 내용 : 레드카펫 포토존, 100%당첨 캡슐 뽑기, 선물 나눔 등 시립용산노인종합복지관 회원분들을 위한 노인…",
-   "eventDate": "2026-10-02",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2374&page=1"
   },
   {
    "type": "event",

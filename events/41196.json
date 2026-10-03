@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-02T23:17:34Z",
+ "generatedAt": "2026-10-03T22:27:02Z",
  "items": [
   {
    "type": "event",
@@ -126,21 +126,6 @@
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "[모집]부천시오정노인복지관 홍보서포터즈 모집",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "복지관의 프로그램, 행사, 일상을 알려 부천시오정노인복지관 온라인 홍보 활성화에 기여할 「부천시오정노인복지관 홍보서포터즈」를 다음과 같이 모집합니다. 모집대상 : 월 2회 이상 복지관 온라인 홍보활동에 적극 참여 가능한 자 모집인원 : 총 10명 모집기간 : 2026. 9. 21.(월) ~ 10. 2.(금) 18:00까지 활동기간 : 2026. 10.12…",
-   "eventDate": "2026-09-21",
-   "eventEnd": "2026-10-02",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260921184046726"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
    "title": "2026 노인의날 기념 AI 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」 온라인 투표 안내",
    "place": "오정노인복지관",
    "address": null,
@@ -167,66 +152,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260923105134991"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 노인의날 기념행사 안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "부천시오정노인복지관에서는 10월 2일(금) 기념행사 및 야외 부대행사를 진행하오니 많은 관심바랍니다. <노인의날 기념 첼스앙상블 공연> - 일시 : 2026.10.2.(금) 11:00 - 대상 : 복지관 이용 어르신 및 지역주민 - 장소 : 복지관 4층 강당 * 공연 티켓 선착순 배부(1층 안내데스크 및 2층 사무실) <야외 부대행사> - 일시 : 202…",
-   "eventDate": "2026-10-02",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260930104237299"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026 노인의날 기념 AI 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」 최종 수상작 발표",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "- 수상작 안내 - 1. AI캐릭터 부문 - 대상(오정에서 피어나는 행복) - 최우수상(오동이&정이-나이보다 빛나는 오늘, 우리만의 이야기) - 우수상(오정이와 함께 활기찬 미래로) - 우수상(친근하고 따뜻한 도전하는 오동이) 2. AI영상,이미지 부문 - 대상(영상 : [오정의 기적] 다시 그리는 시간, 나이보다 빛나는 오늘) https://youtu.…",
-   "eventDate": "2026-10-02",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260929100322170"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026 노인의날 기념 AI 캐릭터 · 영상 공모전 「AI로 그리는 새로운 노년」 심사 및 결과발표 일정 변경 안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "2026 노인의날 기념 AI 캐릭터 · 영상 공모전 「AI로 그리는 새로운 노년」에 참여해 주신 모든 분들께 감사드립니다. 공모전의 내부 심사 및 온라인 투표 일정이 연장됨에 따라 결과발표 일정이 아래와 같이 변경되었으니 참고하여 주시기 바랍니다. ※ 결과는 부천시오정노인복지관 홈페이지 공지 및 수상자 개별연락을 통해 안내할 예정입니다. ※ 시상 및 작품…",
-   "eventDate": "2026-10-02",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260923101950527"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 노인의날 기념 토크콘서트 「노년, 놀면 뭐하니?」 신청 안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "부천시오정노인복지관에서는 10월 2일(금) 오후 1시 30분 토크콘서트'노년, 놀면 뭐하니?'를 진행하오니 많은 신청바랍니다. -신청기간 : 2026.9.15.(화)부터 선착순 접수 -신청대상 : 복지관 이용 어르신 및 지역주민 -신청방법 : 온라인 신청( https://naver.me/5yh28jxm ), 방문신청(본관, 별관) *문의 : 복지1과 평생…",
-   "eventDate": "2026-10-02",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260915172830451"
   },
   {
    "type": "event",
