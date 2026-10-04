@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-03T22:27:02Z",
+ "generatedAt": "2026-10-04T22:37:13Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 한국만성질환관리협회 연계 건강강좌 3탄",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260903114508768"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
@@ -182,21 +167,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260930124242445"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 부천시오정노인복지관 식자재 납품업체 입찰 공고",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "부천시오정노인복지관에서는 지방자치단체를 당사자로 하는 계약에 관한 법률 시행령 제33조에 의거하여 2026년도 부천시오정노인복지관 식자재 납품업체를 선정하기 위한 입찰을 아래와 같이 공고합니다 가. 공 고 명 : 2026년도 부천시오정노인복지관 식자재 납품업체 입찰 공고 나. 사업내용 : 경로식당, 무료급식, 식사배달사업, 노인일자리 시장형 사업단 다.…",
-   "eventDate": "2026-11-01",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260903092500976"
   }
  ]
 }
