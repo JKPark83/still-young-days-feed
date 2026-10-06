@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-10-06T00:57:36Z",
+ "generatedAt": "2026-10-06T23:18:33Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4282&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4283",
+   "title": "2026년 노인사회활동지원사업 공동체사업단(실버카페 금빛다방) 8월 사업추진현황 공고",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "995555512_1791292971.1906.jpg 2026년 노인사회활동지원사업 공동체사업단 실버카페 금빛다방 9월 사업추진현황을 위와 같이 공고합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4283&page=1"
   }
  ]
 }

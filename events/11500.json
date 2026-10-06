@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11500",
- "generatedAt": "2026-10-06T00:57:36Z",
+ "generatedAt": "2026-10-06T23:18:33Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.gangseosenior.or.kr/notice/2177?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-052:2178",
+   "title": "[공지] 1·3세대통합프로그램 '세대를 그리다' 참여자 모집",
+   "place": "강서노인종합복지관",
+   "address": null,
+   "phone": "02-3664-0322",
+   "org": "강서노인종합복지관",
+   "description": "[공지] 1·3세대통합프로그램 '세대를 그리다' 참여자 모집",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.gangseosenior.or.kr/notice/2178?page=1"
   },
   {
    "type": "event",
