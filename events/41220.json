@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-10-06T23:18:33Z",
+ "generatedAt": "2026-10-07T23:53:40Z",
  "items": [
   {
    "type": "event",
@@ -197,21 +197,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1451&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-033:1175",
-   "title": "(건강생활) 건강기능회복사업 건강교실 고혈압, 당뇨 만성질환 교육 안내",
-   "place": "평택남부노인복지관",
-   "address": null,
-   "phone": "031-8036-4900",
-   "org": "평택남부노인복지관",
-   "description": "d8b5fe7d962aedbe000ed9e109088fe0_1790661753_8178.jpg (건강생활) 건강기능회복사업 건강교실 고혈압, 당뇨 만성질환 교육 안내 대상: 만성질환(고혈압, 당뇨) 관심 있으신 복지관회원 일시: 26년 10월 6일, 20일 (화) 14:00~16:00 * 같은 교육이므로 1회 신청만 가능합니다. 장소: 복지관 3층 305…",
-   "eventDate": "2026-10-06",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ptsenior.or.kr/notice/1175?page=1"
   }
  ]
 }

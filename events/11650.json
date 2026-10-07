@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-06T23:18:33Z",
+ "generatedAt": "2026-10-07T23:53:40Z",
  "items": [
   {
    "type": "event",
@@ -96,12 +96,12 @@
   {
    "type": "event",
    "id": "center:seoul-071:227",
-   "title": "[세대통합] 국제학교 청소년과 함께하는 영어&아트 교실 신청 안내",
+   "title": "[세대통합] 국제학교 청소년과 함께하는 여행으로 떠나는 영어&아트 교실 신청 안내",
    "place": "반포느티나무쉼터",
    "address": null,
    "phone": "02-535-5090",
    "org": "반포느티나무쉼터",
-   "description": "★☆[세대통합] 국제학교 청소년과 함께하는 영어&아트 교실 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 국제학교 청소년과 함께하는 <여행으로 떠나는 영어&아트 교실> 신청 안내입니다. \"여행을 주제로 일상에서 활용할 수 있는 영어 표현을 배우고 , 청소년 봉사자와 함께 여행 엽서 만들기 등 즐거운 미술 활동도 진행합니…",
+   "description": "★☆[세대통합] 국제학교 청소년과 함께하는 <여행으로 떠나는 영어&아트 교실> 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 국제학교 청소년과 함께하는 <여행으로 떠나는 영어&아트 교실> 신청 안내입니다. \"여행을 주제로 일상에서 활용할 수 있는 영어 표현을 배우고 , 청소년 봉사자와 함께 여행 엽서 만들기 등 즐거운…",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
@@ -125,18 +125,18 @@
   },
   {
    "type": "event",
-   "id": "center:seoul-071:223",
-   "title": "[추첨결과 안내] 4학기 추가 개설강좌_영어프리토킹 초급",
+   "id": "center:seoul-071:228",
+   "title": "[연계] 서초시니어라운지 서리풀 AI학교 수강생 모집 안내",
    "place": "반포느티나무쉼터",
    "address": null,
    "phone": "02-535-5090",
    "org": "반포느티나무쉼터",
-   "description": "★☆[추첨결과 안내]4학기 추가 개설(영어프리토킹 초급)☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 4학기 추가개설 프로그램 추첨 결과 안내입니다. ◎강좌명: 영어프리토킹 초급 ◎교육기간: 10/8(목)~12/24(목), 12회 ◎교육시간: 매주 목요일 오후 3시 30분 ~ 4시 30분 ◎수강료: 18,000원 <수납기간> -…",
-   "eventDate": "2026-10-06",
+   "description": "★☆< 서초시니어라운지 서리풀 AI학교> 수강생 모집 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 챗GPT, 제미나이 등 생성형 AI를 활용해 생활에 필요한 기능을 배우고, 가족을 위한 선물부터 시화·영상까지 직접 만들어보는 「서리풀 AI학교」 수강생을 모집합니다. 가까운 서초시니어라운지 에서 AI를 배우고 활용해보세요.…",
+   "eventDate": "2026-10-12",
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=223&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=228&page=1"
   },
   {
    "type": "event",
@@ -181,7 +181,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=213&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=213&page=2"
   },
   {
    "type": "event",
