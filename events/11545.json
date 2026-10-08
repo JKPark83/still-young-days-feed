@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-10-07T23:53:40Z",
+ "generatedAt": "2026-10-08T23:55:25Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=715&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-059:1404",
-   "title": "2026년 8월 업무추진비 사용내역 공고",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "3659966895_1788824895.9537.jpg 3659966895_1788766444.6797.jpg - 공공기관의 정보공개에 관한 법률 및 관계법령에 의거하여 금천노인종합복지관 및 금천데이케어센터 업무추진비 사용내역을 공고합니다 . - 해당 내역은 서울시 법인 · 시설 지원시스템에서도 확인하실 수 있습니다 .",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1404&page=1"
   },
   {
    "type": "event",
@@ -56,7 +41,7 @@
    "address": null,
    "phone": "02-804-4058",
    "org": "금천노인종합복지관",
-   "description": "3659966895_1790922200.8508.jpg - 공공기관의 정보공개에 관한 법률 및 관계법령에 의거하여 금천노인종합복지관 및 금천데이케어센터 업무추진비 사용내역을 공고합니다 . - 해당 내역은 서울시 법인 · 시설 지원시스템에서도 확인하실 수 있습니다 .",
+   "description": "3659966895_1791433934.0093.png 3659966895_1790922200.8508.jpg - 공공기관의 정보공개에 관한 법률 및 관계법령에 의거하여 금천노인종합복지관 및 금천데이케어센터 업무추진비 사용내역을 공고합니다 . - 해당 내역은 서울시 법인 · 시설 지원시스템에서도 확인하실 수 있습니다 .",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
@@ -92,6 +77,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1412&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1414",
+   "title": "<수의계약발주계획> 2026년 노인맞춤돌봄서비스사업 홍보 물품(볼펜) 구입",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "- 사업개요 ○ 납품일자 : 2026 년 10 월 30 일까지 ○ 납품장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ○ 제작물품 : 볼 펜 ○ 소요예산 : 2,000 천원 (VAT, 배송비 포함 ) - 참가자격 ○ 참가자격 : 지방자치단체를 당사자로 하는 계약에 관한 법률 시행규칙 제 14 조 해당업체 ○ 우선선정기준 : 서울지역업체…",
+   "eventDate": "2026-10-30",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1414&page=1"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11350",
- "generatedAt": "2026-10-07T23:53:40Z",
+ "generatedAt": "2026-10-08T23:55:25Z",
  "items": [
   {
    "type": "event",
@@ -107,6 +107,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=564&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-034:566",
+   "title": "정보공개 | 2026년 9월 구립 수락노인종합복지관 업무추진비 사용내역",
+   "place": "수락노인종합복지관",
+   "address": null,
+   "phone": "02-939-6060",
+   "org": "수락노인종합복지관",
+   "description": "문의 : 02-939-6060",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=566&page=1"
   },
   {
    "type": "event",

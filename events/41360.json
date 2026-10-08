@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-07T23:53:40Z",
+ "generatedAt": "2026-10-08T23:55:25Z",
  "items": [
   {
    "type": "event",
@@ -20,51 +20,6 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-027:287",
-   "title": "[공지] 복지관 추석연휴 휴관안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "33f521ee678f134e05de7d9eabe104b8_1788748909_0814.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=287&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:286",
-   "title": "[마감] 다산애한의원과 함께하는 허리통증예방교육 참여자 모집 안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀후 '허리통증 '이 라고 말씀해주세요 !] - 장소 : 복지관 2층 헤아림 - 신청방법 : 치유숲 방문 및 전화접수 ☎ 031-522-6406 또는 070-4616-0656 - 접수일정 : 9. 7( 월 ) ~ 9. 14.(월 ) 15:00 - 교육일정: 9. 17.(목) 11:00~12:00 - 모집인원 : 복지관 회원 2…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=286&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:285",
-   "title": "[마감] 9월 촉탁의 진료 참여자 모집 안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀후 '촉탁의 '이 라고 말씀해주세요 !] - 장소 : 복지관 1 층 치유숲 - 신청방법 : 치유숲 방문 및 전화접수 ☎ 031-522-6406 또는 070-4616-0656 - 접수일정 : 9. 7.( 월 ) ~ 9. 11.( 금 ) 14:00 -진료일정: 9. 16.(수) 11:00~11:30 - 모집인원 : 복지관 회원…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=285&page=2"
-  },
-  {
-   "type": "event",
    "id": "center:gyeonggi-027:288",
    "title": "[공지] 2026 복지관 대학생 홍보서포터즈 모집",
    "place": "남양주시다산노인복지관",
@@ -76,7 +31,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=288&page=1"
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=288&page=2"
   },
   {
    "type": "event",
@@ -136,7 +91,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=290&page=1"
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=290&page=2"
   },
   {
    "type": "event",
@@ -186,7 +141,7 @@
   {
    "type": "event",
    "id": "center:gyeonggi-027:296",
-   "title": "[모집] 제30회 노인의 날 기념 행사 참여자 모집",
+   "title": "[마감] 제30회 노인의 날 기념 행사 참여자 모집",
    "place": "남양주시다산노인복지관",
    "address": null,
    "phone": "031-522-6406",
@@ -242,6 +197,66 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=298&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:304",
+   "title": "[모집] 10월 촉탁의 진료 참여자 모집 안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 촉탁의 ' 라고 말씀해주세요 !] - 장소 : 복지관 1 층 치유숲 - 신청방법 : 치유숲 방문 및 전화접수 ☎ 070-4616-0656 - 접수일정 : 10. 12( 월 ) ~ 10. 16( 금 ) 14:00 진료일정 : 10. 20.( 화 ) 09:00 ~ 09:30 - 모집인원 : 복지관 회원 20 명 ( 정원…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=304&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:303",
+   "title": "[모집] 남양주시고혈압당뇨병등록교육센터 연계 당뇨 발관리 교육 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 당뇨교육 ' 이라고 말씀해주세요 !] - 장소 : 복지관 2 층 헤아림 - 신청방법 : 치유숲 방문 및 전화접수 ☎ 070-4616-0656 - 접수일정 : 10. 12( 월 ) ~ 10. 20( 화 ) 16:00 - 활동일시: 10. 23.(금) 10:30 ~ 11:20 - 모집인원 : 복지관 회원 15 명 ( 정…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=303&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:302",
+   "title": "[모집] 노인학대 예방교육 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[전화접수시, 회원번호 말씀 후 '학대예방'이라고 말씀해주세요!] - 장소 : 복지관 2 층 헤아림 - 신청방법 : 사무실 방문 및 전화접수 ☎ 070-4616-2709 - 접수일정 : 10. 12( 월 ) ~ 10. 16( 금 ) 13:00 - 활동일시: 10. 22.(목) 10:00 ~ 11:00 - 모집인원 : 복지관 회원 15 명 ( 정원초과시 추…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=302&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:301",
+   "title": "[모집] 이용자 인권교육 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 '노인인권 '이 라고 말씀해주세요 !] - 장소 : 복지관 2 층 헤아림 - 신청방법 : 사무실 방문 및 전화접수 ☎ 070-4616-2709 - 접수일정 : 10. 12( 월 ) ~ 10.22( 목 ) 13:00 - 교육일정 : 1 회차 – 11. 6.( 금 ) 10:00 ~ 12:00 2 회차 – 11. 12.( 목…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=301&page=1"
   }
  ]
 }
