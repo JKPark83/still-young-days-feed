@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-08T23:55:25Z",
+ "generatedAt": "2026-10-09T23:28:19Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=225&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:288",
-   "title": "[공지] 2026 복지관 대학생 홍보서포터즈 모집",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "네이버폼 주소: https://naver.me/xoGn3JKY 2e9e0d8977b2bcd1ee51ed92b9dc0914_1788832095_0039.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=288&page=2"
   },
   {
    "type": "event",
