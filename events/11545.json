@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-10-13T01:29:46Z",
+ "generatedAt": "2026-10-13T23:32:10Z",
  "items": [
   {
    "type": "event",
@@ -50,6 +50,21 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-059:1417",
+   "title": "노인사회활동지원사업 참여자 평가회 행사 지원",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "노인사회활동지원사업 참여자 평가회 행사 지원 일시 : 11/2(월) 14:00 ~ 17:30(3.5h) 장소 : 금천구청 12층 대강당 내용 : 평가회 참여 어르신 안전관리, 행사장 세팅, 행사 안내 등 인원 : 2명 문의 : 전지은 대리(070-7090-5416)",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1417&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-059:1410",
    "title": "<수의계약발주계획> 금천노인종합복지관 노인맞춤돌봄서비스사업 사회참여 및 특화지원-우울완화(자조모임) 프로그램 「우리…",
    "place": "금천노인종합복지관",
@@ -77,6 +92,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1415&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1418",
+   "title": "[찾아가는취업센터(홍보 캠페인) 자원봉사자 모집]",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "[찾아가는취업센터(홍보 캠페인) 자원봉사자 모집] - 모집인원: 2명 - 일자: 2026. 10. 22(목) - 시간: 14:00~17:00 (3h) - 장소: 금천구청역 - 내용: 고령구직자 대상 취업알선사업 홍보 캠페인 진행보조 - 문의: 김수지 사회복지사(070-7090-5417)",
+   "eventDate": "2026-10-22",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1418&page=1"
   },
   {
    "type": "event",

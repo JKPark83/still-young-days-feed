@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-10-13T01:29:46Z",
+ "generatedAt": "2026-10-13T23:32:10Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4285&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4287",
+   "title": "2026년 3분기 수의계약 내역 공개",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "김포시노인종합복지관에서는 「 지방자치단체를 당사자로 하는 계약에 관한 법률 」 시행령 제 30 조에 의거 , 붙임과 같이 수의계약내역을 공개합니다 .",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4287&page=1"
   },
   {
    "type": "event",

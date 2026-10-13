@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "generatedAt": "2026-10-13T01:29:46Z",
+ "generatedAt": "2026-10-13T23:32:10Z",
  "regions": {
   "26110": {
    "centersTotal": 1,
@@ -36,7 +36,7 @@
   },
   "26350": {
    "centersTotal": 3,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "26380": {
    "centersTotal": 2,
@@ -296,7 +296,7 @@
   },
   "41630": {
    "centersTotal": 2,
-   "centersCovered": 0
+   "centersCovered": 1
   },
   "41370": {
    "centersTotal": 1,

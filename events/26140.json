@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-10-13T01:29:46Z",
+ "generatedAt": "2026-10-13T23:32:10Z",
  "items": [
   {
    "type": "event",
@@ -170,6 +170,36 @@
   },
   {
    "type": "event",
+   "id": "center:busan-003:131091",
+   "title": "[공고] 2026년 장기요양 모니터링 요원(사회복지사) 채용 모집공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "2026년 서구노인복지관재가노인지원센터 장기요양서비스사업에서 함께 근무할 방문 모니터링 요원을 다음과 같이 채용 공고합니다 장기요양서비스사업 방문 모니터링 요원 채용 계획(안) (2026_1013)2-1.jpg - 최종 합격자를 제외한 지원자는 우편으로 제출한 채용서류의 반환을 최종 합격자 발표일로부터 14일 이내에 이메일(sk102030@naver.co…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131091?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131091",
+   "title": "[공고] 2026년 장기요양 모니터링 요원(사회복지사) 채용 모집공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "2026년 서구노인복지관재가노인지원센터 장기요양서비스사업에서 함께 근무할 방문 모니터링 요원을 다음과 같이 채용 공고합니다 장기요양서비스사업 방문 모니터링 요원 채용 계획(안) (2026_1013)2-1.jpg - 최종 합격자를 제외한 지원자는 우편으로 제출한 채용서류의 반환을 최종 합격자 발표일로부터 14일 이내에 이메일(sk102030@naver.co…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131091?page=1"
+  },
+  {
+   "type": "event",
    "id": "center:busan-003:131015",
    "title": "[보건/의료] 안마서비스10월15일 명단",
    "place": "서구노인복지관",
@@ -182,6 +212,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/131015?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131090",
+   "title": "[보건/의료]10월22일 안마서비스 명단",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "2026 년 10 월 22 일 ( 목요일 ) 안마 명단 (2 조 ) 1 시 30 분 2 시 10 분 2 시 50 분 1 주덕자 1 박정순 1 지종수 2 최길순 2 마금숙 2 최정분 3 김이자 3 정옥용 3 김정래 4 김순옥 4 이경자 4 김화조 5 임양수 5 함태순 5 임돌남 6 박광민 6 임수복 6 한만자 7 맹갑영 7 송석녀 7 김월수 ☞ 안마사 인원…",
+   "eventDate": "2026-10-22",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131090?page=1"
   }
  ]
 }
