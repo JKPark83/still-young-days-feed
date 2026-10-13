@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26200",
- "generatedAt": "2026-10-11T23:00:13Z",
+ "generatedAt": "2026-10-13T01:29:46Z",
  "items": [
   {
    "type": "event",
@@ -47,6 +47,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsm4iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-006:view.php",
+   "title": "2026년 제6회 영도구노인복지관 백일장 영도구 어르신 글솜씨 뽐내기 대회 수상작 게시",
+   "place": "영도구노인복지관",
+   "address": null,
+   "phone": "051-417-6344",
+   "org": "영도구노인복지관",
+   "description": "2026년 제6회 영도구노인복지관 백일장 영도구 어르신 글솜씨 뽐내기 대회에서 수상한 작품을 게시합니다. 아울러 영도구노인복지관 1층 지역주민공유공간, 영도구노인복지관 분관 3층 복도에서도 위 수상작품을 만나보실 수 있으니 많은 관심 부탁드립니다. *수상자가 제출한 작품을 그대로 전달하기 위해 맞춤법이나 띄어쓰기 수정 없이 그대로 제작하였습니다* 이미지…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngdosenior.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzIm4iZn90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   }
  ]
 }

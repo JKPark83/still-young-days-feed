@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11110",
- "generatedAt": "2026-10-11T23:00:13Z",
+ "generatedAt": "2026-10-13T01:29:46Z",
  "items": [
   {
    "type": "event",
@@ -36,7 +36,7 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 깜짝공연 참여자 모집 안내",
+   "title": "[사례관리팀] [사례관리팀] 회원교류 프로그램 '향주머니 만들기' 참여자 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -46,12 +46,12 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2658&p_idx=2493&pp_idx=2532&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2793&p_idx=2622&pp_idx=2661&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 깜짝공연 참여자 모집 안내",
+   "title": "[사례관리팀] [사례관리팀] 회원교류 프로그램 '향주머니 만들기' 참여자 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -61,52 +61,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2658&p_idx=2493&pp_idx=2532&tn=tblNotice&p=2&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
-   "title": "[교육여가문화팀] 2026년 요리교실 4기 선정자 발표",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2822&p_idx=2651&pp_idx=2690&tn=tblNotice&p=2&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
-   "title": "[의료건강팀] 일상건강관리프로그램 안녕건강하세요 참여자 모집안내",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2821&p_idx=2650&pp_idx=2689&tn=tblNotice&p=2&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 가요무대 순번 공지 (09.16, 09.23)",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2820&p_idx=2649&pp_idx=2688&tn=tblNotice&p=2&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2793&p_idx=2622&pp_idx=2661&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -126,6 +81,36 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
+   "title": "[총무팀] 9월 휴관 안내문",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2824&p_idx=2653&pp_idx=2692&tn=tblNotice&p=2&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[평생교육팀] [평생교육팀] 2026년 AI 스마트 대전, 내가 찍은 사진 공모전 참여자 모집",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "* <영화 속 한 장면>을 주제로 내가 직접 찍은 사진으로 제출해주시면 됩니다! 어르신들의 많은 참여 바랍니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2828&p_idx=2657&pp_idx=2696&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
    "title": "[평생교육팀] [평생교육팀] 2026년 AI 스마트 대전, 스마트폰 활용 대회 참가자 모집",
    "place": "서울노인복지센터",
    "address": null,
@@ -141,17 +126,17 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] [평생교육팀] 2026년 AI 스마트 대전, 골든벨 참여자 모집",
+   "title": "[교육여가문화팀] 분관-10월 체력단련실 프로그램 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
    "org": "서울노인복지센터",
-   "description": "** 작년보다 더 풍성하고 재밌게 돌아온 골든벨, 함께 공부하고 즐기는 축제의 장에 많은 참여 바랍니다!",
+   "description": "",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2826&p_idx=2655&pp_idx=2694&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2830&p_idx=2659&pp_idx=2698&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -171,7 +156,7 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[분관] 상상교실-실버 만화 창작 교실 모집",
+   "title": "[분관] 상상교실-시니어 명언 필사 교실 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -181,7 +166,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2832&p_idx=2661&pp_idx=2700&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2833&p_idx=2662&pp_idx=2701&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -216,6 +201,21 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
+   "title": "[평생교육팀] 정보화교육 특강 디지털 금융교육 참여자 모집",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2837&p_idx=2666&pp_idx=2705&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
    "title": "[평생교육팀] AI재단 연계 스마트폰 1:1교육 어디나 지원단 10월 참여자 모집",
    "place": "서울노인복지센터",
    "address": null,
@@ -231,32 +231,17 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[영화제] 탑골미술관 영화제 홍보 전시 작품 공모",
+   "title": "[평생교육팀] 10월 영화 상영표 안내",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
    "org": "서울노인복지센터",
-   "description": "* 영화 포스터 또는 주요한 장면, 내가 좋아하는 장면들을 그려주세요!* **풍경, 자연이 아닌, 영화 포스터, 명장면을 그려주세요~**",
+   "description": "",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2840&p_idx=2668&pp_idx=2708&tn=tblNotice&p=1&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
-   "title": "[영화제] 탑골미술관 영화제 홍보 전시 작품 공모",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "* 영화 포스터 또는 주요한 장면, 내가 좋아하는 장면들을 그려주세요!* **풍경, 자연이 아닌, 영화 포스터, 명장면을 그려주세요~**",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2840&p_idx=2668&pp_idx=2708&tn=tblNotice&p=2&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2839&p_idx=2667&pp_idx=2707&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -271,7 +256,22 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2841&p_idx=2669&pp_idx=2709&tn=tblNotice&p=2&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2841&p_idx=2669&pp_idx=2709&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[평생교육팀] 가요무대 순번 공지 (09.30, 10.07)",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2842&p_idx=2670&pp_idx=2710&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -286,7 +286,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2843&p_idx=2671&pp_idx=2711&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2843&p_idx=2671&pp_idx=2711&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -332,21 +332,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2845&p_idx=2673&pp_idx=2713&tn=tblNotice&p=1&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
-   "title": "[교육여가문화팀] 야간운영 - 마음을 밝히는 밤의 문학 '달빛 낭독' 프로그램 참여자 모집",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2845&p_idx=2673&pp_idx=2713&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-10-11T23:00:13Z",
+ "generatedAt": "2026-10-13T01:29:46Z",
  "items": [
   {
    "type": "event",
@@ -137,6 +137,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261008094551966"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "부천시소사노인복지관과 함께하는 \"영양쏙쏙정보\" 10월호",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "10월 영양쏙쏙 정보는 식이섬유가 풍부한 식재료를 활용한 ‘버섯 렌틸콩 불고기 덮밥’을 소개합니다. 버섯과 렌틸콩, 잡곡밥을 활용해 맛과 영양을 함께 챙겨 보세요! ※ 본 자료는 CJ프레시웨이에서 제공한 자료를 바탕으로, 어르신들이 보기 편하도록 글씨 크기와 디자인을 일부 수정하여 제작하였습니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261013091006158"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "2026년 부천시소사노인복지관 경로식당 식자재 납품업체 1차 서류평가 공고의 건",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "2026년도 부천시소사노인복지관 경로식당 식자재 납품업체 선정에 많은 관심과 참여에 깊은 감사를 드리며, 아래와 같이 1차 서류평가 선정결과를 공지합니다. ■ 1차 서류평가 선정결과 *가나다순 CJ프레시웨이 동원홈푸드 에코푸드코리아 큐브에프엔비 푸드머스 ■ 제안설명회 순서 결정, 평가위원 추첨 일정 1) 일 시 : 2026. 10. 13(화) 14:00…",
+   "eventDate": "2026-10-13",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261012140510270"
   },
   {
    "type": "event",

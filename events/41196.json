@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-11T23:00:13Z",
+ "generatedAt": "2026-10-13T01:29:46Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "[후원] 8월의 따뜻한 후원자 안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260911191435196"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
@@ -137,36 +122,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261008172702902"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "[모집] 맛있는 인생, 행복한 우리 참여자 모집",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "음식에 담긴 추억을 나누고 함께 만들며, 즐거운 시간을 보내는 프로그램에 어르신들을 초대합니다. 좋아하는 음식 이야기부터 건강한 식생활 교육, 맛있는 음식만들기, 캘리그라피까지 함께 이야기하고 활동하며 일상에 활력과 즐거움을 더해보세요! 🍎모집대상 : 복지관 이용어르신 12명 (*무료급식 이용 및 대기 어르신 우선선발) 🍎모집기간 : ~ 2026년 10월…",
-   "eventDate": "2026-10-12",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261007121516031"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 부천시오정노인복지관 식자재 납품업체 서류심사 결과발표",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "부천시오정노인복지관 식자재 납품업체 선정에 많은 관심을 가져주셔서 감사합니다. 아래와 같이 1차 서류평가 선정 및 사업설명회 참가 업체를 공지합니다. - 아 래 - * 1차 서류평가 선정업체(가나다순) - 동원홈푸드, 에코푸드코리아, 푸드머스, CJ프레시웨이 * 제안서 설명회 일정 1) 일 시 : 2026년 10월 12일(월) 10:00 2) 장 소 :…",
-   "eventDate": "2026-10-12",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260930124242445"
   },
   {
    "type": "event",

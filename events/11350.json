@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11350",
- "generatedAt": "2026-10-11T23:00:13Z",
+ "generatedAt": "2026-10-13T01:29:46Z",
  "items": [
   {
    "type": "event",
@@ -122,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=565&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-034:567",
+   "title": "공지사항 | 2026년 3분기(7~9월) 분실물 안내",
+   "place": "수락노인종합복지관",
+   "address": null,
+   "phone": "02-939-6060",
+   "org": "수락노인종합복지관",
+   "description": "안녕하세요. 구립 수락노인종합복지관입니다. 복지관에 접수된 분실에 대해 안내드립니다. 아래 사진 속 물건을 분실하신 분은 1층 안내데스크에 방문하여 찾아가시길 바랍니다. 3076553592_1791773217.2355.jpg 3076553592_1791773229.6181.jpg 회원증 제시 후에 해당 물품을 찾아가실 수 있습니다. 자세한 분실물을 알고…",
+   "eventDate": "2026-11-12",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://suraknoin.or.kr/bbs/board.php?bo_table=0201&wr_id=567&page=1"
   }
  ]
 }

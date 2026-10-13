@@ -1,38 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-11T23:00:13Z",
+ "generatedAt": "2026-10-13T01:29:46Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:212",
-   "title": "[추첨 결과 안내] 실전 키오스크 사용법",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆[추첨결과 안내]실전 키오스크 사용법☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. <실전 키오스크 사용법> 1. 기간: 9/16(수)~10/14(수) 총4회 ※10/7(수) 휴강 2. 시간: 매주 수요일 10:00 ~ 12:00(2시간) 3. 장소: 반포느티나무쉼터 배움터A 4. 정원: 15명 5. 내용: 실생활과 밀접한 키…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=212&page=2"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-071:211",
-   "title": "[추첨 결과 안내] 비만ZERO 뱃살컷프로젝트",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆[추첨결과 안내]비만제로 뱃살컷프로젝트☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. <비만 ZERO, 뱃살컷 프로젝트> 1. 기간 : 9/16(수)~12/7(월) 총23회 2. 시간 : 매주 월, 수 16:00~17:00 3. 장소 : 반포느티나무쉼터 배움터B 4. 정원 : 25명 5. 내용 : 1) 사전사후 체성분 및 체력…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=211&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:221",
@@ -110,6 +80,21 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-071:230",
+   "title": "[서초구소식] 숨은 영웅, 그들이 돌아왔다! 서리풀 청소퍼레이드",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "안녕하세요. 반포느티나무쉼터 입니다. 서초구 소식을 나눕니다. 28만 명의 뜨거운 열기로 가득했던 서리풀뮤직페스티벌! 축제는 끝났지만, 서초의 품격은 그대로! 28만 명의 감동을 깔끔하게 완성한 특별한 청소 퍼레이드가 있었습니다. 화려한 무대와 음악이 남긴 감동 뒤에는 축제의 아름다운 마무리를 만든 또 하나의 주인공들이 있었습니다. 공연이 끝난 직후, 서…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=230&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-071:214",
    "title": "[추첨결과 안내] 반포2동 서초시니어라운지 <함께 읽는 책 이야기>",
    "place": "반포느티나무쉼터",
@@ -137,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=213&page=2"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:231",
+   "title": "[연계] 반포느티나무쉼터 서리풀 온교육돌봄단 수강생 모집 안내",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆< 반포느티나무쉼터 서리풀 온교육돌봄단> 수강생 모집 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 챗GPT, 제미나이 등 생성형 AI를 활용하여 일상생활에 필요한 기능을 익히고, 자산관리·스마트폰 활용·영상편집 등 다양한 분야에 AI를 직접 활용해보는 실습형 교육입니다. 많은 관심과 참여 바랍니다. <서리풀 온교육돌봄단…",
+   "eventDate": "2026-10-19",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=231&page=1"
   },
   {
    "type": "event",
