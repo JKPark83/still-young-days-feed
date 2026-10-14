@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-10-13T23:32:10Z",
+ "generatedAt": "2026-10-14T22:25:30Z",
  "items": [
   {
    "type": "event",
@@ -197,6 +197,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/131091?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131096",
+   "title": "[공고]서구노인복지관 2026년 2차 추경 세입,세출 예산 공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "서구노인복지관 2026년도 2차 추경 세입.세출 예산 공고 사회복지법인 재무.회계규칙 제10조 4항에 의거 서구노인복지관 2차 추경 세입.세출 예산서를 홈페이지에 붙임과 같이 공고 합니다. * 자세한 사항은 붙임파일 참고 바랍니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131096?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131096",
+   "title": "[공고]서구노인복지관 2026년 2차 추경 세입,세출 예산 공고",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "서구노인복지관 2026년도 2차 추경 세입.세출 예산 공고 사회복지법인 재무.회계규칙 제10조 4항에 의거 서구노인복지관 2차 추경 세입.세출 예산서를 홈페이지에 붙임과 같이 공고 합니다. * 자세한 사항은 붙임파일 참고 바랍니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131096?page=1"
   },
   {
    "type": "event",

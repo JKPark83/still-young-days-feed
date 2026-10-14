@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-10-13T23:32:10Z",
+ "generatedAt": "2026-10-14T22:25:30Z",
  "items": [
   {
    "type": "event",
@@ -65,6 +65,21 @@
   },
   {
    "type": "event",
+   "id": "center:seoul-059:1420",
+   "title": "「2027년 금천노인종합복지관(병설데이케어센터) 식자재 납품업체 선정」 제안서 평가위원(후보자) 모집 공고",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "「 2027 년 금천노인종합복지관 ( 병설데이케어센터 ) 식자재 납품업체 선정 」 제안서 평가위원 ( 후보자 ) 모집 공고 금천노인종합복지관에서는 「 2027 년 금천노인종합복지관 ( 병설데이케어센터 ) 식자재 납품 」 사업 수행자 선정을 위하여 제안서 평가위원회 위원을 아래와 같이 공개 모집합니다 . 2026 년 10 월 14 일 금천노인종합복지관장 1…",
+   "eventDate": "2026-10-14",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1420&page=1"
+  },
+  {
+   "type": "event",
    "id": "center:seoul-059:1410",
    "title": "<수의계약발주계획> 금천노인종합복지관 노인맞춤돌봄서비스사업 사회참여 및 특화지원-우울완화(자조모임) 프로그램 「우리…",
    "place": "금천노인종합복지관",
@@ -77,6 +92,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1410&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1419",
+   "title": "2027년 금천노인종합복지관(병설금천데이케어센터) 식자재 납품업체 모집 공고",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "식자재 납품업체 모집 공고 2027년도 금천노인종합복지관(병설금천데이케어센터) 식자재 납품업체 선정을 위하여 아래와 같이 공고하오니 많은 참여 바랍니다. 1. 공고사항 : 2027년 금천노인종합복지관(병설금천데이케어센터) 식자재 납품업체 선정 공고 2. 공고기간 : 2026년 10월 15일(수) 14:00 부터 ~ 2026년 11월 12일(목) 14:00…",
+   "eventDate": "2026-10-15",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1419&page=1"
   },
   {
    "type": "event",
