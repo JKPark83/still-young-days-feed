@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-10-14T22:25:30Z",
+ "generatedAt": "2026-10-15T22:12:36Z",
  "items": [
   {
    "type": "event",
@@ -167,21 +167,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4287&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-040:4284",
-   "title": "[사회교육] 2차 AI 디지털배움터 합격자 발표",
-   "place": "김포시노인종합복지관",
-   "address": null,
-   "phone": "031-997-9300",
-   "org": "김포시노인종합복지관",
-   "description": "안녕하세요. 김포시노인종합복지관입니다. 노년사회화교육사업의 2차 AI 디지털배움터 수강생 추첨이 완료되었습니다. ★ 개강일 안내 ★ 일시 - 10월 14일(수) 오전 10:00 ~ 12:00 - 10월 16일(금) 오후 15:30 ~ 17:30 기간 : 10월 14일(수) ~ 12월 4(금) / 총 8회기 장소 : 3층 정보터 ★ 관련 문의는 1층 문화복…",
-   "eventDate": "2026-10-14",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4284&page=1"
   },
   {
    "type": "event",
