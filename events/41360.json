@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-15T22:12:36Z",
+ "generatedAt": "2026-10-16T22:15:47Z",
  "items": [
   {
    "type": "event",
@@ -61,7 +61,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=294&page=1"
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=294&page=2"
   },
   {
    "type": "event",
@@ -197,6 +197,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=301&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:307",
+   "title": "[안내] 사단법인 코리아가수협회 구리지회와 함께하는 추억의 디스코 파티 행사 안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[본 행사는 행사당일(10. 22./목) 선착순 입장입니다. 사전접수는 받지 않습니다. ] - 장소 : 복지관 2 층 두드림 - 신청방법 : 행사 당일 현장 선착순 입장 - 행사 일시 : 10. 22.(목) 14:30~ - 모집인원 : 복지관 회원 80 명 ( 정원초과시 입장불가 ) 9da03cbeb242df345c5142e93d7e5005_1792147…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=307&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:306",
+   "title": "[모집] 경기AI디지털배움터와 함께하는 디지털활용교육 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 경기배움 ' 이라고 말씀해주세요 !] - 장소 : 복지관 2 층 헤아림 - 신청방법 : 전화접수 ☎ 070-4616-2708 - 접수일정 : 10. 19.( 월 ) ~ 21.( 수 ) ~15:00 까지 - 수업일시 : 11 월 매주 화 · 목 14:00~16:00 - 모집인원 : 복지관 회원 15 명 ( 정원초과시…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=306&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:305",
+   "title": "[모집] 복지관 이용자 고충 및 욕구탐색 간담회 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 간담회 ' 라고 말씀해주세요 !] - 진행일시 : 11. 18.( 수 ) * 1 차 : 09:30 ~ 11:30 (2024~2025 년 등록 회원 ) * 2 차 : 13:30 ~ 15:30 (2026 년 등록 회원 ) - 장소 : 복지관 1 층 회의실 - 모집인원 : 1 차 10 명 / 2 차 10 명 ※ 총 20…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=305&page=1"
   }
  ]
 }
