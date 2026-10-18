@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-17T21:35:58Z",
+ "generatedAt": "2026-10-18T21:36:28Z",
  "items": [
   {
    "type": "event",
@@ -92,21 +92,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=230&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-071:214",
-   "title": "[추첨결과 안내] 반포2동 서초시니어라운지 <함께 읽는 책 이야기>",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆[추첨결과 안내] 반포2동 서초시니어라운지 <함께 읽는 책 이야기>☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 반포느티나무쉼터 느티풀 자원봉사단 교육분야 활동으로 진행되는 반포2동 서초시니어라운지 <함께 읽는 책 이야기> 프로그램 추첨 결과를 안내드립니다. <함께 읽는 책 이야기> ◎기간: 2026. 10. 12.(월) ~…",
-   "eventDate": "2026-10-12",
-   "eventEnd": "2026-12-21",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=214&page=2"
   },
   {
    "type": "event",

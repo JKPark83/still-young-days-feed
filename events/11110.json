@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11110",
- "generatedAt": "2026-10-17T21:35:58Z",
+ "generatedAt": "2026-10-18T21:36:28Z",
  "items": [
   {
    "type": "event",
@@ -36,36 +36,6 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[교육여가문화팀] 분관-10월 체력단련실 프로그램 모집",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2830&p_idx=2659&pp_idx=2698&tn=tblNotice&p=1&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
-   "title": "[분관] 영화교실-영상 자서전 교실 모집",
-   "place": "서울노인복지센터",
-   "address": null,
-   "phone": "02-6220-8500",
-   "org": "서울노인복지센터",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2834&p_idx=2663&pp_idx=2702&tn=tblNotice&p=1&keyword=&keyfield="
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-001:notice_view.asp",
    "title": "[분관] 상상교실-시니어 명언 필사 교실 모집",
    "place": "서울노인복지센터",
    "address": null,
@@ -81,7 +51,7 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[교육여가문화팀] [분관] 상상교실-왕초보 주식 탈출기 모집",
+   "title": "[분관] 상상교실-실버 만화 창작 교실 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -91,12 +61,12 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2831&p_idx=2660&pp_idx=2699&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2832&p_idx=2661&pp_idx=2700&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 정보화교육 특강 디지털 금융교육 참여자 모집",
+   "title": "[평생교육팀] AI재단 연계 스마트폰 1:1교육 어디나 지원단 10월 참여자 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -106,7 +76,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2837&p_idx=2666&pp_idx=2705&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2836&p_idx=2665&pp_idx=2704&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -141,6 +111,21 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
+   "title": "[교육여가문화팀] 탑골작은도서관 이달의 추천도서 (10월)",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2841&p_idx=2669&pp_idx=2709&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
    "title": "[평생교육팀] 가요무대 순번 공지 (09.30, 10.07)",
    "place": "서울노인복지센터",
    "address": null,
@@ -171,7 +156,7 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 가요무대 순번 공지 (10.14, 10.21)",
+   "title": "[교육여가문화팀] 야간운영 - 마음을 밝히는 밤의 문학 '달빛 낭독' 프로그램 참여자 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -181,7 +166,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2846&p_idx=2674&pp_idx=2714&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2845&p_idx=2673&pp_idx=2713&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -227,6 +212,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2849&p_idx=2677&pp_idx=2717&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[세대통합팀] 제18회 서울국제노인영화제 포스터 공개",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2852&p_idx=2680&pp_idx=2720&tn=tblNotice&p=1&keyword=&keyfield="
   }
  ]
 }
