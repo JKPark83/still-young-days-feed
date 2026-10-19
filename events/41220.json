@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-10-18T21:36:28Z",
+ "generatedAt": "2026-10-19T23:05:41Z",
  "items": [
   {
    "type": "event",
@@ -110,21 +110,6 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-033:1174",
-   "title": "2026년 3차 운영위원회 결과 공지",
-   "place": "평택남부노인복지관",
-   "address": null,
-   "phone": "031-8036-4900",
-   "org": "평택남부노인복지관",
-   "description": "f439102c316c6678027e839c02e1f428_1789694929_6505.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ptsenior.or.kr/notice/1174?page=1"
-  },
-  {
-   "type": "event",
    "id": "center:gyeonggi-035:1450",
    "title": "공지 | 2026년 2기 관계회복을 위한 집단상담 '마음이음' 집단원 모집",
    "place": "평택서부노인복지관",
@@ -167,6 +152,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ptsenior.or.kr/notice/1177?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1452",
+   "title": "공지 | 2026년 이동복지관사업 마을축제 '신나는 마을, 우리 함께' 행사 안내",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "ea61813e14b3afcdde89e526ce484056_1792396099_5979.png 평택서부노인복지관에서는 이동복지관 사업에 참여한 경로당 어르신들과 함께 한 해의 활동을 돌아보고, 다양한 공연과 교류를 통해 화합을 나누는 이동복지관 마을축제 '신나는 마을, 우리 함께!'를 진행합니다. 즐거운 만남과 소틍의 장에 복지관 회원 여러분의 많은 관심…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1452&page=1"
   }
  ]
 }

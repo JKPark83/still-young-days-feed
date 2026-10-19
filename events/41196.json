@@ -1,38 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-18T21:36:28Z",
+ "generatedAt": "2026-10-19T23:05:41Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "노인의날 기념 무료특식 사전신청 안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260918115837437"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "부천시오정노인복지관 추석연휴 휴관안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260918091035775"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
@@ -111,17 +81,17 @@
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "부천시오정노인복지관 외부지원사업 성과공유회 「삶 그리고, AI」 전시회 진행",
+   "title": "[후원] 9월의 따뜻한 후원자 안내",
    "place": "오정노인복지관",
    "address": null,
    "phone": "032-683-9290",
    "org": "오정노인복지관",
-   "description": "이번 전시는 「삶 그리고 AI」를 주제로, 어르신들의 배움과 도전이 기술과 예술을 만나 새로운 모습으로 펼쳐지는 자리입니다. 배움의 과정에서 발견한 일상과 상상, 그리고 새로운 도전의 결과를 한자리에서 만나보실 수 있습니다. 「삶 그리고 AI」 전시회에 함께해 주시어 자리를 빛내주시기 바랍니다. ○ 전시기간 : 2026. 10. 14.(수) ~ 10. 1…",
-   "eventDate": "2026-10-14",
-   "eventEnd": "2026-10-18",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261008132922181"
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261013142724747"
   },
   {
    "type": "event",

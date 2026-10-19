@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-18T21:36:28Z",
+ "generatedAt": "2026-10-19T23:05:41Z",
  "items": [
   {
    "type": "event",
@@ -61,7 +61,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=224&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=224&page=2"
   },
   {
    "type": "event",
@@ -242,6 +242,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=226&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:239",
+   "title": "[세대통합 특강] 테너 이아람과 함께하는 제12회 <내 집 앞 라운지 음악캠프>",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆홍씨마을 서초시니어라운지 제12차 내 집 앞 음악캠프 특강 안내☆★ 안녕하세요? 신중년의 품격을 더하는 서초구립 반포느티나무쉼터입니다. 깊어가는 가을, 아름다운 선율과 함께 마음 따뜻한 시간을 보내보세요. 테너 이아람과 함께하는 <내 집 앞 음악캠프>가 어느덧 제12차를 맞이하였습니다. 감미로운 성악 공연과 함께 익숙한 곡을 함께 부르며 즐기는 이번…",
+   "eventDate": "2026-11-12",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=239&page=1"
   }
  ]
 }

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-18T21:36:28Z",
+ "generatedAt": "2026-10-19T23:05:41Z",
  "items": [
   {
    "type": "event",
@@ -46,7 +46,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=295&page=1"
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=295&page=2"
   },
   {
    "type": "event",
@@ -66,7 +66,7 @@
   {
    "type": "event",
    "id": "center:gyeonggi-027:297",
-   "title": "[모집] 나은오늘법률사무소와 함께하는 법률무료상담 참여자 모집",
+   "title": "[마감] 나은오늘법률사무소와 함께하는 법률무료상담 참여자 모집",
    "place": "남양주시다산노인복지관",
    "address": null,
    "phone": "031-522-6406",
@@ -242,6 +242,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=305&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:308",
+   "title": "[모집] 소방안전교육 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 소방훈련 ' 이라고 말씀해주세요 !] - 장소 : 복지관 2 층 어울림 ( 강당 ) - 신청방법: 전화접수 ☎ 031-522-6406 - 접수일정 : ~ 10. 23.( 금 ) 18:00 까지 - 진행일시 : 10. 27.( 화 ) 10:00 ~ 11:00 - 모집대상 : 복지관 회원 및 2305 동 주민 08957…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=308&page=1"
   }
  ]
 }
