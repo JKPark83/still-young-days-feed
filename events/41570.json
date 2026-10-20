@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-10-19T23:05:41Z",
+ "generatedAt": "2026-10-20T22:24:35Z",
  "items": [
   {
    "type": "event",
@@ -155,18 +155,18 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-040:4286",
-   "title": "김포시노인종합복지관 개관 20주년 기념식 진행 안내",
+   "id": "center:gyeonggi-040:4288",
+   "title": "2026년 김포시노인종합복지관 3차 추경 예산 공지",
    "place": "김포시노인종합복지관",
    "address": null,
    "phone": "031-997-9300",
    "org": "김포시노인종합복지관",
-   "description": "김포시노인종합복지관이 지역사회와 함께 걸어온 스무 해를 맞이하였습니다. 2006년 개관 이후 오늘에 이르기까지, 어르신과 지역주민 여러분께서 보내주신 따뜻한 관심과 사랑이 있었기에 뜻깊은 20주년을 맞이할 수 있었습니다. 그동안 함께해 주신 모든 분들께 감사의 마음을 전하고, 지난 20년의 발자취를 돌아보며 새로운 미래를 함께 그려가는 개관 20주년 기념…",
-   "eventDate": "2026-10-19",
+   "description": "김포시노인종합복지관 2026년 3차 추경 예산을 붙임과 같이 공지합니다. 995555512_1792459764.039.png 995555512_1792459771.8806.png",
+   "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4286&page=1"
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4288&page=1"
   }
  ]
 }
