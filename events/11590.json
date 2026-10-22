@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-10-21T22:27:05Z",
+ "generatedAt": "2026-10-22T22:29:10Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=570&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-063:571",
+   "title": "[이벤트] 함께 걸음 챌린지",
+   "place": "사당어르신종합복지관",
+   "address": null,
+   "phone": "02-580-2410",
+   "org": "사당어르신종합복지관",
+   "description": "988010681_1792647623.1185.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=571&page=1"
   }
  ]
 }

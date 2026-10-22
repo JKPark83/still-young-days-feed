@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-21T22:27:05Z",
+ "generatedAt": "2026-10-22T22:29:10Z",
  "items": [
   {
    "type": "event",
@@ -32,36 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=289&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:295",
-   "title": "[마감] 맑은묵향회와 함께하는 한글날 기념 '캘리그라피 자개 양면 손거울 만들기' 참여자 모집",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀 후 '손거울 '이 라고 말씀해주세요 !] - 장소 : 복지관 2층 두드림 - 신청방법 : 전화접수 ☎ 070-4616-2708( ☎ 031-522-6406) - 접수일정 : 9. 21.( 월 ) ~ 9. 23.(수 ) 14:00 - 교육일정: 10. 7(수) 13:30~14:30 - 모집인원 : 복지관 회원 30 명 ( 정…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=295&page=2"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:294",
-   "title": "[공지] 추석맞이 행사 「제2회 다산싱어즈-회원노래자랑」 진행",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "4590e2afaab81d0e24b503231c6ef171_1789949689_8542.png 풍성한 한가위를 맞아 남양주시다산노인복지관에서 회원님들과 함께하는 신나는 노래자랑대회를 준비했습니다 ! 치열한 예선을 거쳐 당당히 본선에 진출한 13 명의 참가자들이 펼치는 흥겨운 노래 무대 ! 여기에 분위기를 더욱 뜨겁게 만들어줄 다양한 축하공연과 두근두근 기…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=294&page=2"
   },
   {
    "type": "event",

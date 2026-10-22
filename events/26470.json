@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26470",
- "generatedAt": "2026-10-21T22:27:05Z",
+ "generatedAt": "2026-10-22T22:29:10Z",
  "items": [
   {
    "type": "event",
@@ -32,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1600&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-021:1605",
-   "title": "언론보도",
-   "place": "부산광역시노인종합복지관",
-   "address": null,
-   "phone": "051-853-1872",
-   "org": "부산광역시노인종합복지관",
-   "description": "208436ef5664a92634cdec4924db61c9_1789950914_2716.png 출처: 핫콘뉴스",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1605&page=1"
   },
   {
    "type": "event",
@@ -92,6 +77,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1611&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1615",
+   "title": "언론보도",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "eae52ae5d9f81f29da9adf5ba35a93b1_1792626885_3974.png 출처: 국제신문",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1615&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1614",
+   "title": "언론보도",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "eae52ae5d9f81f29da9adf5ba35a93b1_1792627131_3231.png 출처: ktHCN부산방송",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1614&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-021:1613",
+   "title": "언론보도",
+   "place": "부산광역시노인종합복지관",
+   "address": null,
+   "phone": "051-853-1872",
+   "org": "부산광역시노인종합복지관",
+   "description": "eae52ae5d9f81f29da9adf5ba35a93b1_1792626632_7625.png 출처: 핫콘뉴스",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.youngsilver.or.kr/bbs/board.php?bo_table=notice&wr_id=1613&page=1"
   }
  ]
 }
