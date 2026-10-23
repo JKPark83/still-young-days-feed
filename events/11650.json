@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-22T22:29:10Z",
+ "generatedAt": "2026-10-23T22:07:10Z",
  "items": [
   {
    "type": "event",
@@ -46,7 +46,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=227&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=227&page=2"
   },
   {
    "type": "event",
@@ -197,6 +197,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=236&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:242",
+   "title": "[특강] 반포2동 시니어라운지 제5차 「사랑하는 사람에게, 손편지로 마음 전하기」",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "1028816409_1792724556.7553.jpg ■ 일시: 2026. 10. 23.(금) 10:30~12:00 ■ 장소: 반포2동 서초시니어라운지 ■ 내용: 반포느티나무쉼터에서는 10월 23일(금), 반포2동 서초시니어라운지에서 손편지 특강 편지로 마음 잇기를 진행하였습니다. 참여자들은 강사님의 안내에 따라 편지의 구성과 작성 방법을 배우고, 가족…",
+   "eventDate": "2026-10-23",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=242&page=1"
   },
   {
    "type": "event",

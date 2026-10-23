@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-10-22T22:29:10Z",
+ "generatedAt": "2026-10-23T22:07:10Z",
  "items": [
   {
    "type": "event",
@@ -107,21 +107,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2379&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-004:2373",
-   "title": "[사회참여] 노인일자리 및 사회활동지원사업 참여자 모집 안내",
-   "place": "용산노인종합복지관",
-   "address": null,
-   "phone": "02-794-6100",
-   "org": "용산노인종합복지관",
-   "description": "31394942_1790128851.8843.png 어르신, 안녕하세요. 시립용산노인종합복지관입니다! “올해도 활기차게 보내고 싶은데, 무엇을 하며 지내면 좋을까?” 이런 생각을 하고 계신 어르신께 시립용산노인종합복지관에서 노인일자리사업 참여자를 모집합니다. 노인일자리는 어르신의 경험과 능력을 지역사회와 함께 나누며, 규칙적인 활동을 통해 건강하고 활기찬…",
-   "eventDate": "2026-12-31",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2373&page=1"
   }
  ]
 }
