@@ -1,38 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-23T22:07:10Z",
+ "generatedAt": "2026-10-26T23:18:01Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026 노인의날 기념 AI 캐릭터·영상 공모전 「AI로 그리는 새로운 노년」 온라인 투표 안내",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "1. 캐릭터 투표 : https://naver.me/xD8wfEuM 2. 오정에서 다시 그린 노년(이미지, 영상) 투표 : https://naver.me/GSQWfkZL [영상 보러가기] 2026 노인의 날 기념 AI 공모전 「AI로 그리는 새로운 노년」에 총 77작품 이 접수되었습니다. 접수작을 대상으로 1차 내부심사 를 진행하여 총 47작품 을 온라인…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260923131801608"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 오정치매안심센터 연계 2차 치매 조기 검진",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20260923105134991"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-025:BD_selectBbs.do",

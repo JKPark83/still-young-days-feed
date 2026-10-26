@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-23T22:07:10Z",
+ "generatedAt": "2026-10-26T23:18:01Z",
  "items": [
   {
    "type": "event",
@@ -32,36 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=289&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:297",
-   "title": "[마감] 나은오늘법률사무소와 함께하는 법률무료상담 참여자 모집",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀 후 '법률상담 '이 라고 말씀해주세요 !] - 장소 : 복지관 1층 상담실 - 신청방법 : 전화접수 ☎ 031-522-6426 - 접수일정 : 9. 28.( 월 ) ~ 10. 8.(목 ) 16:00 - 상담일정: 10. 13.(화) 10:00 ~ 12:00 - 모집인원 : 복지관 회원 8 명 ( 선착순 접수 ) 452ec2…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=297&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:296",
-   "title": "[마감] 제30회 노인의 날 기념 행사 참여자 모집",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수 시 회원번호를 말씀하신 후 , ‘ 노인의 날 ’ 행사 신청이라고 말씀해주세요 !] [ 신청 시 이동방법을 ‘ 셔틀버스 이용 ’ 또는 ‘ 개별이동 ’ 중 선택해주세요 . ※ 행사장 주차지원은 불가합니다 .] ※ 개별이동 회원님은 13:00 까지 남양주체육문화센터 입구로 와주시고 , 행사 참여 확인을 위한 출석체크에 꼭 협조 부탁드립니다 . -…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=296&page=1"
   },
   {
    "type": "event",
@@ -161,7 +131,7 @@
    "address": null,
    "phone": "031-522-6406",
    "org": "남양주시다산노인복지관",
-   "description": "[ 전화접수시 , 회원번호 말씀 후 '노인인권 '이 라고 말씀해주세요 !] - 장소 : 복지관 2 층 헤아림 - 신청방법 : 사무실 방문 및 전화접수 ☎ 070-4616-2709 - 접수일정 : 10. 12( 월 ) ~ 10.22( 목 ) 13:00 - 교육일정 : 1 회차 – 11. 6.( 금 ) 10:00 ~ 12:00 2 회차 – 11. 12.( 목…",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 '노인인권 '이 라고 말씀해주세요 !] - 장소 : 복지관 2 층 헤아림 - 신청방법 : 사무실 방문 및 전화접수 ☎ 070-4616-2709 - 접수일정 : ~11. 4.(수) 13:00까지 - 교육일정 : 1 회차 – 11. 6.( 금 ) 10:00 ~ 12:00 2 회차 – 11. 12.( 목 ) 10:00 ~ 1…",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
@@ -171,7 +141,7 @@
   {
    "type": "event",
    "id": "center:gyeonggi-027:307",
-   "title": "[안내] 사단법인 코리아가수협회 구리지회와 함께하는 추억의 디스코 파티 행사 안내",
+   "title": "[마감] 사단법인 코리아가수협회 구리지회와 함께하는 추억의 디스코 파티 행사 안내",
    "place": "남양주시다산노인복지관",
    "address": null,
    "phone": "031-522-6406",
@@ -186,7 +156,7 @@
   {
    "type": "event",
    "id": "center:gyeonggi-027:306",
-   "title": "[모집] 경기AI디지털배움터와 함께하는 디지털활용교육 참여자 모집",
+   "title": "[마감] 경기AI디지털배움터와 함께하는 디지털활용교육 참여자 모집",
    "place": "남양주시다산노인복지관",
    "address": null,
    "phone": "031-522-6406",
@@ -216,7 +186,7 @@
   {
    "type": "event",
    "id": "center:gyeonggi-027:308",
-   "title": "[모집] 소방안전교육 참여자 모집",
+   "title": "[마감] 소방안전교육 참여자 모집",
    "place": "남양주시다산노인복지관",
    "address": null,
    "phone": "031-522-6406",
@@ -227,6 +197,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=308&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:309",
+   "title": "[안내] 사회공헌형 체험활동(디지털 기기체험) 참여 안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 복지관 회원 여부와 관계없이 누구나 참여하실 수 있으며, 기념품 증정이 종료된 후에도 체험활동은 자유롭게 참여하실 수 있습니다.] - 장소 : 복지관 2 층 어울림 ( 강당 ) - 신청방법: 현장접수 (별도 신청 없이 행사 당일 방문하여 참여) - 진행일시 : 10. 30.(금 ) 10:00 ~ 15:00 - 참여대상: 남양주시 거주 주민 누구나(복지…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=309&page=1"
   }
  ]
 }

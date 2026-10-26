@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-10-23T22:07:10Z",
+ "generatedAt": "2026-10-26T23:18:01Z",
  "items": [
   {
    "type": "event",
@@ -167,21 +167,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1452&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1453",
-   "title": "채용공고 | 2026년 4차 종사자(육아휴직대체) 채용 공고",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "[ 공고 ] 평택서부 노인 공고 제 2026-004 호 평택서부노인복지관 2026 년 4 차 공개 채용 공고 평택서부노인복지관은 대한성공회 유지재단에서 평택시로부터 수탁받아 운영 중인 노인여가복지시설입니다 . 소통과 협력 ‧ 원칙과 신뢰 ‧ 실행력을 갖춘 직원을 아래와 같이 모시고자 하오니 , 노인문화를 함께 디자인할 분들의 지원 바랍니다 . 2026 년…",
-   "eventDate": "2026-10-23",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1453&page=1"
   }
  ]
 }
