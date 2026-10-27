@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41192",
- "generatedAt": "2026-10-26T23:18:01Z",
+ "generatedAt": "2026-10-27T23:08:33Z",
  "items": [
   {
    "type": "event",
@@ -137,6 +137,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261020172817624"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-023:BD_selectBbs.do",
+   "title": "부천시원미노인복지관 원미행복장터 진행 안내",
+   "place": "원미노인복지관",
+   "address": null,
+   "phone": "032-667-0261",
+   "org": "원미노인복지관",
+   "description": "※작성 시 주민번호, 계좌번호, 여권번호, 연락처, 주소 등의 개인정보가 포함되지 않도록 주의바랍니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261027094105101"
   },
   {
    "type": "event",

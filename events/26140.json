@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-10-26T23:18:01Z",
+ "generatedAt": "2026-10-27T23:08:33Z",
  "items": [
   {
    "type": "event",
@@ -92,21 +92,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/131024?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:131091",
-   "title": "[공고] 2026년 장기요양 모니터링 요원(사회복지사) 채용 모집공고",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "2026년 서구노인복지관재가노인지원센터 장기요양서비스사업에서 함께 근무할 방문 모니터링 요원을 다음과 같이 채용 공고합니다 장기요양서비스사업 방문 모니터링 요원 채용 계획(안) (2026_1013)2-1.jpg - 최종 합격자를 제외한 지원자는 우편으로 제출한 채용서류의 반환을 최종 합격자 발표일로부터 14일 이내에 이메일(sk102030@naver.co…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131091?page=1"
   },
   {
    "type": "event",

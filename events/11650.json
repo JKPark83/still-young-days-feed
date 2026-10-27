@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-26T23:18:01Z",
+ "generatedAt": "2026-10-27T23:08:33Z",
  "items": [
   {
    "type": "event",
@@ -76,7 +76,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=229&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=229&page=2"
   },
   {
    "type": "event",
@@ -91,7 +91,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=230&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=230&page=2"
   },
   {
    "type": "event",
@@ -181,7 +181,7 @@
    "eventEnd": "2026-12-02",
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=228&page=1"
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=228&page=2"
   },
   {
    "type": "event",
@@ -197,6 +197,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=236&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:245",
+   "title": "[추첨 결과 안내] 반포느티나무쉼터 스마트폰왕기초9주완성(4차)",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆[추첨결과 안내]반포느티나무쉼터 스마트폰왕기초9주완성(4차)☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 연계교육 스마트폰왕기초9주완성(4차) 추첨 결과 안내입니다. O 기간: 11/2(월)~12/28(월) 총9회 O 시간: 매주 월요일 13:00 ~ 14:30(1시간 30분) O 장소: 반포느티나무쉼터 배움터B O 정원:…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=245&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:244",
+   "title": "[느티풀화요특강] 11월 느티풀화요특강 신청 안내",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆11월 느티풀화요특강 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 11월 느티풀화요특강 신청 안내입니다. 1. '어반 오디세이(Urban Odyssey)' - 국내외 자연, 건축물, 거리, 다양한 풍경 사진을 중심으로... - 일시 : 11. 10.(화) 오후 3시 30분 ~ 5시 - 강사 : 김우영 사진작가(광고…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=244&page=1"
   },
   {
    "type": "event",
@@ -257,6 +287,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=241&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:243",
+   "title": "[11월 시네마] 이태영 큐레이터와 함께하는 시네마데이 신청 안내 <메종 드 히미코(2006), 어톤먼트(2007)>…",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "★☆11월 이태영 큐레이터와 함께하는 시네마데이 신청 안내(주제:\"용서하는 용기\")☆★ 회원님, 안녕하세요? 반포느티나무쉼터에서 상영하는 11월 시네마 신청안내입니다. 11월에는 \"용서하는 용기\"를 주제로 이태영 큐레이터와 함께하는 세대공감 시네마데이를 진행합니다. <11월 세대공감 시네마데이> 1. 일자/작품명 1) 11월 6일(금) / 메종 드 히미코…",
+   "eventDate": "2026-11-06",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=243&page=1"
   },
   {
    "type": "event",
