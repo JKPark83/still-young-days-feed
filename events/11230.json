@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-10-27T23:08:33Z",
+ "generatedAt": "2026-10-28T23:22:06Z",
  "items": [
   {
    "type": "event",
@@ -46,7 +46,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=951"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=951"
   },
   {
    "type": "event",
@@ -76,7 +76,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=949"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=949"
   },
   {
    "type": "event",
@@ -167,6 +167,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=977"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "동백꽃의 권익 챔피언을 찾아라! 사전문제집",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "사전문제집으로 미리 공부하고 개관식 행사 당일! 퀴즈에 참여해 선물 받아가세요!",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=980"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "[모집] 오순조손 손자녀 양육 조부모 힐링프로그램 참여자 모집",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=981"
   }
  ]
 }

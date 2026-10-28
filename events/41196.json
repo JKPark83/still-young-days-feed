@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-27T23:08:33Z",
+ "generatedAt": "2026-10-28T23:22:06Z",
  "items": [
   {
    "type": "event",
@@ -62,6 +62,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261013142724747"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "「오! 정다운 관심 캠페인」 이웃을 살펴주세요!",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "우리 주변에는 혼자 어려움을 겪거나 도움이 필요한 이웃이 있습니다. 오랫동안 보이지 않거나, 갑자기 생활이 어려워진 이웃이 있다면 관심을 가져주세요. 도움이 필요한 이웃을 발견하면 이렇게 해주세요! ① 살피기 : 주변 이웃에게 관심을 가져주세요. ② 알리기 : 도움이 필요해 보이면 전화로 알려주세요. ③ 연결하기 : 도움이 필요한 이웃이 지원을 받을 수…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261028094641950"
   },
   {
    "type": "event",
