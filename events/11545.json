@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-10-28T23:22:06Z",
+ "generatedAt": "2026-10-29T23:26:13Z",
  "items": [
   {
    "type": "event",
@@ -62,6 +62,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1414&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1426",
+   "title": "<수의계약발주계획> 금천노인종합복지관 노인맞춤돌봄서비스사업 사회참여 및 우울완화(자조모임) 프로그램 「장으로 잇는 …",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "< 수의계약발주계획 > 금천노인종합복지관 노인맞춤돌봄서비스사업 사회참여 및 우울완화 ( 자조모임 ) 프로그램 「장으로 잇는 우리 」 물품 (고추장 만들기 키트 ) 구입 - 사업개요 ❍ 납품일자 : 2026 년 11 월 16 일 ❍ 납품장소 : 금천노인종합복지관 ( 금천구 시흥대로 51 길 93-32) ❍ 납품물품 : 2026 년 노인맞춤돌봄서비스사업 사회…",
+   "eventDate": "2026-11-16",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1426&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-059:1427",
+   "title": "[금천노인종합복지관 정기 밑반찬 포장 및 배달 봉사자 모집]",
+   "place": "금천노인종합복지관",
+   "address": null,
+   "phone": "02-804-4058",
+   "org": "금천노인종합복지관",
+   "description": "[금천노인종합복지관 정기 밑반찬 포장 및 배달 봉사자 모집] - 일시: 2026. 11. 20(화) ~ 12/18(금) (매주 화, 금) ※ 공휴일 및 기후환경에 따라 날짜변동이 있을 수 있음. - 시간: 13:30~16:30 (3H) - 장소: 금천노인종합복지관 및 어르신 가정 - 내용: 밑반찬 3종 포장작업 및 차량으로 이동하며 어르신 가정에 밑반찬…",
+   "eventDate": "2026-11-20",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1427&page=1"
   },
   {
    "type": "event",

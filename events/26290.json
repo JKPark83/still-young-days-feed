@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "26290",
- "generatedAt": "2026-10-28T23:22:06Z",
- "items": []
+ "generatedAt": "2026-10-29T23:26:13Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:busan-011:view.php",
+   "title": "문현노인복지관 수의계약 공고(일자리 사무용품)",
+   "place": "문현노인복지관",
+   "address": null,
+   "phone": "051-938-9988",
+   "org": "문현노인복지관",
+   "description": "문현노인복지관 노인일자리 및 사회활동지원사업 사무용품(볼펜류 외) 수의계약 공개내역서입니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://moon9988.or.kr/SW_bbs/notice/view.php?zipEncode=90wDU9vEU9wBLjxzJzszWLhvUvgCV1tz1Xwy291CZv2yVjhCM0tz0f2qKjxyVjMjxvusw1tzWLhvJnwqKjxyVjMjYqZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  }
+ ]
 }

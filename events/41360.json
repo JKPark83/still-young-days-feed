@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-28T23:22:06Z",
+ "generatedAt": "2026-10-29T23:26:13Z",
  "items": [
   {
    "type": "event",
@@ -32,51 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=289&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:300",
-   "title": "[공지] 복지관 10월 휴관 안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "a4e5e51d71731c081d96a794074a4a52_1790586290_2981.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=300&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:299",
-   "title": "[공지] 2026 제30회 노인의 날 기념행사 안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "a4e5e51d71731c081d96a794074a4a52_1790557635_4344.jpeg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=299&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-027:298",
-   "title": "[공지] 10. 2.(금) 노인의 날 복지관 셔틀버스 운영 조정 안내",
-   "place": "남양주시다산노인복지관",
-   "address": null,
-   "phone": "031-522-6406",
-   "org": "남양주시다산노인복지관",
-   "description": "a4e5e51d71731c081d96a794074a4a52_1790557217_9236.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=298&page=1"
   },
   {
    "type": "event",

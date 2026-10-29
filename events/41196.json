@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-10-28T23:22:06Z",
+ "generatedAt": "2026-10-29T23:26:13Z",
  "items": [
   {
    "type": "event",
@@ -92,6 +92,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261014103106423"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "2026년 어르신 작품 전시회 「꿈에 도전하는 발걸음, 설레는 우리」 안내",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "부천시오정노인복지관에서는 11월 6일(금)부터 11월 11일(수)까지 부천시청역 갤러리에서 2026년 어르신 작품 전시회 「꿈에 도전하는 발걸음, 설레는 우리」 를 개최합니다. 이번 전시회에서는 평생교육, 동아리 및 외부지원사업에 참여한 180명의 어르신이 완성한 총 250점의 작품을 선보입니다. 수채화, 서예, 사진 등 다양한 문화예술 작품과 AI를 활…",
+   "eventDate": "2026-11-06",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261029111216264"
   },
   {
    "type": "event",

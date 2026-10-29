@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-10-28T23:22:06Z",
+ "generatedAt": "2026-10-29T23:26:13Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261026164519808"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "[노년사회화교육사업] 2026년 4차 특별강좌 \"혼자있는 시간, 외로움 대신 행복을 찾아보는 힐링 강연\" 참여자 모집",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261029090922690"
   }
  ]
 }
