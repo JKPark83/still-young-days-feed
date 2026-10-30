@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26500",
- "generatedAt": "2026-10-29T23:26:13Z",
+ "generatedAt": "2026-10-30T23:08:25Z",
  "items": [
   {
    "type": "event",
@@ -32,6 +32,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://6070.bulgukto.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzsn3yZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-023:view.php",
+   "title": "(공지)복지관 리모델링 공사 일정 및 설명회 안내",
+   "place": "수영구노인복지관",
+   "address": null,
+   "phone": "051-759-6070",
+   "org": "수영구노인복지관",
+   "description": "어르신, 복지관이 11월 10일(화)부터 리모델링 공사 를 시작합니다. 공사 관련 안내드리는 '설명회' 를 마련하였으니 시간내시어 참석 부탁드립니다. ▶ 대상: 복지관 이용자 누구나 ▶ 일시 : 11월 3일(화) 11:00~ ▶ 장소 : 복지관 4층 강당 ▶ 안내 내용: 공사 일정, 공사 내용, 질의응답 및 이용자 의견 듣기 감사합니다. 이미지 대체문구를…",
+   "eventDate": "2026-11-10",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://6070.bulgukto.or.kr/SW_bbs/notice/view.php?zipEncode==0tB152x552BTvMCLnMjLbxEu5wzW9wpLvhBHz3xZnxzJ9MCWzsm9ugDHnezYf2BIzYvfLKv9ugC5r1yJfezYf2BIzYn3yZm90wDU91DLLMDM0dzSvwAMLxzRzspL1wyULxzRzszJLgDV52xxnvpeLezYf2BIzsp1DMjX0tzNfgC39MBMahAW5cDZLgBVu2yPr3BU9YCIj2xxn1l9WMC19fDZLgB"
   }
  ]
 }

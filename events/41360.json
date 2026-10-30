@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-10-29T23:26:13Z",
+ "generatedAt": "2026-10-30T23:08:25Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=309&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:312",
+   "title": "[공지] 셔틀버스 2호차 운행 종료 안내",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "51a37ff316e51d4a22f652d9e1bb0c82_1793341912_5317.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=312&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:310",
+   "title": "[모집] 경로식당 이용자 간담회 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 경로식당 간담회 ' 라고 말씀해주세요 !] - 장소 : 복지관 1 층 활기숲 - 신청방법 : 복지관 내방 및 전화접수 ☎ 070-4616-0655 - 접수일정 : 11. 2.( 월 ) ~ 11. 12.( 목 ) ~15:00 까지 - 간담회 일시 : 11. 13.( 금 ) 10:00 ~ 11:00 - 모집인원 : 복지…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=310&page=1"
   }
  ]
 }
