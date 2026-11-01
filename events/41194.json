@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-10-31T22:25:01Z",
+ "generatedAt": "2026-11-01T22:51:29Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-024:BD_selectBbs.do",
-   "title": "2026년 부천시소사노인복지관 노인의 날 기념「노인문화제 樂」안내",
-   "place": "소사노인복지관",
-   "address": null,
-   "phone": "032-347-9534",
-   "org": "소사노인복지관",
-   "description": "부천시소사노인복지관에서는 노인의 날을 맞이하여 어르신들과 함께하는 '노인문화제 樂'을 진행합니다! 어르신들의 많은 관심과 참여 부탁드립니다. 특강 프로그램 모집은 10.19.(월) 오전 10시부터 접수 시작! ※ 프로그램별 모집인원 및 신청방법은 프로그램 안내를 참고해 주세요.",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261001152554378"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-024:BD_selectBbs.do",

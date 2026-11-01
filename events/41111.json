@@ -1,6 +1,82 @@
 {
  "schemaVersion": 1,
  "regionCode": "41111",
- "generatedAt": "2026-10-31T22:25:01Z",
- "items": []
+ "generatedAt": "2026-11-01T22:51:29Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15629&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "[안내] 2026년 '함께한 희망 DAY' 사랑나눔 바자회·로컬마켓 안내",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "[안내] 2026년 [안내] 2026년",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15629&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15641&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "2026년 9월 업무추진비 집행내역 공개",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "2026년 9월 SK청솔노인복지관 업무추진비 집행내역을 붙임과 같이 공개합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15641&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15569&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "[안내] 2026년 4분기 청솔평생대학 정원 미달 프로그램 안내",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "[안내] 2026년 4분기 청솔평생대학 정원 미달 프로그램 안내",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15569&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15680&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "[입찰] 2027년 SK청솔노인복지관 식자재납품업체 선정 공고",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "우리 복지관에서는 식자재 납품업체 계약 만료 도래에 따라 「 지방자치단체를 당사자로 하는 계약에 관한 법률 」 에 근거하여 2027 년 SK 청솔노인복지관 식자재 납품업체를 공개입찰하여 선정하고자 합니다 . 1. 공고일정 내 용 일 정 비 고 공고기간 2026. 10. 26.(월 ) ~ 11. 16.(월 ) 복지관 홈페이지 및 나라장터 공고 참가등록 ,…",
+   "eventDate": "2026-10-26",
+   "eventEnd": "2026-11-16",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15680&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15692&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "2026년 영양톡톡 9호",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "2026년 영양톡톡 9호",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15692&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  }
+ ]
 }

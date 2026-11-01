@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-10-31T22:25:01Z",
+ "generatedAt": "2026-11-01T22:51:29Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-063:564",
-   "title": "[휴관] 10월 휴관 안내",
-   "place": "사당어르신종합복지관",
-   "address": null,
-   "phone": "02-580-2410",
-   "org": "사당어르신종합복지관",
-   "description": "988010681_1790823400.0615.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=564&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-063:565",

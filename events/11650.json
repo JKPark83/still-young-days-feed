@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-10-31T22:25:01Z",
+ "generatedAt": "2026-11-01T22:51:29Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-071:222",
-   "title": "[느티풀화요특강] 10월 느티풀화요특강 신청 안내",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆10월 느티풀화요특강 신청 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. <10월 느티풀화요특강 신청 안내> 1. 시니어 인지재활을 위한 신체활동 3 - 일시 : 10. 13.(화) 오후 3시 30분 ~ 5시 - 강사 : 이규진 교수(한경국립대학교 특수체육전공, 대한인지재활운동협회 이사 외) 2. 아름다운 합창... 그리…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=222&page=2"
-  },
   {
    "type": "event",
    "id": "center:seoul-071:227",
