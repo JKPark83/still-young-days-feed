@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-11-01T22:51:29Z",
+ "generatedAt": "2026-11-03T01:44:09Z",
  "items": [
   {
    "type": "event",
@@ -212,6 +212,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/131356?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131568",
+   "title": "[보건/의료] 안마서비스 명단(11월5일)",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "K-018.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131568?page=1"
   }
  ]
 }

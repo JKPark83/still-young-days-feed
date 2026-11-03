@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-11-01T22:51:29Z",
+ "generatedAt": "2026-11-03T01:44:09Z",
  "items": [
   {
    "type": "event",
@@ -122,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4289&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4290",
+   "title": "경기도 노인복지관 예산 전액 삭감에 대한 성명서",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "995555512_1793666325.761.gif 995555512_1793666325.7713.gif",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4290&page=1"
   }
  ]
 }

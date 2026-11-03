@@ -1,6 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "11380",
- "generatedAt": "2026-11-01T22:51:29Z",
- "items": []
+ "generatedAt": "2026-11-03T01:44:09Z",
+ "items": [
+  {
+   "type": "event",
+   "id": "center:seoul-039:1522",
+   "title": "11월 월간일정",
+   "place": "구립신사노인복지관",
+   "address": null,
+   "phone": "02-302-0303",
+   "org": "구립신사노인복지관",
+   "description": "54b724f59bfff206f89d9bb52b97dfa3_1793581563_512.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.sinsa9988.or.kr/weel_bbs/board.php?bo_table=sinsa_notice&wr_id=1522&page=1"
+  }
+ ]
 }

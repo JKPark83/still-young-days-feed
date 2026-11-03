@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-11-01T22:51:29Z",
+ "generatedAt": "2026-11-03T01:44:09Z",
  "items": [
   {
    "type": "event",
@@ -77,21 +77,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261028094641950"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-025:BD_selectBbs.do",
-   "title": "2026년 부천시오정노인복지관 경로식당 식자재 납품업체 최종 선정 결과 공고",
-   "place": "오정노인복지관",
-   "address": null,
-   "phone": "032-683-9290",
-   "org": "오정노인복지관",
-   "description": "2026년도 부천시오정노인복지관 경로식당 식자재 납품업체 선정에 지원해주신 모든 업체에 감사 인사 드립니다. 부천시오정노인복지관 식자재납품업체 최종선정 결과를 안내해드립니다. *낙찰방법 : 협상에 의한 낙찰자 결정 *계약방법 : 제한(총액)협상에 의한 계약 (지방자치단체를 당사자로 하는 계약에 관한 법률시행령 제43조 근거) *심의방법 : 부천시오정노인복…",
-   "eventDate": "2026-11-01",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261014103106423"
   },
   {
    "type": "event",
