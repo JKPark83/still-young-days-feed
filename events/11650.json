@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-11-03T01:44:09Z",
+ "generatedAt": "2026-11-04T00:10:17Z",
  "items": [
   {
    "type": "event",
@@ -212,6 +212,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=237&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-071:246",
+   "title": "[카드뉴스] 내 집 앞 복지, 서초시니어라운지(11월 특강 안내)",
+   "place": "반포느티나무쉼터",
+   "address": null,
+   "phone": "02-535-5090",
+   "org": "반포느티나무쉼터",
+   "description": "1028816409_1793682748.056.jpg 1028816409_1793682751.7518.jpg 1028816409_1793682753.1423.jpg 1028816409_1793682755.1298.jpg 1028816409_1793682756.4366.jpg 1028816409_1793682757.845.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=246&page=1"
   },
   {
    "type": "event",
