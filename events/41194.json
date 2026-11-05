@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-11-04T00:10:17Z",
+ "generatedAt": "2026-11-05T00:27:09Z",
  "items": [
   {
    "type": "event",
@@ -152,6 +152,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261029090922690"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "부천시소사노인복지관과 함께하는 \"영양쏙쏙정보\" 11월호",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "이번 11월 영양쏙쏙정보에서는 식이섬유를 건강하게 섭취하는 방법을 소개합니다! 건강한 식생활을 위해 꼭 필요한 영양소 중 하나인 식이섬유는 장 건강을 돕고 원활한 배변 활동에 도움을 줄 뿐만 아니라, 소화·흡수 속도를 늦춰 식후 혈당 상승을 완화하는 데에도 도움을 줄 수 있습니다! 하지만 갑자기 많은 양의 식이섬유를 섭취하면 복부 팽만감이나 가스, 복통…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261104095622103"
   }
  ]
 }
