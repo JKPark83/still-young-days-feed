@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-11-05T00:27:09Z",
+ "generatedAt": "2026-11-06T00:11:03Z",
  "items": [
   {
    "type": "event",
@@ -182,6 +182,51 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ptsenior.or.kr/notice/1178?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1457",
+   "title": "공지 | 2026년 교육문화 발표회 신청자 모집",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "3af5ece885e8f98785425855a533cdf9_1793869305_4835.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1457&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1456",
+   "title": "공지 | 2026년 우윳빛깔 건강교실 신청자 모집",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "3af5ece885e8f98785425855a533cdf9_1793869269_3478.png",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1456&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-035:1455",
+   "title": "공지 | 제 11차 신규회원설명회 안내",
+   "place": "평택서부노인복지관",
+   "address": null,
+   "phone": "031-660-7400",
+   "org": "평택서부노인복지관",
+   "description": "11차 신규회원설명회 안내드립니다^^",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1455&page=1"
   }
  ]
 }

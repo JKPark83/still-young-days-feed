@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-11-05T00:27:09Z",
+ "generatedAt": "2026-11-06T00:11:03Z",
  "items": [
   {
    "type": "event",
@@ -227,6 +227,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/131568?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131607",
+   "title": "[보거/의료] 이혈&테이핑요법 이용 안내",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "K-019.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131607?page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:busan-003:131604",
+   "title": "[보건/의료] 한국건강관리 협회 건강검진 지원 안내",
+   "place": "서구노인복지관",
+   "address": null,
+   "phone": "051-240-3541",
+   "org": "서구노인복지관",
+   "description": "K-018.jpg",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131604?page=1"
   }
  ]
 }

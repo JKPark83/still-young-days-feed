@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-11-05T00:27:09Z",
+ "generatedAt": "2026-11-06T00:11:03Z",
  "items": [
   {
    "type": "event",
@@ -77,6 +77,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2382&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-004:2383",
+   "title": "[안내] 행복한 소식(2026년 11월 소식)",
+   "place": "용산노인종합복지관",
+   "address": null,
+   "phone": "02-794-6100",
+   "org": "용산노인종합복지관",
+   "description": "높고 푸른 하늘 아래, 알록달록 물들었던 단풍이 하나둘 낙엽이 되어 내려앉고 겨울의 문턱으로 향하는 계절 11월이 찾아왔습니다. 언제나 따뜻한 미소와 정겨운 마음으로 복지관을 빛내주시고, 서로에게 삶의 지혜와 온정을 나누어주시는 어르신들께 깊은 감사의 인사를 드립니다. 한 해의 끝자락을 향해가는 11월, 우리 복지관에서도 어르신들께서 건강하고 활기찬 일상…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2383&page=1"
   }
  ]
 }

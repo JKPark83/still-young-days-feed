@@ -1,8 +1,23 @@
 {
  "schemaVersion": 1,
  "regionCode": "11320",
- "generatedAt": "2026-11-05T00:27:09Z",
+ "generatedAt": "2026-11-06T00:11:03Z",
  "items": [
+  {
+   "type": "event",
+   "id": "center:seoul-028:89992",
+   "title": "2027년 서울시립 도봉노인종합복지관 밑반찬제작 납품업체 선정공고",
+   "place": "도봉노인종합복지관",
+   "address": null,
+   "phone": "02-993-9900",
+   "org": "도봉노인종합복지관",
+   "description": "우리 도봉노인종합복지관에서는 2027 년 밑반찬제작 납품업체를 선정하기 위하여 아래와 같이 공고 하오니 많은 참여 바랍니다 . - 아 래 - 1. 공고사항 : 2027 년 도봉노인종합복지관 밑반찬제작 납품업체 선정 2. 계약기간 : 2027 년 1 월 1 일 ∼ 2027 년 12 월 31 일 3. 품 명 : 밑반찬제작 ( 반찬 완제품 ) 4. 예 산 액…",
+   "eventDate": "2027-01-01",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dobongnoin.or.kr/notice/89992?page=1"
+  },
   {
    "type": "event",
    "id": "center:seoul-028:89982",

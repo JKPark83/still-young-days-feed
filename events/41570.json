@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-11-05T00:27:09Z",
+ "generatedAt": "2026-11-06T00:11:03Z",
  "items": [
   {
    "type": "event",
@@ -131,12 +131,27 @@
    "address": null,
    "phone": "031-997-9300",
    "org": "김포시노인종합복지관",
-   "description": "995555512_1793666325.761.gif 995555512_1793666325.7713.gif",
+   "description": "★서명참여하기★경기도노인복지관 예산전약 삭감 철회를 위한 서명운동 995555512_1793666325.761.gif 995555512_1793666325.7713.gif",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4290&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4291",
+   "title": "[지역연계]카카오 같이가치 온라인 모금함'똑똑! 어르신 오늘도 안녕하신가요?'",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "김포시노인종합복지관에서 카카오같이가치 온라인 모금함을 오픈했습니다! 홀로 생활하시는 어르신들에게 갑작스러운 위급상황은 큰 위험으로 이어질 수 있습니다. 특히 주변에 도움을 요청하기 어려운 어르신들은 위급상황이 발생하더라도 신속한 대처가 어려울 수 있습니다. 저희 복지관은 이번 모금을 통해 취약계층 독거 어르신의 안전확인을 위한 돌봄플러그 를 지원하고자 합…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4291&page=1"
   }
  ]
 }
