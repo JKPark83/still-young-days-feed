@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "regionCode": "11110",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 깜짝공연 참여자 모집 안내",
+   "title": "[세대통합팀] 2026 자원봉사자 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
    "org": "서울노인복지센터",
-   "description": "",
+   "description": "* 2026 자원봉사자 모집 * ★자원봉사 신청하러 바로가기!(클릭) ★ 1) 모집 대상 - 노인 복지 자원봉사활동을 희망하는 단체 및 개인 ( 청소년,청년,중장년 등 ) 누구나 - 정기 또는 회기별 봉사 활동을 희망하는 누구나 2) 모집 분야 * 상시 모집 - 급식 봉사 ( 만발식당 안내 및 배식 등 ) - 공간관리 ( 프로그램실 안전 관리 및 청소 등…",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2658&p_idx=2493&pp_idx=2532&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2600&p_idx=2436&pp_idx=2475&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -36,7 +36,7 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[교육여가문화팀] 야간운영 - 마음을 밝히는 밤의 문학 '달빛 낭독' 프로그램 참여자 모집",
+   "title": "[사례관리팀] [사례관리팀] 회원교류 프로그램 '향주머니 만들기' 참여자 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -46,7 +46,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2845&p_idx=2673&pp_idx=2713&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2793&p_idx=2622&pp_idx=2661&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -61,7 +61,37 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2846&p_idx=2674&pp_idx=2714&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2846&p_idx=2674&pp_idx=2714&tn=tblNotice&p=2&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[사례관리팀] [사례관리팀] '선배시민교실' 프로그램 참여자 모집",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2848&p_idx=2676&pp_idx=2716&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[평생교육팀] [평생교육팀] 10월 교양강좌 '한글의 탄생부터 오늘까지' 참여자 모집",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2850&p_idx=2678&pp_idx=2718&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -77,6 +107,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2849&p_idx=2677&pp_idx=2717&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[사례관리팀] [사례관리팀] 10월 권익강좌 '내 삶의 든든한 무기, 알고 누리는 '나'의 권리' 참여자 모집",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2851&p_idx=2679&pp_idx=2719&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -111,7 +156,7 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 가요무대 순번 공지 (10.28, 11.04)",
+   "title": "[교육여가문화팀] [분관] 11월 체력단련실 프로그램 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -121,7 +166,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2855&p_idx=2683&pp_idx=2723&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2856&p_idx=2684&pp_idx=2724&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -156,22 +201,22 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] 정보화교육 'AI로 스마트한 여가 즐기기' 참여자 모집(접수 마감)",
+   "title": "[평생교육팀] [평생교육팀] 외부문화체험-2026 한영숙류 이철진 춤 '궁굴리기' 공연(11/3(화))",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
    "org": "서울노인복지센터",
-   "description": "**활용 수준 이상 과목으로, 난이도 확인하여 신청 바랍니다!** 이미 스마트폰 중급 수준의 교육을 듣고 있거나, AI(챗지피티, 제미나이 등) 도구를 이미 활용하고 있는 어르신",
+   "description": "예약링크 바로가기(네이버 로그인 필요) **센터에서 별도 집결하지 않습니다. 신청 후 공연 일정에 맞춰 공연장소로 직접 방문하시면 됩니다.",
    "eventDate": null,
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2860&p_idx=2688&pp_idx=2728&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2857&p_idx=2685&pp_idx=2725&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "[평생교육팀] [평생교육팀] 2026 서울 시니어 미래공감 페스티벌 응원단 모집",
+   "title": "[교육여가문화팀] [분관] 11월 체력단련실 프로그램 모집",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -181,12 +226,12 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2862&p_idx=2690&pp_idx=2730&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2856&p_idx=2684&pp_idx=2724&tn=tblNotice&p=2&keyword=&keyfield="
   },
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
-   "title": "홈페이지 운영사항 변경 안내(회원제 폐지)",
+   "title": "[평생교육팀] 11월 영화 상영표 안내",
    "place": "서울노인복지센터",
    "address": null,
    "phone": "02-6220-8500",
@@ -196,7 +241,37 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2863&p_idx=2691&pp_idx=2731&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2861&p_idx=2689&pp_idx=2729&tn=tblNotice&p=1&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[평생교육팀] 11월 영화 상영표 안내",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2861&p_idx=2689&pp_idx=2729&tn=tblNotice&p=2&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
+   "title": "[평생교육팀] 외부문화체험- 가을따라, 공주 나들이 참여자 모집",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "!!! 대리 신청 및 수납 불가, 본인 방문 수납 접수 !!!",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2864&p_idx=2692&pp_idx=2732&tn=tblNotice&p=1&keyword=&keyfield="
   },
   {
    "type": "event",
@@ -216,6 +291,21 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
+   "title": "[사례관리팀] 11월 주거상담 신청",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2865&p_idx=2693&pp_idx=2733&tn=tblNotice&p=2&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
    "title": "[사례관리팀] 2026년 이용자교육 '우리의 품위를 지켜주는 양성평등 교육'",
    "place": "서울노인복지센터",
    "address": null,
@@ -231,6 +321,21 @@
   {
    "type": "event",
    "id": "center:seoul-001:notice_view.asp",
+   "title": "11월 주요일정",
+   "place": "서울노인복지센터",
+   "address": null,
+   "phone": "02-6220-8500",
+   "org": "서울노인복지센터",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2867&p_idx=2695&pp_idx=2735&tn=tblNotice&p=2&keyword=&keyfield="
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-001:notice_view.asp",
    "title": "[평생교육팀] 가요무대 순번 공지 (11/11, 11/18)",
    "place": "서울노인복지센터",
    "address": null,
@@ -241,7 +346,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2868&p_idx=2696&pp_idx=2736&tn=tblNotice&p=1&keyword=&keyfield="
+   "sourceUrl": "http://www.seoulnoin.or.kr/story/notice_view.asp?idx=2868&p_idx=2696&pp_idx=2736&tn=tblNotice&p=2&keyword=&keyfield="
   }
  ]
 }

@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41220",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-035:1263",
-   "title": "공지 | 카페수다 운영시간 안내",
-   "place": "평택서부노인복지관",
-   "address": null,
-   "phone": "031-660-7400",
-   "org": "평택서부노인복지관",
-   "description": "a9033c26bba9103073b5f4d92da4a1b6_1744606939_9923.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sbnoin.net/bbs/board.php?bo_table=sub05_01&wr_id=1263&page=1"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-036:249",

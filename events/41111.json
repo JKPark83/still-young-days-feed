@@ -1,8 +1,23 @@
 {
  "schemaVersion": 1,
  "regionCode": "41111",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15641&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "2026년 9월 업무추진비 집행내역 공개",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "2026년 9월 SK청솔노인복지관 업무추진비 집행내역을 붙임과 같이 공개합니다.",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15641&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
   {
    "type": "event",
    "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15680&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
@@ -17,6 +32,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15680&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15692&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "2026년 영양톡톡 9호",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "2026년 영양톡톡 9호",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15692&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
   },
   {
    "type": "event",

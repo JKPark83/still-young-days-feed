@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11650",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
   {
    "type": "event",
@@ -110,21 +110,6 @@
   },
   {
    "type": "event",
-   "id": "center:seoul-071:228",
-   "title": "[연계] 서초시니어라운지 서리풀 AI학교 수강생 모집 안내",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆< 서초시니어라운지 서리풀 AI학교> 수강생 모집 안내☆★ 회원님, 안녕하세요? 신중년의 품격을 더하는 반포느티나무쉼터입니다. 챗GPT, 제미나이 등 생성형 AI를 활용해 생활에 필요한 기능을 배우고, 가족을 위한 선물부터 시화·영상까지 직접 만들어보는 「서리풀 AI학교」 수강생을 모집합니다. 가까운 서초시니어라운지 에서 AI를 배우고 활용해보세요.…",
-   "eventDate": "2026-10-21",
-   "eventEnd": "2026-12-02",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=228&page=2"
-  },
-  {
-   "type": "event",
    "id": "center:seoul-071:236",
    "title": "[수강확정안내] ★☆서초3동 서초시니어라운지 2차 서리풀 AI학교 수강확정자 및 대기자 안내☆★",
    "place": "반포느티나무쉼터",
@@ -197,21 +182,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=246&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-071:243",
-   "title": "[11월 시네마] 이태영 큐레이터와 함께하는 시네마데이 신청 안내 <메종 드 히미코(2006), 어톤먼트(2007)>…",
-   "place": "반포느티나무쉼터",
-   "address": null,
-   "phone": "02-535-5090",
-   "org": "반포느티나무쉼터",
-   "description": "★☆11월 이태영 큐레이터와 함께하는 시네마데이 신청 안내(주제:\"용서하는 용기\")☆★ 회원님, 안녕하세요? 반포느티나무쉼터에서 상영하는 11월 시네마 신청안내입니다. 11월에는 \"용서하는 용기\"를 주제로 이태영 큐레이터와 함께하는 세대공감 시네마데이를 진행합니다. <11월 세대공감 시네마데이> 1. 일자/작품명 1) 11월 6일(금) / 메종 드 히미코…",
-   "eventDate": "2026-11-06",
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.banposenior.org/bbs/board.php?bo_table=0401&wr_id=243&page=1"
   },
   {
    "type": "event",

@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "11590",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:seoul-063:566",
-   "title": "[지역홍보] 10월 건강장수 프로그램",
-   "place": "사당어르신종합복지관",
-   "address": null,
-   "phone": "02-580-2410",
-   "org": "사당어르신종합복지관",
-   "description": "988010681_1791360543.3244.png",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.sadangeorsin.or.kr/bbs/board.php?bo_table=0301&wr_id=566&page=1"
-  },
   {
    "type": "event",
    "id": "center:seoul-063:567",

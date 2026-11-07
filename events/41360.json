@@ -1,23 +1,8 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
-  {
-   "type": "event",
-   "id": "center:gyeonggi-026:bbs",
-   "title": "복지관 사칭 물품 · 공사 발주 주의 안내",
-   "place": "남양주시동부노인복지관",
-   "address": null,
-   "phone": "031-559-5880",
-   "org": "남양주시동부노인복지관",
-   "description": "안녕하세요 ~ 남양주시 행복지킴이, 어르신의 행복지킴이 남양주시동부노인복지관입니다. 최근 복지관 직원을 사칭하여 허위 공문, 명함 등으로 물품 공사 · 발주를 시도하는 사례가 발생하고 있습니다. 남양주시동부노인복지관에서는 전화나 문자로 선결제 또는 금전요구를 절대 하지 않습니다. 위와 같은 의심 사례 발생 시 즉시 복지관(031-559-5880)으로 연락…",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.dongbusenior.or.kr/bbs/?act=bbs&subAct=view&bid=notice&page=1&order_type=desc&seq=4637"
-  },
   {
    "type": "event",
    "id": "center:gyeonggi-027:225",
@@ -47,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=289&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-026:bbs",
-   "title": "72마 3736 셔틀버스 차량 고장으로 인한 미운행 안내",
-   "place": "남양주시동부노인복지관",
-   "address": null,
-   "phone": "031-559-5880",
-   "org": "남양주시동부노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.dongbusenior.or.kr/bbs/?act=bbs&subAct=view&bid=notice&page=1&order_type=desc&seq=5026"
   },
   {
    "type": "event",
@@ -125,21 +95,6 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-026:bbs",
-   "title": "[노인상담센터] 무료 법률상담 안내",
-   "place": "남양주시동부노인복지관",
-   "address": null,
-   "phone": "031-559-5880",
-   "org": "남양주시동부노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.dongbusenior.or.kr/bbs/?act=bbs&subAct=view&bid=notice&page=1&order_type=desc&seq=5041"
-  },
-  {
-   "type": "event",
    "id": "center:gyeonggi-027:307",
    "title": "[마감] 사단법인 코리아가수협회 구리지회와 함께하는 추억의 디스코 파티 행사 안내",
    "place": "남양주시다산노인복지관",
@@ -200,36 +155,6 @@
   },
   {
    "type": "event",
-   "id": "center:gyeonggi-026:bbs",
-   "title": "[남양주시동부노인복지관] 시니어 AI아카데미 「단짝 AI교실」 및 AI디지털배움터 「스마트폰 기초교육」 참여자 모집",
-   "place": "남양주시동부노인복지관",
-   "address": null,
-   "phone": "031-559-5880",
-   "org": "남양주시동부노인복지관",
-   "description": "안녕하세요 ~ 남양주시 행복지킴이, 어르신의 행복지킴이 남양주시동부노인복지관입니다. 2026년 경기도노인종합복지관협회, 경기 AI디지털배움터의 지원으로 진행되는 시니어 AI아카데미 「단짝 AI교실」과 AI디지털배움터 「스마트폰 기초교육」 참여자를 모집합니다. 스마트폰 기초부터 생활 속 AI 활용까지 어르신을 위한 맞춤형 디지털 교육을 무료로 만나보세요 !…",
-   "eventDate": "2026-10-20",
-   "eventEnd": "2026-12-08",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.dongbusenior.or.kr/bbs/?act=bbs&subAct=view&bid=notice&page=1&order_type=desc&seq=5021"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-026:bbs",
-   "title": "[화도노인복지관] 2026년 2차 이용자 고충처리 결과보고",
-   "place": "남양주시동부노인복지관",
-   "address": null,
-   "phone": "031-559-5880",
-   "org": "남양주시동부노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.dongbusenior.or.kr/bbs/?act=bbs&subAct=view&bid=notice&page=1&order_type=desc&seq=5062"
-  },
-  {
-   "type": "event",
    "id": "center:gyeonggi-027:309",
    "title": "[안내] 사회공헌형 체험활동(디지털 기기체험) 참여 안내",
    "place": "남양주시다산노인복지관",
@@ -272,21 +197,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=310&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-026:bbs",
-   "title": "[공지] 경기도 노인복지관, 노인상담센터 운영비 예산 복구",
-   "place": "남양주시동부노인복지관",
-   "address": null,
-   "phone": "031-559-5880",
-   "org": "남양주시동부노인복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.dongbusenior.or.kr/bbs/?act=bbs&subAct=view&bid=notice&page=1&order_type=desc&seq=5095"
   },
   {
    "type": "event",

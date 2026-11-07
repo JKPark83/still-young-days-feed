@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "26140",
- "generatedAt": "2026-11-06T23:58:15Z",
+ "generatedAt": "2026-11-07T22:47:12Z",
  "items": [
   {
    "type": "event",
@@ -62,36 +62,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/127140?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:131027",
-   "title": "[보건//의료] 청력검사 및 보청기 관련 상담 안내",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "K-019.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131027?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:131024",
-   "title": "[보건/의료] 감염병예방관리 강좌 안내",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "K-018.jpg",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131024?page=1"
   },
   {
    "type": "event",
@@ -182,36 +152,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "http://www.woorinoin.or.kr/menu71/131321?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:131356",
-   "title": "[상담사업]2026년 하반기 상담주간 안내",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "서구노인복지관 2026년 하반기 상담주간 생활 속 어려움, 함께 풀어드립니다 상담주간 안내 법률, 세금, 건강, 영양, 마음 고민까지, 혼자 끙끙 앓지 마시고 복지관에 편하게 물어보세요. 내부 전문인력과 외부 전문기관이 함께 도와드립니다. 기간 2026년 11월 2일(월) ~ 11월 6일(금) 장소 서구노인복지관 상담실 · 물리치료실 (방문이 어려우신 분…",
-   "eventDate": "2026-11-02",
-   "eventEnd": "2026-11-06",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131356?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:busan-003:131356",
-   "title": "[상담사업]2026년 하반기 상담주간 안내",
-   "place": "서구노인복지관",
-   "address": null,
-   "phone": "051-240-3541",
-   "org": "서구노인복지관",
-   "description": "서구노인복지관 2026년 하반기 상담주간 생활 속 어려움, 함께 풀어드립니다 상담주간 안내 법률, 세금, 건강, 영양, 마음 고민까지, 혼자 끙끙 앓지 마시고 복지관에 편하게 물어보세요. 내부 전문인력과 외부 전문기관이 함께 도와드립니다. 기간 2026년 11월 2일(월) ~ 11월 6일(금) 장소 서구노인복지관 상담실 · 물리치료실 (방문이 어려우신 분…",
-   "eventDate": "2026-11-02",
-   "eventEnd": "2026-11-06",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "http://www.woorinoin.or.kr/menu71/131356?page=1"
   },
   {
    "type": "event",
