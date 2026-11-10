@@ -1,8 +1,23 @@
 {
  "schemaVersion": 1,
  "regionCode": "41111",
- "generatedAt": "2026-11-08T23:00:39Z",
+ "generatedAt": "2026-11-10T02:13:44Z",
  "items": [
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15569&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "[안내] 2026년 4분기 청솔평생대학 정원 미달 프로그램 안내",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "[안내] 2026년 4분기 청솔평생대학 정원 미달 프로그램 안내",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15569&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
   {
    "type": "event",
    "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15707&Thread=A&Type=edit&Page=1&Next=view&Category=전체&StageNum=none&SearchKey=&Key=",

@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11320",
- "generatedAt": "2026-11-08T23:00:39Z",
+ "generatedAt": "2026-11-10T02:13:44Z",
  "items": [
   {
    "type": "event",
@@ -32,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dobongnoin.or.kr/notice/89982?page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-028:90036",
-   "title": "노인맞춤돌봄 특화지원 우울완화 프로그램",
-   "place": "도봉노인종합복지관",
-   "address": null,
-   "phone": "02-993-9900",
-   "org": "도봉노인종합복지관",
-   "description": "제목을 입력해주세요. (5).jpg 9월 1일 (화)~ 10월 6일 (화) 노인맞춤돌봄서비스 이용 어르신 10명을 대상으로 우울감 완화와 정서적 지지를 위한 특화지원서비스 자조모임을 진행하였습니다. 상반기 총 13회기의 우울완화 집단프로그램을 마친 후, 참여 어르신 간 지속적인 관계 형성과 정서적 교류를 위해 9월부터 총 6회기의 자조모임을 운영하였습니다…",
-   "eventDate": "2027-09-01",
-   "eventEnd": "2027-10-06",
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dobongnoin.or.kr/notice/90036?page=1"
   }
  ]
 }

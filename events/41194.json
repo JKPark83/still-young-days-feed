@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41194",
- "generatedAt": "2026-11-08T23:00:39Z",
+ "generatedAt": "2026-11-10T02:13:44Z",
  "items": [
   {
    "type": "event",
@@ -137,6 +137,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261104095622103"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "[노인권익증진사업] 내 개인정보가 걱정되시나요?",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261109174238363"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-024:BD_selectBbs.do",
+   "title": "[노인권익증진사업] 어르신의 소중한 인권, 부천시소사노인복지관이 함께 지킵니다!",
+   "place": "소사노인복지관",
+   "address": null,
+   "phone": "032-347-9534",
+   "org": "소사노인복지관",
+   "description": "어르신의 소중한 인권, 부천시소사노인복지관이 함께 지킵니다! 모든 어르신은 존중받고 배려받으며, 차별과 폭력으로부터 보호받을 권리가 있습니다. 부천시소사노인복지관은 어르신 한 분 한 분의 목소리에 귀 기울이며, 누구나 존중받고 안심하고 이용할 수 있는 복지관을 만들어가고자 합니다. 복지관 이용 중 불편하거나 부당한 일을 경험하셨나요? 혼자 고민하지 마시고…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261109174040585"
   }
  ]
 }

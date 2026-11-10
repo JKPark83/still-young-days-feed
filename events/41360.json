@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-11-08T23:00:39Z",
+ "generatedAt": "2026-11-10T02:13:44Z",
  "items": [
   {
    "type": "event",
@@ -152,6 +152,36 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=313&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:315",
+   "title": "[공지] 「2027년 남양주시다산노인복지관 식자재 납품업체 선정」 제안서 평가위원회 예비평가위원(후보자) 모집 공고",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "「 2027 년 남양주시다산노인복지관 식자재 납품업체 선정 」 을 위한 제안서 평가위원회 예비평가위원 ( 후보자 ) 을 붙임과 같이 공개 모집하오니 많은 참여 바랍니다 . 1. 입찰건명 : 2027 년 남양주시다산노인복지관 식자재 납품업체 선정 2. 모집인원 : 예비평가위원 24 명 ( 제안서 평가위원회 구성인원 8 명의 3 배수 ) 3. 자격조건 : 식…",
+   "eventDate": "2026-11-09",
+   "eventEnd": "2026-11-18",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=315&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:314",
+   "title": "[공지] 2027년 남양주시다산노인복지관 식자재 납품업체 선정 입찰 공고",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "「 2027 년 남양주시다산노인복지관 식자재 납품업체 선정 」 을 위해 붙임과 같이 공고하오니 해당 업체의 많은 참여 바랍니다 . 1. 입찰건명 : 2027 년 남양주시다산노인복지관 식자재 납품업체 선정 2. 기초금액 : 금 162.000.000 원 ( 금일억육천이백만원 ) [ 부가가치세 포함 ] 3. 납품품목 : 곡류 , 농산물 , 수산물 , 축산물류…",
+   "eventDate": "2027-01-01",
+   "eventEnd": "2027-12-31",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=314&page=1"
   }
  ]
 }
