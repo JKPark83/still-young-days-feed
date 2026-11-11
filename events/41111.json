@@ -1,8 +1,23 @@
 {
  "schemaVersion": 1,
  "regionCode": "41111",
- "generatedAt": "2026-11-10T02:13:44Z",
+ "generatedAt": "2026-11-11T00:16:57Z",
  "items": [
+  {
+   "type": "event",
+   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15680&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
+   "title": "[입찰] 2027년 SK청솔노인복지관 식자재납품업체 선정 공고",
+   "place": "SK청솔노인복지관",
+   "address": null,
+   "phone": "031-257-6811",
+   "org": "SK청솔노인복지관",
+   "description": "우리 복지관에서는 식자재 납품업체 계약 만료 도래에 따라 「 지방자치단체를 당사자로 하는 계약에 관한 법률 」 에 근거하여 2027 년 SK 청솔노인복지관 식자재 납품업체를 공개입찰하여 선정하고자 합니다 . 1. 공고일정 내 용 일 정 비 고 공고기간 2026. 10. 26.(월 ) ~ 11. 16.(월 ) 복지관 홈페이지 및 나라장터 공고 참가등록 ,…",
+   "eventDate": "2026-10-26",
+   "eventEnd": "2026-11-16",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15680&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
+  },
   {
    "type": "event",
    "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15569&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key=",
@@ -17,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15569&Thread=A&Type=edit&Page=1&Next=view&Category=공지사항&StageNum=none&SearchKey=&Key="
-  },
-  {
-   "type": "event",
-   "id": "center:gyeonggi-004:https://www.scsnoin.or.kr/?state=notice&Page=1&No=15707&Thread=A&Type=edit&Page=1&Next=view&Category=전체&StageNum=none&SearchKey=&Key=",
-   "title": "[안내] 경기도 노인복지관 예산 삭감 철회를 위한 서명운동 동참 안내",
-   "place": "SK청솔노인복지관",
-   "address": null,
-   "phone": "031-257-6811",
-   "org": "SK청솔노인복지관",
-   "description": "[안내] 경기도 노인복지관 예산 삭감 철회를 위한 서명운동 동참 안내 [안내] 경기도 노인복지관 예산 삭감 철회를 위한 서명운동 동참 안내",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://www.scsnoin.or.kr/?state=notice&Page=1&No=15707&Thread=A&Type=edit&Page=1&Next=view&Category=전체&StageNum=none&SearchKey=&Key="
   },
   {
    "type": "event",

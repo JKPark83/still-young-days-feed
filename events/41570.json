@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41570",
- "generatedAt": "2026-11-10T02:13:44Z",
+ "generatedAt": "2026-11-11T00:16:57Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4292&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-040:4294",
+   "title": "김포시노인종합복지관 2027년 동계방학 중 사회복지현장실습 실습생 모집",
+   "place": "김포시노인종합복지관",
+   "address": null,
+   "phone": "031-997-9300",
+   "org": "김포시노인종합복지관",
+   "description": "김포시노인종합복지관 2027 년 동계방학 중 사회복지 현장실습생 모집 1. 모집기간 : 2026. 11. 11.(수 ) ~ 2026. 11. 25.(수 ) 2. 모집인원 가 . 사회복지 전공 및 복수전공 대학생 6 명 (4 년제 대학교 및 전문대학 교육과정 재학생 ) 나 . 동일대학 최대 2 명 선발 다 . 사회복지사 국가시험 과목 중 4 과목 이상 이수…",
+   "eventDate": "2026-11-11",
+   "eventEnd": "2026-11-25",
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://gimposenior.org/bbs/board.php?bo_table=0501&wr_id=4294&page=1"
   }
  ]
 }
