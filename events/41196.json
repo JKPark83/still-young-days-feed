@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41196",
- "generatedAt": "2026-11-11T00:16:57Z",
+ "generatedAt": "2026-11-12T01:39:52Z",
  "items": [
   {
    "type": "event",
@@ -47,6 +47,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261106115055985"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-025:BD_selectBbs.do",
+   "title": "[모집] 전문상담 상속 및 증여관련 세무 공개강좌 참여자 모집",
+   "place": "오정노인복지관",
+   "address": null,
+   "phone": "032-683-9290",
+   "org": "오정노인복지관",
+   "description": "[상속과 증여_어르신이 꼭 알아야할 세무상식] 어르신들의 많은 관심과 참여 바랍니다~! ○ 모집대상 : 복지관 이용 어르신 60명(*선착순접수) ○ 모집기간 : ~11월 17일(화) ○ 신청방법 : 전화 및 방문접수 ○ 진행일시: 11/18(수) 오후 2시30분~4시 ○ 장소: 본관4층 강당 ☎ 신청/문의: 032-683-9290 / 본관 2층 사무실",
+   "eventDate": "2026-11-17",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://senior.bucheon4u.kr/senior/user/bbs/BD_selectBbs.do?q_domnCode=2&q_bbsCode=1005&q_bbscttSn=20261112103050245"
   }
  ]
 }

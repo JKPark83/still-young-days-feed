@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11230",
- "generatedAt": "2026-11-11T00:16:57Z",
+ "generatedAt": "2026-11-12T01:39:52Z",
  "items": [
   {
    "type": "event",
@@ -32,21 +32,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=818"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-015:notice.asp",
-   "title": "[안내] 노인의 날 기념 SNS 이벤트 당첨자 발표",
-   "place": "동백꽃노인종합복지관",
-   "address": null,
-   "phone": "02-2212-1201",
-   "org": "동백꽃노인종합복지관",
-   "description": "",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=965"
   },
   {
    "type": "event",
@@ -91,7 +76,7 @@
    "eventEnd": null,
    "applyStart": null,
    "source": "crawl",
-   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=971"
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=2&pageSize=10&search=0&serboardsort=&searchStr=&idx=971"
   },
   {
    "type": "event",
@@ -182,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=998"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-015:notice.asp",
+   "title": "[모집] 11월 스마트 일일특강 참여자 모집",
+   "place": "동백꽃노인종합복지관",
+   "address": null,
+   "phone": "02-2212-1201",
+   "org": "동백꽃노인종합복지관",
+   "description": "",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dbfsenior.org/community/notice.asp?mode=view&page=1&pageSize=10&search=0&serboardsort=&searchStr=&idx=1001"
   }
  ]
 }
