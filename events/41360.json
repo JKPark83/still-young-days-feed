@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "41360",
- "generatedAt": "2026-11-12T01:39:52Z",
+ "generatedAt": "2026-11-13T00:10:12Z",
  "items": [
   {
    "type": "event",
@@ -167,6 +167,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=315&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:gyeonggi-027:316",
+   "title": "[모집] 11월 촉탁의 진료 참여자 모집",
+   "place": "남양주시다산노인복지관",
+   "address": null,
+   "phone": "031-522-6406",
+   "org": "남양주시다산노인복지관",
+   "description": "[ 전화접수시 , 회원번호 말씀 후 ' 촉탁의 진료 ' 라고 말씀해주세요 !] - 장소 : 복지관 1 층 치유숲 - 신청방법 : 방문 및 전화접수 ☎ 070-4616-0656 - 접수일정 : 11. 13.(금 ) ~ 18.( 수 ) ~16:00 까지 - 진료일시 : 11. 20.( 금 ) 11:00 ~ 11:30 - 모집인원 : 복지관 회원 20 명 (…",
+   "eventDate": null,
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://dasanswc.or.kr/bbs/board.php?bo_table=notice&wr_id=316&page=1"
   },
   {
    "type": "event",
