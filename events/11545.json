@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11545",
- "generatedAt": "2026-11-13T00:10:12Z",
+ "generatedAt": "2026-11-14T00:29:14Z",
  "items": [
   {
    "type": "event",
@@ -17,21 +17,6 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=715&page=1"
-  },
-  {
-   "type": "event",
-   "id": "center:seoul-059:1417",
-   "title": "노인사회활동지원사업 참여자 평가회 행사 지원",
-   "place": "금천노인종합복지관",
-   "address": null,
-   "phone": "02-804-4058",
-   "org": "금천노인종합복지관",
-   "description": "노인사회활동지원사업 참여자 평가회 행사 지원 일시 : 11/2(월) 14:00 ~ 17:30(3.5h) 장소 : 금천구청 12층 대강당 내용 : 평가회 참여 어르신 안전관리, 행사장 세팅, 행사 안내 등 인원 : 2명 문의 : 전지은 대리(070-7090-5416)",
-   "eventDate": null,
-   "eventEnd": null,
-   "applyStart": null,
-   "source": "crawl",
-   "sourceUrl": "https://hello-senior.or.kr/bbs/board.php?bo_table=0501&wr_id=1417&page=1"
   },
   {
    "type": "event",

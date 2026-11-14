@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "regionCode": "11170",
- "generatedAt": "2026-11-13T00:10:12Z",
+ "generatedAt": "2026-11-14T00:29:14Z",
  "items": [
   {
    "type": "event",
@@ -122,6 +122,21 @@
    "applyStart": null,
    "source": "crawl",
    "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2385&page=1"
+  },
+  {
+   "type": "event",
+   "id": "center:seoul-004:2386",
+   "title": "[무료급식사업] 2027년도 도시락 · 밑반찬 제조 납품업체 선정 공고",
+   "place": "용산노인종합복지관",
+   "address": null,
+   "phone": "02-794-6100",
+   "org": "용산노인종합복지관",
+   "description": "시립용산노인종합복지관에서는 도시락 · 밑반찬 제조 납품업체를 선정하기 위해 아래와 같이 공고하오니 관심 있는 업체의 많은 참여 바랍니다 . 1. 공고사항 가 . 건 명 : 2027 년도 시립용산노인종합복지관 도시락 · 밑반찬 제조 납품업체 선정 나 . 납품기간 1) 도시락 : 2027 년 1 월 1 일 ~ 2027 년 12 월 31 일 (12 개월 ) 다…",
+   "eventDate": "2027-01-01",
+   "eventEnd": null,
+   "applyStart": null,
+   "source": "crawl",
+   "sourceUrl": "https://www.ysnoin.or.kr/bbs/board.php?bo_table=0101&wr_id=2386&page=1"
   }
  ]
 }
